@@ -1,0 +1,67 @@
+---
+tags: [public-folder, collection]
+branch: "Updated Matric"
+files: 53
+drive: https://drive.google.com/drive/folders/1OiWYoMUFgOupO3Nso43eY1C-536oNwcg
+---
+# Matric Printed covers
+
+Up: [[Public Folder/Branches/Updated Matric|Updated Matric]] · [Open in Drive](https://drive.google.com/drive/folders/1OiWYoMUFgOupO3Nso43eY1C-536oNwcg)
+
+**53 files**
+
+## Contents
+- [IsiZulu Back Cover.pdf](https://drive.google.com/file/d/1B_Vl_PFAGKlWLCoMwzOnnFqdDwgfb0Rt/view)
+- [Fiela se kind Cover.jpg](https://drive.google.com/file/d/1NWG4ko9Kb_qYiSi41u3I8rgdGInEH77z/view)
+- [Lejwe la Kgopiso.pdf](https://drive.google.com/file/d/1UycAtFNR1RGmbau3u3mYNY44_cDoLxka/view)
+- [Afrtican Lang cover.pdf](https://drive.google.com/file/d/13erUuZYVXROIrUd9hwptZf41rPMbHrWs/view)
+- [African lang cover.pdf](https://drive.google.com/file/d/14uQszJLfX0HmVDoR4T7xUjqjy-p9Q5bX/view)
+- [African lang cover.jfif](https://drive.google.com/file/d/1FqD4VsBaEF64TivwUU3I3JGEfaRcu1Gh/view)
+- [African lang cover.png](https://drive.google.com/file/d/1YkRWPQj1QFF7qzgio-ZaN6Ne8sStt2ov/view)
+- [Verse cover.jpg](https://drive.google.com/file/d/11eyzlTbSKswrXqa1gYnEVbqcrC_x3-T4/view)
+- [Tutudu ha e patwe Cover.png](https://drive.google.com/file/d/1oZQeQqAWivb7jWA4jWvTBJecszLEBMdW/view)
+- [siswati lami cover.pdf](https://drive.google.com/file/d/1-BHEsBsGJB4IniI0SYJO-p4iIsbYpOe0/view)
+- [Zulu Awuwelwa Cover.pdf](https://drive.google.com/file/d/1AGaVqv0Xm6omJ5pjq9CwTePeLqfrWqpV/view)
+- [badimo ba.jpg](https://drive.google.com/file/d/1LbKTB0sXd9SQMlq1nHbzDi_NxObXtCTr/view)
+- [African Lang cover (3).jpg](https://drive.google.com/file/d/1DrlEnGo37d5uJ2wXxkXxcOI_OG16Z348/view)
+- [Impi Delivery Cover.pdf](https://drive.google.com/file/d/1Pn-ALImrGzxHK9XO4mEJRfvVYLc-IF3O/view)
+- [ifindo Cover.pdf](https://drive.google.com/file/d/1D-cVvvgcsTyci1QyQfSRaWOdZWyhW_Bu/view)
+- [African Lang Cover (2).jpg](https://drive.google.com/file/d/1bPg6-urM-YFsn2JYKh2q6TDAS8Htz0tH/view)
+- [Ximitantsengele Cover.jpg](https://drive.google.com/file/d/19CxAlGV_flYQPN-jZgqm1DwxkRVk4Vb7/view)
+- [Macbeth Cover.png](https://drive.google.com/file/d/1fzd147DIS4GPWCAEHTgPYR9creBiQmeH/view)
+- [Onderwereld Cover.jpg](https://drive.google.com/file/d/1AOnVtwoKgZ50Uq3VsvYa5IaMx-QCPYfo/view)
+- [Krismis van Map Jacobs_ Cover.jpg](https://drive.google.com/file/d/1Y-rKJ1IZQ1t_XbN3xS_WGl46Sjmu08M_/view)
+- [AFrican Lang Cover (4).jpg](https://drive.google.com/file/d/19zIBVzBNoME19_ylkqU1oo-ugWv1Z-Zi/view)
+- [Hamlet Cover.jpg](https://drive.google.com/file/d/1_R1rsU6KC77-sKRbP6ckaw_AG4AP2StU/view)
+- [Dorian Gray,Cover.jpg](https://drive.google.com/file/d/16R-MKY_k8ML9znb0V2YRxFWjpNqHavKv/view)
+- [Lien se langskoene Cover.jpg](https://drive.google.com/file/d/1NGxoJbPOz0useViSWXeRN8uZ6ReahseY/view)
+- [African lan cover.jpg](https://drive.google.com/file/d/1IumiVtqCwx7yGR3kQCu3dnt1G9_6Mt6x/view)
+- [African lang cover.jpg](https://drive.google.com/file/d/1ICpWw3x87PcCufzJJJlvW7iMND1f2B8t/view)
+- **Matric study packs** · 27 files · [Drive](https://drive.google.com/drive/folders/1UWUNN4kO6lBDLcwQNflIumK_rz-Ap6_H)
+	- [Xitsonga.pdf](https://drive.google.com/file/d/1lrRvFoIoomlJ1qt3PG3Jby72csYLqRGY/view)
+	- [Tshivenda.pdf](https://drive.google.com/file/d/1fbWy0ZeJzGmROpJ4ExHg3ts1_pcpo-bo/view)
+	- [Math Lit exam pack_merged.pdf](https://drive.google.com/file/d/1B0RmaLmS95Q55_Rogcab73PVTAB7NCYm/view)
+	- [Besigheids studies.pdf](https://drive.google.com/file/d/1G_LyxzD-p5esqqwKkzJ52IlebhW93zQP/view)
+	- [English HL.pdf](https://drive.google.com/file/d/1KxSUuB-_7rcqgYH8Gvhb5jpnC59vM1W8/view)
+	- [History.pdf](https://drive.google.com/file/d/1KTuKAN4kQXhvm5TIutskxkDLMLYj4PA9/view)
+	- [Geography.pdf](https://drive.google.com/file/d/1zGJB7uPsGCbhLZS2OVRIxWg2VxkPNBzp/view)
+	- [Physical Science.pdf](https://drive.google.com/file/d/1QTuSIQ4XU3A22vgbXmEtaIdpJaNNO4aq/view)
+	- [Accounting.pdf](https://drive.google.com/file/d/1ZYXs7scYNB7btxbOZBYfkaj5gKqRS4AS/view)
+	- [Wiskunde.pdf](https://drive.google.com/file/d/1PAv5pnWY_GQw9Bt77Jq2nU1kNjVWyS6k/view)
+	- [Wiskunde Geletterdheid.pdf](https://drive.google.com/file/d/1TcY_8Syspmvek_hiVLQenv9lN_clYbCg/view)
+	- [Rekeningkunde.pdf](https://drive.google.com/file/d/1e5_KlNY_1w0ZHxLFBgNRCfZOFW_FvgLt/view)
+	- [Life science.pdf](https://drive.google.com/file/d/19aAY665_BNojrdeCgkvKa8ORjwyzMqMi/view)
+	- [Mathematics.pdf](https://drive.google.com/file/d/1g_m5pnbhiQQ85hvbPimE7cUjlLoWYa06/view)
+	- [Lewenswettenskappe.pdf](https://drive.google.com/file/d/16Miv10ogek8OALkoW1RYiLp2ryseBhVY/view)
+	- [Landbou.pdf](https://drive.google.com/file/d/1SaNZI194tchbVj5CvMAZN3eOfoxteTIA/view)
+	- [Geskiedenis.pdf](https://drive.google.com/file/d/1MBUAcrp7TQrJNeyf0bo-y1H6-2ZYLsWH/view)
+	- [Geografie.pdf](https://drive.google.com/file/d/1uEGa6HOTFjPy97LjRnw2xnT6_Wt-7huR/view)
+	- [Fisiese Wetenskappe.pdf](https://drive.google.com/file/d/1c0BRUp2h6DGTYdG8yMZxaIXMvSn8GuN_/view)
+	- [Economics.pdf](https://drive.google.com/file/d/1GcH7efOtqdO3_oyo7-KdvN63VQQlY2Ao/view)
+	- [Agriculture.pdf](https://drive.google.com/file/d/1zgMEo_-iOfLho6aMP_bjDU8b5nQyWYoQ/view)
+	- [English FAL.pdf](https://drive.google.com/file/d/15CVQMoOl1cf3LyaX6z7PVEmyvliSKTkI/view)
+	- [Business Studies.pdf](https://drive.google.com/file/d/1nkYKqrcPU_emnooddvqDqzdc5f7jIn06/view)
+	- [Ekonomie.pdf](https://drive.google.com/file/d/1qM7XuNSqgad6vSxW21qr1DgSUwO976fX/view)
+	- [Afrikaans Huistaal.pdf](https://drive.google.com/file/d/141fMo0hTYdDPcQYob_s3A-qlIdxEBVnJ/view)
+	- [Afrikaans FAL.pdf](https://drive.google.com/file/d/1IFlKk64C1YMYYGlr1qlFclT9g2A7usKW/view)
+	- [Religie.pdf](https://drive.google.com/file/d/1TF2fntIqftEK2yuUK00ySbVtJaRi746t/view)

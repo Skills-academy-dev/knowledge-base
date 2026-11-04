@@ -1,0 +1,67 @@
+---
+tags: [public-folder, collection]
+branch: "ICB 2025"
+files: 53
+drive: https://drive.google.com/drive/folders/1nuzT6soFhbHG_h7StPh7eUeCQgJfId8B
+---
+# ICB 2025 Assessment Guides
+
+Up: [[Public Folder/Branches/ICB 2025|ICB 2025]] · [Open in Drive](https://drive.google.com/drive/folders/1nuzT6soFhbHG_h7StPh7eUeCQgJfId8B)
+
+**53 files**
+
+## Contents
+- [ICB Public Accounting Administration Assessment Guide.pdf](https://drive.google.com/file/d/1r-y43mQ5-hLJuLamq-bZo1e_FjEzojln/view)
+- [ICB Payroll and Monthly SARS Assessment Guide.pdf](https://drive.google.com/file/d/1awAilqyF1HV9AC1OEOujSmAo83RTSy7z/view)
+- [ICB Marketing Management Assessment Guide.pdf](https://drive.google.com/file/d/1i8LkzOneKvL8sF1CfEYHETJCI9SUctaA/view)
+- [ICB Management Accounting and Control Systems Assessment Guide.pdf](https://drive.google.com/file/d/17LWyy9G6GAzKX-LO-H5cbJpqatYwzG-l/view)
+- [ICB Human Resource Management and Labour Relations Assessment Guide.pdf](https://drive.google.com/file/d/1_U_heFKX_QFd6sgqHPti3Q6e7mNywd31/view)
+- [ICB Financial Statements Assessment Guide.pdf](https://drive.google.com/file/d/1HdkYJXij3lEWajPkcwMAdJqGbFaBxgLx/view)
+- [ICB Financial Reporting and Regulatory Frameworks Assessment Guide.pdf](https://drive.google.com/file/d/1--UssZgWbh_mtEUGsfMDn5k1E7ZI784S/view)
+- [ICB Financial Management and Control Assessment Guide.pdf](https://drive.google.com/file/d/1PvcRueivMZBMdVz1XwD7XkERuclawYEw/view)
+- [ICB Entrepreneurship 2 Assessment Guide.pdf](https://drive.google.com/file/d/1OPwk-6MlUPrlZBwxSpD5gjqlG1ALSMBI/view)
+- [ICB Economics Assessment Guide.pdf](https://drive.google.com/file/d/1Mx0MCKSoM5F1kyGai2g8aE-hutl24lZ-/view)
+- [ICB Cost Management and Accounting Control Assessment Guide.pdf](https://drive.google.com/file/d/1ChMpsWyqqHubpDwMMrn1qmFvUOZf01S-/view)
+- [ICB Computerised Bookkeeping Assessment Guide.pdf](https://drive.google.com/file/d/1uAgayk9yrGczfRsB3q1-DeA5ckN8QixB/view)
+- [ICB Business Management 2 Assessment Guide.pdf](https://drive.google.com/file/d/14K69l4i4wZIwhNls-WYQWYAuJpPCIOG2/view)
+- [ICB Business Management 1 Assessment Guide.pdf](https://drive.google.com/file/d/1F_vo_wqgkAzLMHhYyJ4kgRFODff1w73m/view)
+- [ICB Business Literacy Assessment Guide.pdf](https://drive.google.com/file/d/1gEolXqkv6JtR4sS99eoBHQP9exheEVTP/view)
+- [ICB Business and Office Administration 1 Assessment Guide.pdf](https://drive.google.com/file/d/1i-TcK6i2qc-e3ptXmVZouP1Wi8oYwoIs/view)
+- [ICB Bookeeping to Trial Balance Assessment Guide.pdf](https://drive.google.com/file/d/1cMcNNaec_IDQqBfRg5osXB-NgBUhFjGZ/view)
+- [ICB Office and Legal Practice Assessment Guide.pdf](https://drive.google.com/file/d/1tAvPf1ofUm2FZeYwMkD6MgZaWRDJ_Oy4/view)
+- [ICB Income Tax Returns Assessment Guide.pdf](https://drive.google.com/file/d/1Epgw41-yEOFu6yW2J9QaSYG9T5qx-juq/view)
+- [ICB Corporate Strategy Assessment Guide.pdf](https://drive.google.com/file/d/1qfuYL1qqvDGjsspmiN95sOXKvQPC_8Xu/view)
+- [ICB Business Law and Administrative Practice Assessment Guide.pdf](https://drive.google.com/file/d/1BFfqauIDDBwFXU5BkMSJ2m_uhd_iknXx/view)
+- [ICB Management Assessment Guide.pdf](https://drive.google.com/file/d/1mwenj1MrXxYON4tF3HhbCo-XH6P-SB_4/view)
+- [ICB Business Management 3 Assessment Guide.pdf](https://drive.google.com/file/d/1ICN97nH6LWKqM-QNrXEwtZWLZ_pDwbbP/view)
+- [ICB Entrepreneurship 1 Assessment Guide.pdf](https://drive.google.com/file/d/16MK3yTVMj-Hp3lieBZEs6l8lpHyeIiQC/view)
+- [ICB Business and Office Administration 3 Assessment Guide.pdf](https://drive.google.com/file/d/1fKgN5-2LQOQOpaiHRII_LBaWWEOBXB9o/view)
+- [ICB Business and Office Administration 2 Assessment Guide.pdf](https://drive.google.com/file/d/1r5bVR2-_EmdQGRaKS-Jd4djGaGcR4kSW/view)
+- **PUB** · 27 files · [Drive](https://drive.google.com/drive/folders/1CPP_3KtWI8Hrvaq0nr-nXYAB6Au_2kg_)
+	- [ICB Business Law and Accounting Control  Assessment Guide.pub](https://drive.google.com/file/d/1-TZaobvXL775Bm5Nci2CRQtRfyjw09cJ/view)
+	- [ICB Public Accounting Administration Assessment Guide.pub](https://drive.google.com/file/d/1pfkl0O3LbDxJ379TEcllqHC5UaFsW_OY/view)
+	- [ICB Management Assessment Guide.pub](https://drive.google.com/file/d/1ltyxWvOP8qK_mYkpcceOizp6OxCsveQZ/view)
+	- [ICB Office and Legal Practice Assessment Guide.pub](https://drive.google.com/file/d/1WMlNb5k2GqMfN9M5Sbu30c3oif_jAvxF/view)
+	- [ICB Marketing Management Assessment Guide.pub](https://drive.google.com/file/d/11pcJ42hdThSeEgosEYPMyk-awwxg0p5K/view)
+	- [ICB Economics Assessment Guide.pub](https://drive.google.com/file/d/1gDVL3ooN4VjVIhuWEAUl7V3Vy8nhgoHN/view)
+	- [ICB Financial Statements Assessment Guide.pub](https://drive.google.com/file/d/1hQcvlzgC57YkQB6UOjbXeuHbDZBReEVs/view)
+	- [ICB Management Accounting and Control Systems Assessment Guide.pub](https://drive.google.com/file/d/1jkoJ_BMb5QpKzc79naovkS4Q0eOMKPSN/view)
+	- [ICB Human Resource Management and Labour Relations Assessment Guide.pub](https://drive.google.com/file/d/1NNTqTjIX2hZITufKXRi6S4aOfhgth8jM/view)
+	- [ICB Cost Management and Accounting Control Assessment Guide.pub](https://drive.google.com/file/d/1AVfEnKiMWgzyq7luBtNL74oLMyTshaON/view)
+	- [ICB Financial Reporting and Regulatory Frameworks Assessment Guide.pub](https://drive.google.com/file/d/10TX7yN2GlhqiYl_evIpQdGML7Xg7-roT/view)
+	- [ICB Entrepreneurship 1 Assessment Guide.pub](https://drive.google.com/file/d/18RMTdiuU5S0Wtkewo1pYyUFehyByWVe4/view)
+	- [ICB Financial Management and Control Assessment Guide.pub](https://drive.google.com/file/d/1ZQ2di_cxc3CgMUFAZxnkS3KuCFC6nXnc/view)
+	- [ICB Income Tax Returns Assessment Guide.pub](https://drive.google.com/file/d/1vhaLNMNHbn0KcQQjGu7RV9yvXjkgI18v/view)
+	- [ICB Computerised Bookkeeping Assessment Guide.pub](https://drive.google.com/file/d/1hEa5wgDjGeR-2xTyhlimRzojp7uo_DBk/view)
+	- [ICB Corporate Strategy Assessment Guide.pub](https://drive.google.com/file/d/1ZiqS7iZemX8PjYgul33oSEpWbDvk4iXd/view)
+	- [ICB Business Management 1 Assessment Guide.pub](https://drive.google.com/file/d/1jItHDRFd6CLXRdC16soqbN4kW7lPnbdH/view)
+	- [ICB Business Management 3 Assessment Guide.pub](https://drive.google.com/file/d/1dDdfj_UlNSKMZq887NaHYSFusPKbUjuD/view)
+	- [ICB Business Management 2 Assessment Guide.pub](https://drive.google.com/file/d/1VqNgZAL9SYlOyJGsjtn2pfVLEl5EXEx0/view)
+	- [ICB Business Law and Administrative Practice Assessment Guide.pub](https://drive.google.com/file/d/1nx19ML_c2nRbhx9xGvIsRLcrS6eIyIuo/view)
+	- [ICB Bookeeping to Trial Balance Assessment Guide.pub](https://drive.google.com/file/d/1UAMUeugfMmnYnDR_g8eYWJXveEbXl3ff/view)
+	- [ICB Business and Office Administration 3 Assessment Guide.pub](https://drive.google.com/file/d/10F1xqCuI8TPHjHPA7OPoIHZEXwgJMh8g/view)
+	- [ICB Business and Office Administration 2 Assessment Guide.pub](https://drive.google.com/file/d/1zbjB5tF-ePMuxWVYvKgIPXx1zUHV0ZE5/view)
+	- [ICB Payroll and Monthly SARS Assessment Guide.pub](https://drive.google.com/file/d/1vpLuYxYwf0ywCbRIk9pqd3CdqYQkLt0a/view)
+	- [ICB Entrepreneurship 2 Assessment Guide.pub](https://drive.google.com/file/d/1cbZade9Lrx8Dp6hB6pmKQJGjlXRyXYES/view)
+	- [ICB Business Literacy Assessment Guide.pub](https://drive.google.com/file/d/1eQ5XNgoH5iHwwKrmsq6knqRX0D0WxH2J/view)
+	- [ICB Business and Office Administration 1 Assessment Guide.pub](https://drive.google.com/file/d/1QDWfTRQH1N7N-MR829pRRhlHeW8F_-7x/view)

@@ -1,0 +1,133 @@
+---
+tags: [public-folder, collection]
+branch: "New Nated"
+files: 78
+drive: https://drive.google.com/drive/folders/1VX2JYloWbjYjqqCNw23ZQ9lRzAGckTNT
+---
+# N4 Subjects
+
+Up: [[Public Folder/Branches/New Nated|New Nated]] · [Open in Drive](https://drive.google.com/drive/folders/1VX2JYloWbjYjqqCNw23ZQ9lRzAGckTNT)
+
+**78 files**
+
+## Subjects here
+[[Public Folder/Subjects/Child Health N4|Child Health N4]] · [[Public Folder/Subjects/Computer Practice N4|Computer Practice N4]] · [[Public Folder/Subjects/Ebm 4|Ebm 4]] · [[Public Folder/Subjects/Information Processing N4|Information Processing N4]] · [[Public Folder/Subjects/Introductory Accounting|Introductory Accounting]] · [[Public Folder/Subjects/Management Communication N4|Management Communication N4]] · [[Public Folder/Subjects/Marketing Management N4|Marketing Management N4]] · [[Public Folder/Subjects/Mercantile Law N4|Mercantile Law N4]] · [[Public Folder/Subjects/Office Practice N4|Office Practice N4]] · [[Public Folder/Subjects/Personnel Management N4|Personnel Management N4]]
+
+## Contents
+- **Child Health N4** · 5 files · [Drive](https://drive.google.com/drive/folders/1o97qt8p1EtQLBwajpGo32O_MBREVG0fg) [[Public Folder/Subjects/Child Health N4|◆ Child Health N4]]
+	- [Skills .pdf](https://drive.google.com/file/d/17obY24ezcmr5d2iKzzxIP2gl2s6cnyjb/view)
+	- [Child Health N4 FC.pdf](https://drive.google.com/file/d/15S1Bt4luhWBwk1ql6FxK_39cdYuCNHfY/view)
+	- **Bellview** · 1 files · [Drive](https://drive.google.com/drive/folders/1WkM8Gh7ni8iyh5Vnx-yPZVVO4r7MLHCY)
+		- [Child Health N4 Assessment Guide - Bellview (2).pdf](https://drive.google.com/file/d/1HzKc6yIB8oMksQCuSkT007o_OeCCrNBx/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1HU2L6zDwUFBW-hwNq6eIbqZnzEWEk8_X)
+		- [Child Health N4 Assessment Guide - Skills Academy (4).pdf](https://drive.google.com/file/d/1FZ7Yjo7RXjGfV8PysUMCPsBIt5y7M6mx/view)
+		- [Child Health N4 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1oVW-BCEeie7XMjV0CXUNZnY8TpJsJ_gX/view)
+- **Computer Practice N4** · 7 files · [Drive](https://drive.google.com/drive/folders/1VgVTtPtT5HS1I9wwm1hgOCRl85IXKqp3) [[Public Folder/Subjects/Computer Practice N4|◆ Computer Practice N4]]
+	- [Computer Practice N4 FC.pdf](https://drive.google.com/file/d/1EeJQO8Gha9u8qtku3CT1bjzcOtKh74HU/view)
+	- [Computer Practice N4 BC.pdf](https://drive.google.com/file/d/1NVpc6SP8eZTQ-U23FT-uE312m6vzn2_L/view)
+	- [Computer Practice N4 Textbook (1).pdf](https://drive.google.com/file/d/1ZbTXsVF6Db8HKnm8axI1HVXZUezUfpy3/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1s0iS2KXCg8acs8CV3-dDCublO9fETKhE)
+		- [Computer Practice N4 Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1suKGDHOkbxLAUrncJ0Fe5ae5b2r7CcLO/view)
+		- [Computer Practice N4 - Study Guide - Bellview.pdf](https://drive.google.com/file/d/1i-o8LM722MTM9lZpZkWtWzVzKe4u77vO/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1Mz_BXzDH3U3Pg7eCwTsXEskcMdazDrXQ)
+		- [Computer Practice N4 Assessment Guide - Skills (1).pdf](https://drive.google.com/file/d/1wow2WEa2utv7tKF7sfzTgc4hsWTrUTP5/view)
+		- [Computer Practice N4 - Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1Vvm_HjBeRgRIv2DvzfUWg6QoWy_HC4RR/view)
+- **Computerized Financial Systems** · 3 files · [Drive](https://drive.google.com/drive/folders/1G6gKUq3NO6UkPK4J9Qu13lqAGt36oHFa)
+	- **Bellview** · 1 files · [Drive](https://drive.google.com/drive/folders/15KgrD_ybmov67t1hRdPvmDIArzUT4EcP)
+		- [Computerised Financial Systems N5 Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/14WqOwzKmY6MQLY6xKY6yiZ5JR8OYJLS8/view)
+	- **Skills Academy** · 2 files · [Drive](https://drive.google.com/drive/folders/1SOrVryl5c7Fb14AfZ5VHBZ5YSaJ1v63f)
+		- [Computerised Financial Systems N5 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1gZpeDBZ4nNb9UHcqwrv3gCtuz4tpFIQh/view)
+		- [Computerised Financial Systems N4 Study Guide - Skills Academy (1).pdf](https://drive.google.com/file/d/1kAcICGZp9RLzyus6mbzyuuTIedtYb_fN/view)
+- **Day Care Personnel N4** · 4 files · [Drive](https://drive.google.com/drive/folders/1zFROVMLf4a9Qz96MTppOjZsw6j-aWQ8E)
+	- [Daycare Personnel Development N4 FC.pdf](https://drive.google.com/file/d/1JWaauVJiOI2gzkgLymq7zhlXK0M_hd3h/view)
+	- [Daycare Personnel Development N4 BC.pdf](https://drive.google.com/file/d/1N4ko6_lk3XefMtKi54gmqwiOv3Brn3Ve/view)
+	- **Bellview** · 1 files · [Drive](https://drive.google.com/drive/folders/1Hx_yR3UkJr8tJU36RIvR0nlu9-iOv1rQ)
+		- [Daycare Personnel Development N4 Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1xvAgdJGt0EJYC3H_ZAvU5NY4C7S14PDm/view)
+	- **Skills** · 1 files · [Drive](https://drive.google.com/drive/folders/1YFuP-5tHdMb4aZQ2pNvY7zhptLe8P7PY)
+		- [Daycare Personnel Development N4 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1hEjwy6FLsA1a91hjwpIpCaevmon2SsHI/view)
+- **EBM 4** · 6 files · [Drive](https://drive.google.com/drive/folders/1TC2DUPb5Syz1yan6HBMvDE0dkqZ9n5Dy) [[Public Folder/Subjects/Ebm 4|◆ Ebm 4]]
+	- [Entrepreneurship and Business Management N4 FC.pdf](https://drive.google.com/file/d/1fv_QkO_qVLZ5OYdb-hPFYggJWQm_FOz4/view)
+	- [Entrepreneurship and Business Management N4 BC.pdf](https://drive.google.com/file/d/1lDngDnh3Ll9C76XcZlLr4gGqyqbOuKpt/view)
+	- [Entrepreneurship and Business Management N4 Textbook - completed new.pdf](https://drive.google.com/file/d/1S1n30C2qjo2Jxt6maSrlHTsh7cSEtj8J/view)
+	- **Bellview** · 1 files · [Drive](https://drive.google.com/drive/folders/1LL8MRtG4kXoJ4l78Ny8YhZQRR1W8yFLf)
+		- [Entrepreneurship and Business Management N4 Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1qysvYRSXLj1atun3MtfJLrRLTlQ4k12B/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1sF2AmStb5n4TPfEJHNHL0BCVZaWiBnxW)
+		- [Entrepreneurship and Business Management N4 Study Guide - Skills Academy (2) (1).pdf](https://drive.google.com/file/d/1jkaTMIwqY-RNU0PrT14RGah1wC_u_K5I/view)
+		- [Entrepreneurship and Business Management N4 Assessment Guide - Skills Academy (1).pdf](https://drive.google.com/file/d/16GbN6qdkL00hX5NX2WoahqYN5VGhYd5a/view)
+- **Educare Didactics N 4** · 6 files · [Drive](https://drive.google.com/drive/folders/1-dDztA-gLbNwYzWVzz4CfwsQ16pHolOV)
+	- [Educare Didactics N4 BC.pdf](https://drive.google.com/file/d/1Gl_NAlfkPK4itISVfFspVFCGY0254t6e/view)
+	- [Educare Didactics FC.pdf](https://drive.google.com/file/d/1Ul8yJ7hyT0O2Dj948qGuUUsvsisnfMLJ/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1MG3Y_1YNTfh10g5eVYdOXPzhcrCTd5Yc)
+		- [Educare Didactics N4 Study Guide - Bellview (1).pdf](https://drive.google.com/file/d/1h0rAJypvFLgCCpgkaH5gzogwCZ6-4BVi/view)
+		- [Educare Didactics N4 Assessment Guide - Bellview (1).pdf](https://drive.google.com/file/d/1Q5Isiaw91u5KaH7Ml99-jkcBaXwNnWZb/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1UHQ-bf4O1YHtr9ENAQE8f-GAj0HYaqXv)
+		- [Educare Didactics N4 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1GQesgoYren9jAW3UlPFxj5ZyjREien9q/view)
+		- [Educare Didactics N4 Study Guide - Skills Academy (1) (1).pdf](https://drive.google.com/file/d/1c4fxEOh9t0BtFHdCy3nXgdDejvpE-kfm/view)
+- **Information Processing N4** · 7 files · [Drive](https://drive.google.com/drive/folders/1g9rtNY3PDmntn1cPe-WS0egKyt9q1KhH) [[Public Folder/Subjects/Information Processing N4|◆ Information Processing N4]]
+	- [Information Processing N4 Textbook.pdf](https://drive.google.com/file/d/1HdytiHAXZ6H295HLzE-0Jqe8o2kWzrWJ/view)
+	- [Information Processing N4 FC.pdf](https://drive.google.com/file/d/1a40ztwrCpaEsIMhvdBVSIC7iT9S8rQv1/view)
+	- [Information Processing N4 BC.pdf](https://drive.google.com/file/d/19BF3lPtldQwAg2_KCuwHgx_UOumx8tTj/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1eVrCFmv_aF5BhVfKyZWz85x3nwfdDwDD)
+		- [Information Processing N4 Study Guide - Bellview.pdf](https://drive.google.com/file/d/1fA8c3csW2zomLj7_JJqrCb6lUkFpHdRO/view)
+		- [Information Processing N4 Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1cGUY0V1mdOmVAnGS2RR87N5eAeWhPNpN/view)
+	- **Skills Academy** · 2 files · [Drive](https://drive.google.com/drive/folders/1_SP1g0q31B0pX1AR0r-f3ZfDNPBKW9x6)
+		- [Information Processing N4 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/14F3DfAK-G_Vkt21amuo8oaO3AMvh0gFa/view)
+		- [Information Processing N4 Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1YRqk-V4JxL20slQdd3d0ILVihIVE-cqK/view)
+- **Introductory Accounting** · 7 files · [Drive](https://drive.google.com/drive/folders/14KQPiFHRyNHsggwIrcCXwHhNtx4UUD1m) [[Public Folder/Subjects/Introductory Accounting|◆ Introductory Accounting]]
+	- [Introductory Accounting Textbook (1).pdf](https://drive.google.com/file/d/1DsJxwHRg1cVeIzPr81oNkQIFem7jL20A/view)
+	- [Introductory Accounting N4 FC.pdf](https://drive.google.com/file/d/1QJZ4_ObOaSDvuvZCjND9KBrWNY48oV0c/view)
+	- [Introductory Accounting N4 BC.pdf](https://drive.google.com/file/d/1p03tChMyeQpglK7M9jJoH9n5OPFG0dkp/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1HxpeHIwvmSo3zcbhdVgkNzG2gCMKIPct)
+		- [Introductory Accounting N4 Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1G8Qx7eVL64PBZLf0QYFeUncPo9U5Np17/view)
+		- [Introductory Accounting N4 Study Guide (Bellview).pdf](https://drive.google.com/file/d/1gZ2SPOnhTiKrrlY5DKRl6KwYOHW7rgfG/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1O7TXPI0H3RHYowYmN7114_9tVnUJNhfW)
+		- [Introductory Accounting Study Guide - Skills Academy (9).pdf](https://drive.google.com/file/d/1qSdYy52iu_9Fg0Rm9eDjrptEdzY-SWdb/view)
+		- [Introductory Accounting N4 Assessment Guide - Skills Academy (2).pdf](https://drive.google.com/file/d/1YITTUkiFgggZaUFkJlvxL3Wuv7hU2OLl/view)
+- **Management Communication N4** · 6 files · [Drive](https://drive.google.com/drive/folders/152clrl18v8PFbo88Vm8omjQhNpcyfw_4) [[Public Folder/Subjects/Management Communication N4|◆ Management Communication N4]]
+	- [Management Communication  - Textbook edit.pdf](https://drive.google.com/file/d/1l8JeI7p9j16YNrdzR9i4o7bBotbnkg4U/view)
+	- [Management Communication N4 FC.pdf](https://drive.google.com/file/d/18YvaRekuW35PvTVX80DfikQ_bn0Ke31k/view)
+	- [Management Communication N4 BC.pdf](https://drive.google.com/file/d/1aPc35GBN2djfwCtbQUrw19BNu-D2x1Vj/view)
+	- **Bellview** · 1 files · [Drive](https://drive.google.com/drive/folders/1WXKyNkEKhNxV-AC0xXBUE47BSCM5IytQ)
+		- [Management Communications N4 Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1xmgbtD-hTIyb5aBQtGIiFKUepNdTTzRa/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1i-3mUzm2P_NDXdy9O9s3Dstugd8WN6ER)
+		- [Management Communications N4 Assessment Guide - Skills Academy (1).pdf](https://drive.google.com/file/d/1t9gBbmtoVDZTXbWD6nnFnyp2y6CXUIs1/view)
+		- [Management Communication N4 Study Guide - Skills Academy (1).pdf](https://drive.google.com/file/d/10dSEDBJdsYhbyMob5yF8v53MiP-AON8i/view)
+- **Marketing Management N4** · 7 files · [Drive](https://drive.google.com/drive/folders/1LrlS19-xMDkMUsTHHtbqUlJeSbHpvTRl) [[Public Folder/Subjects/Marketing Management N4|◆ Marketing Management N4]]
+	- [Marketing Management N4 Textbook.pdf](https://drive.google.com/file/d/1vsBBjTLnbQtflUf-o6SS8OlMwIDa4bIh/view)
+	- [Marketing Management N4 FC.pdf](https://drive.google.com/file/d/1wDNAG7UEkEL-aKAJyQUeJIph4W2JIsgs/view)
+	- [Marketing Management N4 BC.pdf](https://drive.google.com/file/d/19ufamvqXpvQ8Rb3AYZnvrIRcs173yBiC/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1Ic1XTQfI_lz5ZChvicgBcUlD9skD85nj)
+		- [Marketing Management N4 Study Guide - Bellview.pdf](https://drive.google.com/file/d/14A9FCH0K99Qtkl320oVg7_bWXn3OmpK0/view)
+		- [Marketing Management N4 Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1LTQBDWua-G8oHcnOM8QmJYcq_cYhhmEg/view)
+	- **Skills Academy** · 2 files · [Drive](https://drive.google.com/drive/folders/13nwKLabMKSuUOzCODVGSRnCGaPR8S_rZ)
+		- [Marketing Management N4 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1d-AuW4uevIjS3asJbD32_RSR2D-msjHX/view)
+		- [Marketing Management N4 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1SpjP39Bdnz_5Tnmp_r_2hoabz4z2tJo4/view)
+- **Mercantile law N4** · 7 files · [Drive](https://drive.google.com/drive/folders/1HFaiCFGatRjJuBjhm_5bdSl3iN0E0fcM) [[Public Folder/Subjects/Mercantile Law N4|◆ Mercantile Law N4]]
+	- [Mercantile Law N4 FC.pdf](https://drive.google.com/file/d/1K5VhQl3DHVR-vAB5jV-rZxkLEMqaFZti/view)
+	- [Mercantile Law N4 BC.pdf](https://drive.google.com/file/d/1xt9VuoBO4qWeqv-JhWARTfcwud1IBXW_/view)
+	- [Mercantile Law N4 Textbook.pdf](https://drive.google.com/file/d/1owdijdI8czY-8jSnheur-4OfIe6qBzsZ/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1xB5NZAN8vBq1bmTNgE5IC3VxQVIn376J)
+		- [Mercantile Law N4 Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1dgUEbj_h57P4ThlnY8IsiV1bcPq7by6a/view)
+		- [Mercantile Law N4 Study Guide - Bellview.pdf](https://drive.google.com/file/d/1N9NEUF1qPa1y1Xz5xPwW9tHPSZu6ymxZ/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1zcimQrEFECxblVcKPIjDGi4CEcxu4n3H)
+		- [Mercantile Law N4 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1tabA9Ami2huoTxBsm1aG2QGrKkSlOTEz/view)
+		- [Mercantile Law N4 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1QEW5skoEQSBb3qz1KRFmET-wBP0bSUF4/view)
+- **Office Practice N4** · 6 files · [Drive](https://drive.google.com/drive/folders/120MziX1u0ZVz1OlQ1qn7tQsk4zFymY3c) [[Public Folder/Subjects/Office Practice N4|◆ Office Practice N4]]
+	- [Office Practice N4 Textbook.pdf](https://drive.google.com/file/d/1WpDTfUxmxI0GGLLKjwCuCCGA2VkH9jsV/view)
+	- [Office Practice N4 BC.pdf](https://drive.google.com/file/d/1A-961ugc-C_o1MIPxHY9D_XKTYHYsmVC/view)
+	- [Office Practice N4 FC.pdf](https://drive.google.com/file/d/1jLb3HZ6FmgGxzc0BP7YOwRWEw3WH8XMN/view)
+	- **Bellview** · 1 files · [Drive](https://drive.google.com/drive/folders/1b9yamqp94b716m_oX2qJKVJpPaJD_3dw)
+		- [Office Practice  N4 Assessment Guide - Bellview .pdf](https://drive.google.com/file/d/1n9evE18UPBTcJFgeKP2JixgZFtka5SiO/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/16cIXSsLsComD_Vv69fsP8Wx55j6eZHrC)
+		- [Office Practice Study Guide Skills.pdf](https://drive.google.com/file/d/17a15zncweH6rgCzNPJ_fD-WYChNOiSJ6/view)
+		- [Office Practice  N4 Assessment Guide - Skills.pdf](https://drive.google.com/file/d/1u4zsQIKsRxHxBlvjCtMe3keCaFFkrwaY/view)
+- **Personnel Management N4** · 7 files · [Drive](https://drive.google.com/drive/folders/15jhD8fk79g7xy_klHx7yMVadUXKe70am) [[Public Folder/Subjects/Personnel Management N4|◆ Personnel Management N4]]
+	- [Personnel Management N4 Textbook.pdf](https://drive.google.com/file/d/19rBmhtrC60_-L31LoY09DL4Pggp3SbRd/view)
+	- [Personnel Management N4 FC.pdf](https://drive.google.com/file/d/1fLSHYqyQU-3LzAJKNzNAZrSWT2-SmXh4/view)
+	- [Personnel Management N4 BC.pdf](https://drive.google.com/file/d/119FVUvGt0SPyMPKqFwLBt7w1uhNoaQzP/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1VoOnWjdP6kKiZZlj2Ix3So5-5lvrDnsn)
+		- [Personnel Management N4 Study Guide - Bellview.pdf](https://drive.google.com/file/d/1WWvukOwnKTO6A4UmWUaSs_3-ujL3DeXP/view)
+		- [Personnel Management N4 Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1zYNTNE0xrY4GBtThhxSvjndqi4Kkgo0F/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1k8Y1X_0GmsLiT6fSq6X6YEwKAJpy4TWa)
+		- [Personnel Management N4 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1SS_j030zSQ4O24cYSKsSvAzqu9U_8VXO/view)
+		- [Personnel Management N4 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1AphngL7AZGT6M-QfSPoMNx0AWGsYfmyC/view)

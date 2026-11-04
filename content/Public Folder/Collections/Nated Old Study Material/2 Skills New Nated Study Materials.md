@@ -1,0 +1,264 @@
+---
+tags: [public-folder, collection]
+branch: "Nated Old Study Material"
+files: 167
+drive: https://drive.google.com/drive/folders/1wK6FoBHm_L-W2Przw9miANy7NKJdDKzs
+---
+# 2 Skills New Nated Study Materials
+
+Up: [[Public Folder/Branches/Nated Old Study Material|Nated Old Study Material]] · [Open in Drive](https://drive.google.com/drive/folders/1wK6FoBHm_L-W2Przw9miANy7NKJdDKzs)
+
+**167 files**
+
+## Subjects here
+[[Public Folder/Subjects/Child Health N4|Child Health N4]] · [[Public Folder/Subjects/Communication N5|Communication N5]] · [[Public Folder/Subjects/Communication N6|Communication N6]] · [[Public Folder/Subjects/Computer Practice N4|Computer Practice N4]] · [[Public Folder/Subjects/Computer Practice N5|Computer Practice N5]] · [[Public Folder/Subjects/Computer Practice N6|Computer Practice N6]] · [[Public Folder/Subjects/Computerised Financial Systems N4|Computerised Financial Systems N4]] · [[Public Folder/Subjects/Computerised Financial Systems N5|Computerised Financial Systems N5]] · [[Public Folder/Subjects/Computerised Financial Systems N6|Computerised Financial Systems N6]] · [[Public Folder/Subjects/Cost Management Accounting N5|Cost Management Accounting N5]] · [[Public Folder/Subjects/Cost Management Accounting N6|Cost Management Accounting N6]] · [[Public Folder/Subjects/Daycare Communication N5|Daycare Communication N5]] · [[Public Folder/Subjects/Daycare Communication N6|Daycare Communication N6]] · [[Public Folder/Subjects/Daycare Management N6|Daycare Management N6]] · [[Public Folder/Subjects/Daycare Personnel Development N4|Daycare Personnel Development N4]] · [[Public Folder/Subjects/Educare Didactics N4|Educare Didactics N4]] · [[Public Folder/Subjects/Educare Didactics N5|Educare Didactics N5]] · [[Public Folder/Subjects/Educare Didactics N6|Educare Didactics N6]] · [[Public Folder/Subjects/Education N4|Education N4]] · [[Public Folder/Subjects/Educational Psychology N5|Educational Psychology N5]] · [[Public Folder/Subjects/Educational Psychology N6|Educational Psychology N6]] · [[Public Folder/Subjects/Entrepreneurship Business Management N4|Entrepreneurship Business Management N4]] · [[Public Folder/Subjects/Entrepreneurship Business Management N5|Entrepreneurship Business Management N5]] · [[Public Folder/Subjects/Entrepreneurship N4|Entrepreneurship N4]] · [[Public Folder/Subjects/Financial Accounting N4|Financial Accounting N4]] · [[Public Folder/Subjects/Financial Accounting N5|Financial Accounting N5]] · [[Public Folder/Subjects/Information Processing N4|Information Processing N4]] · [[Public Folder/Subjects/Information Processing N5|Information Processing N5]] · [[Public Folder/Subjects/Information Processing N6|Information Processing N6]] · [[Public Folder/Subjects/Introductory Financial Accounting N4|Introductory Financial Accounting N4]] · [[Public Folder/Subjects/Labour Relations N5|Labour Relations N5]] · [[Public Folder/Subjects/Labour Relations N6|Labour Relations N6]] · [[Public Folder/Subjects/Legal Practice N5|Legal Practice N5]] · [[Public Folder/Subjects/Legal Practice N6|Legal Practice N6]] · [[Public Folder/Subjects/Management Communication N4|Management Communication N4]] · [[Public Folder/Subjects/Marketing Communication N6|Marketing Communication N6]] · [[Public Folder/Subjects/Marketing Management N4|Marketing Management N4]] · [[Public Folder/Subjects/Marketing Mix Management N5|Marketing Mix Management N5]] · [[Public Folder/Subjects/Marketing Research N6|Marketing Research N6]] · [[Public Folder/Subjects/Marketing Strategies N6|Marketing Strategies N6]] · [[Public Folder/Subjects/Mercantile Law N4|Mercantile Law N4]] · [[Public Folder/Subjects/Mercantile Law N5|Mercantile Law N5]] · [[Public Folder/Subjects/Office Practice N4|Office Practice N4]] · [[Public Folder/Subjects/Office Practice N5|Office Practice N5]] · [[Public Folder/Subjects/Office Practice N6|Office Practice N6]] · [[Public Folder/Subjects/Personnel Management N4|Personnel Management N4]] · [[Public Folder/Subjects/Personnel Management N5|Personnel Management N5]] · [[Public Folder/Subjects/Personnel Management N6|Personnel Management N6]] · [[Public Folder/Subjects/Personnel Training N5|Personnel Training N5]] · [[Public Folder/Subjects/Personnel Training N6|Personnel Training N6]] · [[Public Folder/Subjects/Principles Marketing Management N4|Principles Marketing Management N4]] · [[Public Folder/Subjects/Public Relations N5|Public Relations N5]] · [[Public Folder/Subjects/Public Relations N6|Public Relations N6]] · [[Public Folder/Subjects/Sales Management N5|Sales Management N5]] · [[Public Folder/Subjects/Sales Management N6|Sales Management N6]]
+
+## Contents
+- **2. Skills Academy** · 167 files · [Drive](https://drive.google.com/drive/folders/1ZS95KQcfeYtDbUE9qV0M2YKImNgyq0xL)
+	- **N4** · 28 files · [Drive](https://drive.google.com/drive/folders/1GDZQw8udhIbycwzQanzh1j9ps0xtmpl5)
+		- **Child Health N4** · 1 files · [Drive](https://drive.google.com/drive/folders/1oJ9Onu5RW3FXFk6ErhEp-QJWMSyFJbvE) [[Public Folder/Subjects/Child Health N4|◆ Child Health N4]]
+			- **Skills Academy** · 1 files · [Drive](https://drive.google.com/drive/folders/1etZATHdVwKQiiYacrDY6XOvpUKYluvVK)
+				- [Child Health N4 Assessment Guide - Skills Academy (1).pdf](https://drive.google.com/file/d/1UNGjZroe5dcV5PD-0p2OgtBaSETruZIU/view)
+		- **Computer Practice N4** · 4 files · [Drive](https://drive.google.com/drive/folders/1kzc_lLV8midH_IH6tnvcEhwIvOKDEvy0) [[Public Folder/Subjects/Computer Practice N4|◆ Computer Practice N4]]
+			- [N4 Educare Didactics Textbook Back Cover.png](https://drive.google.com/file/d/1OsagdXKwdq8wJ4DCvNN0Xhf_JSJzsHZQ/view)
+			- [Computer Practice N4 - Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1DJeeCgGM74m8DY3JFhnMgFPWPlQE9egF/view)
+			- [Computer Practice N4 - Study Guide - Bellview.pdf](https://drive.google.com/file/d/1bbdL6HL4iVi91a2-CGwoQiZ9I1kk4gZ4/view)
+			- **Computer PracticeN4 Assessment 2024 new** · 1 files · [Drive](https://drive.google.com/drive/folders/1JX-rzJCHM0yiB3utg5iyCg_ceOjSPnny)
+				- [Computer Practice N4 Assessment Guide - Updated (2).pdf](https://drive.google.com/file/d/1RPa-Y8LEcopLS_nb4iCoE7Tc30wrM0tb/view)
+		- **Computerised Financial Systems N4** · 1 files · [Drive](https://drive.google.com/drive/folders/1SKQEHmIw1UUq_4cIMgfpXqxT59CQgg5V) [[Public Folder/Subjects/Computerised Financial Systems N4|◆ Computerised Financial Systems N4]]
+			- **updated** · 1 files · [Drive](https://drive.google.com/drive/folders/1IGRUwxHBKFDuUZvH8qL2mi5s2gt9t8Le)
+				- [Computerised Financial Systems N4 Assessment Guide - Skills Academy (1) (1).pdf](https://drive.google.com/file/d/19B3-dqMrhkquWFuM4E69x7Nz0EK7E1op/view)
+		- **Daycare Personnel Development N4** · 2 files · [Drive](https://drive.google.com/drive/folders/10ENrPxRESlPUfQH3GZq-TA1I6HzpuRcS) [[Public Folder/Subjects/Daycare Personnel Development N4|◆ Daycare Personnel Development N4]]
+			- **New Daycare Personnel Development N4** · 2 files · [Drive](https://drive.google.com/drive/folders/16nbBFevfQIkxAgDvqHcP9oGL68SheERx) [[Public Folder/Subjects/Daycare Personnel Development N4|◆ Daycare Personnel Development N4]]
+				- [Daycare Personnel Development N4 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/15O77hidEBWWQe2LHA9wvU_FLbaucCPqa/view)
+				- [N4 Daycare Personnel Development Textbook Back Cover (1).png](https://drive.google.com/file/d/1olRs-dYpy_O2KLIHf4LY3VgpSU9E0Akf/view)
+		- **Educare Didactics N4** · 3 files · [Drive](https://drive.google.com/drive/folders/13hGz9w78nlrMm1D2u7BqQo5qXSJvi3Ie) [[Public Folder/Subjects/Educare Didactics N4|◆ Educare Didactics N4]]
+			- **New  Educare Didactics N4** · 3 files · [Drive](https://drive.google.com/drive/folders/1b4vY6wkzSS52euYmZOeMjuvHZZKn8Dj8) [[Public Folder/Subjects/Educare Didactics N4|◆ Educare Didactics N4]]
+				- [Educare Didactics N4 Study Guide - Skills Academy (1).pdf](https://drive.google.com/file/d/1JnfFL1YLjdqrvf3oCzFP76W2MpYfNp1q/view)
+				- [N4 Educare Didactics Textbook Back Cover (1) (1).png](https://drive.google.com/file/d/10zPRvuk7Iu4QVtCs3ONmk7rrCu-Me0zz/view)
+				- [Educare Didactics N4 - Skills Academy.pdf](https://drive.google.com/file/d/1hYBZVsQDybC6qlgvwI35CfRlqU2FX8TC/view)
+		- **Education N4** · 3 files · [Drive](https://drive.google.com/drive/folders/1n2sb3K7-4U9xjB2m4OVxDVwz6T9ja8yx) [[Public Folder/Subjects/Education N4|◆ Education N4]]
+			- [Education N4 Assignments - Skills Academy.pdf](https://drive.google.com/file/d/1Fg3ULFb9_lxbWf6vZE1sHaiVziP7gQTa/view)
+			- **New Educatino N4** · 2 files · [Drive](https://drive.google.com/drive/folders/1gqP4QrZM_zAjNrTjPXdiud6DbWt6Heeh)
+				- [N4 Education Textbook Back Cover.png](https://drive.google.com/file/d/1XflSvWDYkJ08QQ572ORn2Bckw6bAQ4nH/view)
+				- [Education N4 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1X1W4RU51eA5yPDuUaS4sRu12F59n9jz5/view)
+		- **Entrepreneurship and Business Management N4** · 2 files · [Drive](https://drive.google.com/drive/folders/1aGhn7V8GNzRYnGD7FKyKOPzKaZq0Z-fR) [[Public Folder/Subjects/Entrepreneurship Business Management N4|◆ Entrepreneurship Business Management N4]]
+			- [EBM N4.png](https://drive.google.com/file/d/1oKwhwnd6_LfT5yn3RG6lMsibis8KkYza/view)
+			- **Entrepreneurship N4 New** · 1 files · [Drive](https://drive.google.com/drive/folders/1746n_avZY9qFZoGSGSjAk-i6BaAaX6wx) [[Public Folder/Subjects/Entrepreneurship N4|◆ Entrepreneurship N4]]
+				- [EBM N4.png](https://drive.google.com/file/d/1dOySIKEM990grFWPiKCsmJ8WLBlOUpkp/view)
+		- **Financial Accounting N4** · 1 files · [Drive](https://drive.google.com/drive/folders/1w723WqGwRN3OJP6ZXHZKsXEW0Y5vGCv3) [[Public Folder/Subjects/Financial Accounting N4|◆ Financial Accounting N4]]
+			- [Financial Accounting N4 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1Uc0MSfkekNDH-DbAnMXmzMaIFIeiAOY-/view)
+		- **Information Processing N4** · 4 files · [Drive](https://drive.google.com/drive/folders/1vWKAEif-KDhZu4nTNAk-3MBhs7pUcZD5) [[Public Folder/Subjects/Information Processing N4|◆ Information Processing N4]]
+			- [Information Processing N4 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1PAMyJd5WLoIfTjVW4Y2VlrUd5z38E6_9/view)
+			- [Information Processing N4 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1nqZmN3fEu-Ye1CVnRVJhKy7qmEp0b7Lz/view)
+			- [Information Processing N4 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1LtqTgqqfKTeDuVXIa2yNs8pDfrbyjzeP/view)
+			- [IP N4 Assignment 1.pdf](https://drive.google.com/file/d/1HjZLdDwDbYNJ3FPK-vtjbBbdtRPd4V4s/view)
+		- **Introductory Financial Accounting N4** · 1 files · [Drive](https://drive.google.com/drive/folders/1LytgKlHlxdanztFLww5oAb5xbC1YPcGt) [[Public Folder/Subjects/Introductory Financial Accounting N4|◆ Introductory Financial Accounting N4]]
+			- [Introductory Accounting N4 Study Guide - Skills Academy .pdf](https://drive.google.com/file/d/1jhRsAWwVspE6KKqk1BiIJkjRxf169wpb/view)
+		- **Marketing Management N4** · 2 files · [Drive](https://drive.google.com/drive/folders/1m1-pA0lx5truuWoYEvrPI0r2L1wNIuAf) [[Public Folder/Subjects/Marketing Management N4|◆ Marketing Management N4]]
+			- [Marketing Management N4 Study Guide - Skills Academy (4).pdf](https://drive.google.com/file/d/19NBDJxTXfc0cv_SX44cjR8p56jJMYPFq/view)
+			- [Marketing Management N4 Assessment - Skills Academy.pdf](https://drive.google.com/file/d/1L6bh2P2RjYSL3pXWgksWESkicWPiliRe/view)
+		- **Skills** · 4 files · [Drive](https://drive.google.com/drive/folders/1l8u3PCWcKqdQWAZmdxAlGT3g5JBu8Uen)
+			- [N4 Daycare Personnel  Back Cover 1.png](https://drive.google.com/file/d/1ZEo-CAYnxobSx_ANuxEAQN5EPYSH-DLA/view)
+			- [Day-Care-Personnel-Development Assignment 1 Memo (1).pdf](https://drive.google.com/file/d/1rw4tvCB89HNDiv06LydoEli2OrxdVn2P/view)
+			- [Day-Care-Personnel-Development Assignment 2 Memo (1).pdf](https://drive.google.com/file/d/1fun4vVcdL6h9wGX0VKJC5kzcP_wO_pfq/view)
+			- [Day-Care-Personnel-Development Internal Exam Memo (1).pdf](https://drive.google.com/file/d/1-i4rls2xmHKBGteqHaxkJNG383w-zHqY/view)
+	- **N5** · 67 files · [Drive](https://drive.google.com/drive/folders/1j01obotDqy9MamPQ-cWpbTmQ6VDldP8D)
+		- **Communication N5** · 3 files · [Drive](https://drive.google.com/drive/folders/1DSJ-4vS-lHSAiF6PRvSJoeyrJHJ1FCs9) [[Public Folder/Subjects/Communication N5|◆ Communication N5]]
+			- [Communication N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1-F-kq1BzaDcJDlCeVq7b2WQKtxyJKzEl/view)
+			- [Communication N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1C7PayopHK9geY5-v6DrRXOf_uAesrqGz/view)
+			- [Communication N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1FQ5Ziorvj5dTgqE4wIgMMhz7SgiTnlYU/view)
+		- **Computer Practice N5** · 4 files · [Drive](https://drive.google.com/drive/folders/1MmM85HbKm4rX7XxbudzT7lUN00tWhzbc) [[Public Folder/Subjects/Computer Practice N5|◆ Computer Practice N5]]
+			- [Computer Practice N5 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1pFKUeJ081CwW0ElWgoHHUadaiVVwPfER/view)
+			- [Computer Practice N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1VuuNsz4-ij5tdxjQejNpBJ9L8_-g_w4M/view)
+			- [Computer Practice N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1VCD7OGietMyESFWQotb53EZ51qvTGeVK/view)
+			- [Computer Practice N5 Internal Exam- Skills Academy.pdf](https://drive.google.com/file/d/14r5eL8cUAIA6L52uFqZ3TGKkDkpkNIqA/view)
+		- **Computerised Financial Systems N5** · 8 files · [Drive](https://drive.google.com/drive/folders/1e9MU7P3NYEHkJOR8mx6HDvOVZDsMp4lT) [[Public Folder/Subjects/Computerised Financial Systems N5|◆ Computerised Financial Systems N5]]
+			- [Computerised Financial Systems N5 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1ajywgTOgO4SS_pkKoQaY4kOFjqZ9drnz/view)
+			- [Computerised Financial Systems N5 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/13g-wU5_565DdRIG0FGFb0kx6msa8f9cr/view)
+			- [Computerised Financial Systems N5 Assessment Guide - Skills Academy (2).pdf](https://drive.google.com/file/d/19uhtsNn2DoQAInkNf0-BJkHpJdjpQF-3/view)
+			- [Computerised Financial Systems N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1i2xUzasn__nS-xnn6RmKnPZ-zUd47ep1/view)
+			- [Computerised Financial Systems N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1vDunX7I3pYH2tdhI7xwa68WtTScYS2-E/view)
+			- [Computerised Financial Systems N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1yjwxU-hEAirMCpXeV0bptt76ZyIXlaRd/view)
+			- **updated** · 2 files · [Drive](https://drive.google.com/drive/folders/1emIwvENenSPXyedY6GXgvA5ODtEV7btn)
+				- [Computerised Financial Systems N5 Assessment Guide - Skills Academy (2) (2).pdf](https://drive.google.com/file/d/1VpYtkWLZDLsxUfa27r959ZSumqBbResh/view)
+				- [Computerised Financial Systems N5 Study Guide - Skills Academy (2).pdf](https://drive.google.com/file/d/1nkpaAyQkXqpdVYX_b05zp98qHXBE6qKH/view)
+		- **Cost and Management Accounting N5** · 5 files · [Drive](https://drive.google.com/drive/folders/1cNQfmFQ0lmYnF_ByAPqCvGMu1oSeqhUO) [[Public Folder/Subjects/Cost Management Accounting N5|◆ Cost Management Accounting N5]]
+			- **Old** · 3 files · [Drive](https://drive.google.com/drive/folders/1LApKKwcflmfRgw6rOj6dGlHop1qmo3xz)
+				- [Cost and Management Accounting N5 Assignment 2.pdf](https://drive.google.com/file/d/1FgT7Ts4cTmj2wXJ3jNgaQik3GYJgRjLE/view)
+				- [Cost and Management Accounting N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1Txsw58JEaILlXOd-AHCLP53GsjowMvWq/view)
+				- [Cost and Management Accounting N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1QiW0NfKousN0-4H0ZRBSxawNI6evTKiP/view)
+			- **Updated** · 2 files · [Drive](https://drive.google.com/drive/folders/1Myqfr32gIU17VN46LhY7f5D40RnXJUGK)
+				- [Cost and Management Accounting N5 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1UZZOEFTfFXcG2vA_oawj870u5nhz_MF9/view)
+				- [Cost and Management Accounting N5 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1_IGCyG7E-vRpnD8QUYAWEMBl0Ytec2Qz/view)
+		- **Daycare Communication N5** · 2 files · [Drive](https://drive.google.com/drive/folders/1uWWea-ROpdv4VnevLUwekyxiDvpPUVuK) [[Public Folder/Subjects/Daycare Communication N5|◆ Daycare Communication N5]]
+			- [Daycare Communication N5 Study Guide - Skills Academy (2).pdf](https://drive.google.com/file/d/1xxytqh7-d6bEqctMhD_Op7Xr3aGgocCh/view)
+			- [Daycare Communication N5 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1S3nBhh0g28jXEe98vM8xYQOWRD9q0SVJ/view)
+		- **Educare Didactics N5** · 5 files · [Drive](https://drive.google.com/drive/folders/1nu1QIsQSRSCJ2LQEgNk70rfyBD5NmUzj) [[Public Folder/Subjects/Educare Didactics N5|◆ Educare Didactics N5]]
+			- **Old** · 3 files · [Drive](https://drive.google.com/drive/folders/1yvj8LUT5m6KcayvSgSYLkTj3jloPifyg)
+				- [Educare Dicdactics N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1uamPIIHkAVwRW4QgsbM9Lk4RiaVFAXbC/view)
+				- [Educare Didactics N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1Lzk_5cbGdPIP4mE7IkaaoGTAK4Cr0FbN/view)
+				- [Educare Didactics N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1rJ02q4a1m6XXB3fFGSVb0t0AQJAwTtFc/view)
+			- **Updated** · 2 files · [Drive](https://drive.google.com/drive/folders/1aGsxE2WeeWeUZ2qMZzhlu6dupSKxBP2M)
+				- [Educare Didactics N5 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1kL2UU6pr7ZRdeftBCigOJZ0xMHrr7SAH/view)
+				- [Educare Didactics N5 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1YmOlYrsop4MmBnovcU2e7RsFUN-gLN5k/view)
+		- **Educational Psychology N5   ** · 3 files · [Drive](https://drive.google.com/drive/folders/1TVgEx6R73E7KtjlA4FSrYc_x0JeYg-wf) [[Public Folder/Subjects/Educational Psychology N5|◆ Educational Psychology N5]]
+			- [Educational Psychology N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/18ILHJGtBNL_FjQk4EGWXtlS-nyolyUf3/view)
+			- [Educational Psychology N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1JjRfZ4o4oxmRDzFcuWV7bAOM_r5bDecD/view)
+			- [Educational Psychology N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1D1dWEalEnt7mUiUwSHw_LR0iDYNddNhH/view)
+		- **Entrepreneurship and Business Management N5** · 3 files · [Drive](https://drive.google.com/drive/folders/1Wf98f8YrmtSlZmy7U11b7w9DHTLXmk1y) [[Public Folder/Subjects/Entrepreneurship Business Management N5|◆ Entrepreneurship Business Management N5]]
+			- [Entrepreneurship and Business Management N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1_ptC-UvSYm0cGNYFHmWGKtW1iAStaUT7/view)
+			- [Entrepreneurship and Business Management N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1mHtHHakN92UmUzA9zsg5XqkBXmWUpuBC/view)
+			- [Entrepreneurship and Business Management N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1H_KesmZUn8Ds6Pkn8ivz0w9VqjKDKUlQ/view)
+		- **Financial Accounting N5** · 5 files · [Drive](https://drive.google.com/drive/folders/12gp8lC_WiJULq4m6NBRxzz0brZ4kncoq) [[Public Folder/Subjects/Financial Accounting N5|◆ Financial Accounting N5]]
+			- [Financial Accounting N5 Assignment 1 - Skills Academy (Updated).pdf](https://drive.google.com/file/d/1QHq51n1l2Fd7xcx86bBa7qXQiYDk6YJj/view)
+			- [Financial Accounting N5 Assignment 2 - Skills Academy (Updated).pdf](https://drive.google.com/file/d/1u402fz70dQIvxTrv1EmzyU2Z6hWJu1ZM/view)
+			- [Financial Accounting N5 Internal Exam - Skills Academy (Updated).pdf](https://drive.google.com/file/d/185gJo6G7UcAfVtZ361MAkrziF5GnwOoL/view)
+			- **updated** · 2 files · [Drive](https://drive.google.com/drive/folders/1oJNzBUais8YlN6oRSa_jXtxhum-gwDTk)
+				- [Financial Accounting N5 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1BBOu9xoqCQ5tGL22p5hmh6X69QNF_b5E/view)
+				- [Financial Accounting N5 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1MHuXAZJ1Cykdxven8EEeS0SixY7k6Yks/view)
+		- **Information Processing N5** · 3 files · [Drive](https://drive.google.com/drive/folders/1JPgGj-vD0rYFYESFnOk-OD9dfEtNr8Tu) [[Public Folder/Subjects/Information Processing N5|◆ Information Processing N5]]
+			- [Information Processing N5 Study Guide - Skills Academy.pub update.pdf](https://drive.google.com/file/d/16uzmI5QPPoTelnRL1CXFvFi4Ykhlhxo8/view)
+			- [Information Processing N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1MqR6zilsPiMT5y_Hu3wCVGG_mEf_Y7je/view)
+			- [Information Processing N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1rLbHt0tw47BMFsOfK6-F0vhBgjjXSV-h/view)
+		- **Labour Relations N5** · 3 files · [Drive](https://drive.google.com/drive/folders/1_VBjJ8L2ceZzmOOU9WSNrlTKZzO6oY0n) [[Public Folder/Subjects/Labour Relations N5|◆ Labour Relations N5]]
+			- [Labour Relations N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1agi46Od9pf-vVES-G_VGoRgmDmrVOSXP/view)
+			- [Labour Relations N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1D53aETjaHrpnyIpzpWwCl7ALxtyPFX4Y/view)
+			- [Labour Relations N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/19xUCAkC3veVlOKvx4nP3yzHxZvrIPkzw/view)
+		- **Legal Practice N5** · 3 files · [Drive](https://drive.google.com/drive/folders/1YIcxbbuEEhUH1NTWV1w9pcAF8gc8S-OR) [[Public Folder/Subjects/Legal Practice N5|◆ Legal Practice N5]]
+			- [Legal Practice N5 Internal Exam- Skills Academy.pdf](https://drive.google.com/file/d/1auvmwa43PgocBy76-gE4_Sk_nUbCFp-j/view)
+			- [Legal Practice N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1_4QCEgXIyzXLN6KZjiIXimeo0DE79nyY/view)
+			- [Legal Practice N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1_Beal5nt7Q1tFmAr6PE4z8joFWWV-jqi/view)
+		- **Marketing Mix Management N5** · 3 files · [Drive](https://drive.google.com/drive/folders/1IhewwW2v8VqKX7g9qF5m1u8loKoxvN8Z) [[Public Folder/Subjects/Marketing Mix Management N5|◆ Marketing Mix Management N5]]
+			- [Marketing Mix Management N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1Ze9jaX-vH1P4BvMD8gRp1GKDsTBh1xqS/view)
+			- [Marketing Mix Management N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1xRJW5F4YL5AB4kcxZU6Sj2zoUtETNXw2/view)
+			- [Marketing Mix Management N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1cCDMcXPSZQQ3C4-5i5n5IHNbAskzP49N/view)
+		- **Mercantile Law N5** · 6 files · [Drive](https://drive.google.com/drive/folders/1_oSj_6CjetiHR9245uP6yU1Ky-p3RfVA) [[Public Folder/Subjects/Mercantile Law N5|◆ Mercantile Law N5]]
+			- [Mercantile Law N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/14jjx11xlHPiBu8G1lg9HInF27Pm0N-3Z/view)
+			- [Mercantile Law N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/18ZT169gImzYz7J8_K0l0sAKr4VDnNS4S/view)
+			- [Mercantile Law N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/13CFexUM2hfKB9HjqiEOjbYKoqGhf47P9/view)
+			- **Personnel Training N5** · 3 files · [Drive](https://drive.google.com/drive/folders/1J3QAHefQBM-MXYD7V7Ly6XrZWpwotNv9) [[Public Folder/Subjects/Personnel Training N5|◆ Personnel Training N5]]
+				- [Personnel Training N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1Z5UVxC6feqL15FD1QERd5SoTSdv4hpUz/view)
+				- [Personnel Training N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1FDjHRoLuObT-478ibxWwdjO_DJW-ygzD/view)
+				- [Personnel Training N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1xLlZTxqvd3O6irisMfD0c-jjeaDVqNCe/view)
+		- **Office Practice N5** · 3 files · [Drive](https://drive.google.com/drive/folders/1jwv78p3HEVkNdMrB0xuF2sXCA9Ozv2TS) [[Public Folder/Subjects/Office Practice N5|◆ Office Practice N5]]
+			- [Office Practice N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/16464LLvd07gpGdR1OfEwehtVBok6J9Hf/view)
+			- [Office Practice N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1OSQ62mUQc6jLokGFXYhH0TGgCqLLMqdJ/view)
+			- [Office Practice N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1iu-JKaj7sSX-NHmFMS7kTTXnecjknuU6/view)
+		- **Personnel Management N5** · 1 files · [Drive](https://drive.google.com/drive/folders/1ZpoMh7NVzioy7Kn8KX8eNLzkRayydDjW) [[Public Folder/Subjects/Personnel Management N5|◆ Personnel Management N5]]
+			- [Personnel Management N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1ig8D-FWUicKbh7bty8sQ7V1EwbKrjwAC/view)
+		- **Public Relations N5** · 3 files · [Drive](https://drive.google.com/drive/folders/1GCwzlEfzj_xn_eQW3ccLt4Mf5ZFho7Rx) [[Public Folder/Subjects/Public Relations N5|◆ Public Relations N5]]
+			- [Public Relations N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1T1Za3VDIGHKtI7fc7i4fPbTWbOmVwjik/view)
+			- [Public Relations N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1qxTU4rHVLlbEL-_9JQRvKurbCWd5Ch1_/view)
+			- [Public Relations N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1SGNhcT9hoMPuHP9w_tgryKUilsJtpxVh/view)
+		- **Sales Management N5** · 4 files · [Drive](https://drive.google.com/drive/folders/1_u5AitJVfkWd9Fh8tVUST-_67XMYNyS-) [[Public Folder/Subjects/Sales Management N5|◆ Sales Management N5]]
+			- [Sales Management N5 Study Guide - Skills Academy (1).pdf](https://drive.google.com/file/d/1x0VPn135J3iE_vCublFT3tHjn_xmIyaB/view)
+			- [Sales Management N5 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1DNhdzWAYxiV9I9OOG9Csitr7R_SJoge3/view)
+			- [Sales Management N5 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1emt7eJSxQAfwAtgRY0qxZ0edmQr6LYNy/view)
+			- [Sales Management N5 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1IBmrAzkqPLudnynTRdcsrrfwiVIDq4s3/view)
+	- **N6** · 72 files · [Drive](https://drive.google.com/drive/folders/1u2BTjopvKFhkH4lYevDtE5KmJVzwyfkX)
+		- **Communication N6** · 3 files · [Drive](https://drive.google.com/drive/folders/1g-7Ll1qUbzNuU7Kt816lx2ZTIigLIMP3) [[Public Folder/Subjects/Communication N6|◆ Communication N6]]
+			- [Communication N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/14HpScCkH-e1DAI7IpV4jwPD9cxG6mXfM/view)
+			- [Communication N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1oy1kE2xPFUFZ702M_mSW9oqfCd8Dnqb0/view)
+			- [Communication N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1C-1zRs7glJUVR9Ji4knNgSeskhdSHVuq/view)
+		- **Computer Practice N6** · 3 files · [Drive](https://drive.google.com/drive/folders/1W7vRX-km7BWkYvej95Izd8cLI3lbzpgJ) [[Public Folder/Subjects/Computer Practice N6|◆ Computer Practice N6]]
+			- [Computer Practice N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1b6wNNkUrco2bSV7-pD62TQusJBw0Gm8s/view)
+			- [Computer Practice N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1P14F6RIZrKau7tT0PSROhA9w98DXpoOD/view)
+			- [Computer Practice N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1TN06hP7fHx7fBTweHK3L17w5cde7Ecun/view)
+		- **Computerised Financial Systems N6** · 6 files · [Drive](https://drive.google.com/drive/folders/1pPW8UHPCTQnI4uUkWcDOjtlryp99Y-uu) [[Public Folder/Subjects/Computerised Financial Systems N6|◆ Computerised Financial Systems N6]]
+			- [Computerised Financial Systems N6 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1vVzbI0CxRkarJcLQaF_rZylNJRhJ3V4p/view)
+			- [Computerised Financial Systems N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/11sKvJFXz7Xu8Sd2-GIOEVt9DgkkcK5_b/view)
+			- [Computerised Financial Systems N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1tBuekqc6BZk6z9q9BToA3Qgp9iZKUsJS/view)
+			- [Computerised Financial Systems N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/11o496OV-sGd03KXRxKBYzyytn_sRtnrD/view)
+			- **updated** · 2 files · [Drive](https://drive.google.com/drive/folders/1uW_8Xo8BPRtk6mybwFJKPdyH_B_SXoGc)
+				- [Computerised Financial Systems N6 Study Guide - Skills Academy (2).pdf](https://drive.google.com/file/d/1RVLLaSRlRLGSEWmLpFnr98PVq0qHYYdV/view)
+				- [Computerised Financial Systems N6 Assessment Guide - Skills Academy (1).pdf](https://drive.google.com/file/d/1H3C5HMhgbN8fT_0O1m90t83NyfsPCtiG/view)
+		- **Cost and Management Accounting N6** · 6 files · [Drive](https://drive.google.com/drive/folders/1rHINNBkWkgaf-tcnOTZd5V6-9Co5X3yz) [[Public Folder/Subjects/Cost Management Accounting N6|◆ Cost Management Accounting N6]]
+			- [Cost and Management Accounting N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1USTKrr2whg89sUNrRcRvznubE1vx8uSy/view)
+			- [Cost and Management Accounting N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1T8fpA4MJ4H0Q1cO-Ynfk0dbSIbNbAJ0A/view)
+			- [Cost and Management Accounting N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/12dK7bBwFZOZ9XfDBCLiCaJLkJ7Iy7mXZ/view)
+			- **updated** · 3 files · [Drive](https://drive.google.com/drive/folders/1qnOPbTIJqX2UKSMvDGe93iDx9lzEDqxp)
+				- [Cost and Management Accounting N6 Study Guide - Skills Academy (1).pdf](https://drive.google.com/file/d/1D9GdbxJZtEhK_hEAxssfGFbTqU8gEU_B/view)
+				- [Cost and Management Accounting N6 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1iOnqQePllJypKgceNq3RTpGKTxCcmjCe/view)
+				- [Cost and Management Accounting N6 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1POzEXwGs-wt01BWh7yzJfHiYaETYfCXv/view)
+		- **Daycare Communication N6** · 3 files · [Drive](https://drive.google.com/drive/folders/1DgsOriNlyqQI9bIUUKcp_6vwqta1lEfl) [[Public Folder/Subjects/Daycare Communication N6|◆ Daycare Communication N6]]
+			- [Daycare Communication N6 Assignment 2 - Skills Academy (1).pdf](https://drive.google.com/file/d/1nhz3Kx05l-Rbxf2ti5ZgLjMCuRGx2SMS/view)
+			- [Daycare Communication N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1gAItPHrQKc-W-tI2YKR1bDEODxGmcOp8/view)
+			- [Daycare Communication  N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/10nM5_OOpwUpk6TTRnOHjjdGsQcX28Z7U/view)
+		- **Daycare Management N6** · 3 files · [Drive](https://drive.google.com/drive/folders/13qudt1zSLV02m-_vDOxbwNt1s-IC5zdP) [[Public Folder/Subjects/Daycare Management N6|◆ Daycare Management N6]]
+			- [Daycare Management N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1bPKwYkz1uCy8mz6PduYtb_i6ZcIIDYFn/view)
+			- [Daycare Management N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1a037FeB8pZB9dlrQNTrNATP3-yB_ocfl/view)
+			- [Daycare Management N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1GJEcdFvxcoT4Pb1iK-ZSF8BdKOeVFu94/view)
+		- **Educare Didactics N6** · 3 files · [Drive](https://drive.google.com/drive/folders/1EkLb1oHdz-nDVw6gvWDe8LEH2mPVnpVY) [[Public Folder/Subjects/Educare Didactics N6|◆ Educare Didactics N6]]
+			- [Educare Didactics N6 Assignment 1 - Skills Academy (1).pdf](https://drive.google.com/file/d/1SbXh2dLjA6W_jgq7jXcTPpp2DinIf6wY/view)
+			- [Educare Didactics N6 Assignment 2 - Skills Academy (1).pdf](https://drive.google.com/file/d/1E-XpnzmV1HnUYX_1qc_slhXce5iyPcIt/view)
+			- [Educare Didactics N6 Internal Exam - Skills Academy (1).pdf](https://drive.google.com/file/d/1HtH-PCqA58RwXacxQEd-js-C7YayzeGk/view)
+		- **Educational Psychology N6** · 3 files · [Drive](https://drive.google.com/drive/folders/1jwDmJIw_wbMTtQUfkQhrs3EjkQhHo1ul) [[Public Folder/Subjects/Educational Psychology N6|◆ Educational Psychology N6]]
+			- [Educational Psychology N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1anTxtAmrGOQ53gisJtNqCAvYK4EB7HDM/view)
+			- [Educational Psychology N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/10jabiSvk27eOkw0OedernWD-eX5uQW0t/view)
+			- [Educational Psychology N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1lvq4VpWRRsOa48rC7FZzfqA_pgzHnrBV/view)
+		- **Entrepreneurship and Business Management N6** · 3 files · [Drive](https://drive.google.com/drive/folders/10hBnvXf6q1wo3gqrEmzDoya4GIOC7hlC)
+			- [Entrepreneurship and Business Management N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1OWYQTLMQN8C4mCnkxCceUVr-TBKN2gkH/view)
+			- [Entrepreneurship and Business Management N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1iS2K5dIuWiY7KmvlJbOhwhoOL5MI3aF6/view)
+			- [Entrepreneurship and Business Management N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1-oGj4IfWzgWggBoFTyuCTDnUXYQJj751/view)
+		- **Financial Accounting** · 5 files · [Drive](https://drive.google.com/drive/folders/11VnlehypVTgPj1HyaFgnRGGZEIh0dfpi)
+			- [Financial Accounting N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1YnVqVPDkQyhSLSgXetVVareTurjokFDo/view)
+			- [Financial Accounting N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1wKD13dLPOie444n05MX1MFmF26jBMv4h/view)
+			- [Financial Accounting N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1znC1v4sFv0Y-ubcZQU1MrQxZpK4e0sqC/view)
+			- **updated** · 2 files · [Drive](https://drive.google.com/drive/folders/1wEsonwsjq6x3RV6jGd3YJYePb6kY19lB)
+				- [Financial Accounting N6 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1fesOgmjevK4dQWt8QouFdRLggiTUH4b_/view)
+				- [Financial Accounting N6 Assessment Guide - Skills Academy (3).pdf](https://drive.google.com/file/d/1TsBbQTkhgKAuKHtCp1gKokpDYzMtJA2_/view)
+		- **Information Processing N6** · 1 files · [Drive](https://drive.google.com/drive/folders/1WjOtPPCewXX_QwEj7xhVUjJtcC6vtg6c) [[Public Folder/Subjects/Information Processing N6|◆ Information Processing N6]]
+			- [Information Processsing N6 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1xRmsFgrnZkxzXGbCm3IPgOEKxXJbgb-D/view)
+		- **Labour Relations N6** · 3 files · [Drive](https://drive.google.com/drive/folders/1P9YXo0krQiwh5d-qViA26sGIvd6_QKav) [[Public Folder/Subjects/Labour Relations N6|◆ Labour Relations N6]]
+			- [Labour Relations N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1mSlLOThuhZgJB1FN_vzwdDyu9x0bI6fA/view)
+			- [Labour Relations N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1Ar3liMFl7wAJF1eTwTbBUDxwDpLxsiXv/view)
+			- [Labour Relations N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1CW-NzHEOd3LtqODWNEhSdl8RaaixnKFX/view)
+		- **Legal Practice N6** · 3 files · [Drive](https://drive.google.com/drive/folders/1l_y8uYMgTTVBWDPpBk6FK-9mq3thSByQ) [[Public Folder/Subjects/Legal Practice N6|◆ Legal Practice N6]]
+			- [Legal Practice N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1JKWpAxSxZAriPOv-ifOkulFqn96MFmhD/view)
+			- [Legal Practice N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1IeWkEPKSfjPH6V-fS4vR6aWVHUHxcf1q/view)
+			- [Legal Practice N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/19lfRJMa0S8OBUIEiUIHbwLUnQowuGyti/view)
+		- **Marketing Communication N6** · 2 files · [Drive](https://drive.google.com/drive/folders/1uNyBHpAOfCh0naKZzs31HBG7TNoxBDUH) [[Public Folder/Subjects/Marketing Communication N6|◆ Marketing Communication N6]]
+			- [Marketing Communication N6 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1fMKyEG5kJYGt8-cPPYW461zJsoe9SpqW/view)
+			- [Marketing Communication N6 Study Guide - Skills Academy (1).pdf](https://drive.google.com/file/d/1CLG_Gf15O5GuCXy7tI-vRta7GuC824ou/view)
+		- **Marketing Research N6** · 2 files · [Drive](https://drive.google.com/drive/folders/1yzj3e12x45f70ndpqO8A5Ezi-pWFBAB7) [[Public Folder/Subjects/Marketing Research N6|◆ Marketing Research N6]]
+			- [Marketing Research N6 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1PlUkBmfm_NUB3C31DZNmfsJKzBhWxTHS/view)
+			- [Marketing Research N6 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1QERsrk0WK7ylzkOjOjM_JnAyg7dN_q4p/view)
+		- **Marketing Strategies N6** · 5 files · [Drive](https://drive.google.com/drive/folders/1XRFDGW70C105MAVgdUQ8zMLoNS8aTp4G) [[Public Folder/Subjects/Marketing Strategies N6|◆ Marketing Strategies N6]]
+			- [Marketing Strategies N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1JugNnGzS7VKmYUZuo3c0843hM5TYodAp/view)
+			- [Marketing Strategies N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1W_6kSnYztlL8d6J0WM6Bo-vkWnKu0zrP/view)
+			- [Marketing Strategies N6 Assignment 1 - Skills Academy update.pdf](https://drive.google.com/file/d/1coNTLJED6gw6aQJqqtiKPz0EVjXr-2X9/view)
+			- **updated** · 2 files · [Drive](https://drive.google.com/drive/folders/1rcCt9kbwjURDNhBvWZ_DB0qqBc-zG1jD)
+				- [Marketing Strategies N6 Assessment Guide - Skills Academy (1).pdf](https://drive.google.com/file/d/1FWjW1wyugYOCHtID4_nM88byK8hGmSt2/view)
+				- [Marketing Strategies N6 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1A4qk1E8WZ0TkQF5SOjO1M5_GhhQr4_bd/view)
+		- **Office Practice N6** · 2 files · [Drive](https://drive.google.com/drive/folders/1mc5_1PIwkD5g8apK1DPMeSouc7KuBvRt) [[Public Folder/Subjects/Office Practice N6|◆ Office Practice N6]]
+			- [Office Practice N6 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1uTnXNQ97UTTCsYnMCzv6hblyMxCK_Jcb/view)
+			- [Office Practice N6 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1giGt0wlrr6PxohOsT6N61FlNcDkDLPzb/view)
+		- **Personnel Management N6** · 5 files · [Drive](https://drive.google.com/drive/folders/1VUfPdZT9EnNZq_mmhJKS0fHPJNhyj-zU) [[Public Folder/Subjects/Personnel Management N6|◆ Personnel Management N6]]
+			- **Old** · 3 files · [Drive](https://drive.google.com/drive/folders/15L_Njxy3KTZ8Kgfcop7gtoNrjq1N1EHl)
+				- [Personnel Managements N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1FYJmhVvbwppm2gn9eR2YUPzJ5mbNrYod/view)
+				- [Personnel Management N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/11Xu4yNuBfHgbGkwMGvQ1EiuIASoavQL8/view)
+				- [Personnel Management N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/12snR__8BN4UAeu0qFcEEoB0YkFfRGgXE/view)
+			- **Updated** · 2 files · [Drive](https://drive.google.com/drive/folders/1w87RJdTG5Iq-3GXrzR2Caz3aIUbqnFXW)
+				- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1UIonlWiH-zINoJBy-qHBZxa-jbFHTABr)
+					- [Personnel Management N6 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1l_hUG-KxiHGF5quhuVqSHdLWUYwdK4on/view)
+					- [Personnel Management N6 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1Q8Lm-yVA_GVBBG_nbf5LD0LH9Hiuu8n5/view)
+		- **Personnel Training N6** · 5 files · [Drive](https://drive.google.com/drive/folders/1NX_L042T04-F6HDm1HdZeSNayTY9xn9y) [[Public Folder/Subjects/Personnel Training N6|◆ Personnel Training N6]]
+			- **Old** · 3 files · [Drive](https://drive.google.com/drive/folders/1BI077UungETRBARyNI5Sfs0jfghkLuDl)
+				- [Personnel Training N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1g4u7NO4ZhCev3Y0jP9YPU1TXG52Ry-bo/view)
+				- [Personnel Training N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1l_-ZFXdtEA7L9fx7LT_-KUR8PJApnrgv/view)
+				- [Personnel Training N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/10CI6MIpAQ9hjGuKBkQHTQd5WSnQalSSw/view)
+			- **Updated** · 2 files · [Drive](https://drive.google.com/drive/folders/1vu_Hl1CfITfwHQWusMPtQlaTWU9yzxRD)
+				- [Personnel Training N6 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1fiQlPzn1nXrCxcEeiXL_3LVUPpNT-CoU/view)
+				- [Personnel Training N6 Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1rZ4rR1qHtriYThBZ3OaF52UCF8DGt_co/view)
+		- **Public Relations N6** · 3 files · [Drive](https://drive.google.com/drive/folders/1r3pyZOOUwro-J6C6fi5E20PNgBIIIsRM) [[Public Folder/Subjects/Public Relations N6|◆ Public Relations N6]]
+			- [Public Realtions N6 Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1Gn0UC_t1Y3j-GyLKfCh2Os80sRWTQZvY/view)
+			- [Public Relations  N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/12x-_30ec5x9cyrPchMC1nUsOBgGoUbxc/view)
+			- [Public Relations N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/1fsIycFnCNgCNxPxgEXDWvRaz8uWOmuSz/view)
+		- **Sales Management N6** · 3 files · [Drive](https://drive.google.com/drive/folders/1ICCKzc261skZO6h0Xwk_zdLhwgLOtldS) [[Public Folder/Subjects/Sales Management N6|◆ Sales Management N6]]
+			- **Old** · 2 files · [Drive](https://drive.google.com/drive/folders/1rng0b2R-7GICqMD91hIa9gPHdesjBYn6)
+				- [Sales Management N6 Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1fSlO-PmWMMVSQ6l4jbr1MVhfJ9vMVknc/view)
+				- [Sales Management N6 Internal Exam - Skills Academy.pdf](https://drive.google.com/file/d/16zu1mZtOsXRIZTN6MrtfqVLQ7zymo6tb/view)
+			- **Updated** · 1 files · [Drive](https://drive.google.com/drive/folders/1aeV0c72gxw9gkQ4mviQktC8UEdMfTvnk)
+				- **Skills** · 1 files · [Drive](https://drive.google.com/drive/folders/1EQYwZOMP7ArwJnlObWI-sqzJTRztQWKP)
+					- [Sales Management N6 Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/14X85Kcp0u9Sxyo6HrSbhCdfA6FCLVH8k/view)

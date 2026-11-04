@@ -1,0 +1,101 @@
+---
+tags: [public-folder, collection]
+branch: "New Provider"
+files: 61
+drive: https://drive.google.com/drive/folders/13mscFUxu5jGLRF0fWoLQJEH10cWLDs6W
+---
+# Tourism Marketing
+
+Up: [[Public Folder/Branches/New Provider|New Provider]] · [Open in Drive](https://drive.google.com/drive/folders/13mscFUxu5jGLRF0fWoLQJEH10cWLDs6W)
+
+**61 files**
+
+## Subjects here
+[[Public Folder/Subjects/Communication|Communication]] · [[Public Folder/Subjects/Creating Customer Loyalty|Creating Customer Loyalty]] · [[Public Folder/Subjects/Entrepreneurship|Entrepreneurship]] · [[Public Folder/Subjects/Safety First Aid|Safety First Aid]]
+
+## Contents
+- **Communication** · 9 files · [Drive](https://drive.google.com/drive/folders/1mofhJaqgg8lZ-G1EjLLKCnuXclDanmZ3) [[Public Folder/Subjects/Communication|◆ Communication]]
+	- **Bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/1SLa-n_ZiVUxgOOVEZ7aHO06osXuVnzFM)
+		- [Management Communication Study Guide - Bellview (1).pdf](https://drive.google.com/file/d/1tIs4pPXWshwUU6H9v554u2kYm_QzTBUi/view)
+		- [Management Communication - Assignment 2- Bellview.pdf](https://drive.google.com/file/d/1tI1vXySXTE_-PJp17gA91v-V2F5UgN39/view)
+		- [Management Communication  - Assignment 1- Bellview.pdf](https://drive.google.com/file/d/1OgNcvF3GDxPYHaBwo6VXt-bgUrkNOlDX/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/17a9c8uYkHL-HlRfP6UzThSAVCqr_XE33)
+		- [Management Communication Study Guide - Matric (1).pdf](https://drive.google.com/file/d/1iRvYN2vtgfkpJTk3AychUnvVuKJ1x9BM/view)
+		- [Management Communication - Assignment 1 (Matric).pdf](https://drive.google.com/file/d/17jBEgq0_nb_ye_phLLIsMD9pXn2rvJKC/view)
+		- [Management Communication - Assignment 2.pdf](https://drive.google.com/file/d/1xdNvpWGEJq9aonMGdoKfkqUaryyk7xeG/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1jdhojwCLNoKkI_oRpWR44AyMh8f8owtJ)
+		- [Management Communication - Assignment 2 (1).pdf](https://drive.google.com/file/d/1YRCoLYlQ_BrqMRIPx6iLCLNHxJY3i50p/view)
+		- [Management Communication Study Guide - Skills Academy (2).pdf](https://drive.google.com/file/d/1gHpNJmu_L6knAjV-3MDY37h_mJhhk7Mp/view)
+		- [Management Communication - Assignment 1.pdf](https://drive.google.com/file/d/1hET4WI79FfLJMg1gST0FlZQw95vCx9wX/view)
+- **Creating Customer Loyalty** · 11 files · [Drive](https://drive.google.com/drive/folders/1gksikFEooIF6z2BQSU-WQ4YnRiOMvEn2) [[Public Folder/Subjects/Creating Customer Loyalty|◆ Creating Customer Loyalty]]
+	- [Creating Customer Loyalty Textbook FC.pdf](https://drive.google.com/file/d/1Y04ORM-wrsyx5evyhoBseDb8dcYbzpRJ/view)
+	- [Creating Customer Loyalty Textbook BC.pdf](https://drive.google.com/file/d/1IsIvs_DgxbDpVuFod36hKVH7rbPE_63S/view)
+	- [Creating Customer Loyalty Textbook (1).pdf](https://drive.google.com/file/d/1T6b2FWLLqMiWzdLeOKSXm8ZZHJpK_cE-/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1rRa0RByVsrzIads9Lh1DNDOf0-Wpsh1P)
+		- [Creating Customer Loyalty- Assignment 2 Bellview.pdf](https://drive.google.com/file/d/1SI657ugy2aS22-JHzjBQb5n5Gd5WL58d/view)
+		- [Creating Customer Loyalty- Assignment 1 Bellview.pdf](https://drive.google.com/file/d/1boL2CA_wkGS4nT3EXTM5kN6K65ydCot0/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/12WBiGeEtnuh4BGF4Mt0-lu3iuiCLYhLz)
+		- [Creating Customer Loyalty- Assignment 2 Matric (1).pdf](https://drive.google.com/file/d/1JG9NBeUQ-_FqFtyea9O5FgohikjRU-e5/view)
+		- [Creating Customer Loyalty- Assignment 1 Matric (1).pdf](https://drive.google.com/file/d/1dvR0livQ0q7SHgc8NHrnsHtyztpdXNC5/view)
+		- [Creating Customer Loyalty - Study Guide Matric (1).pdf](https://drive.google.com/file/d/1TWq5S5gekEHaPYS4XUchwViaPN7gAxZH/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1f4Nh37_OK89QcloR3D5e7HcLWM8IK0Hr)
+		- [Creating Customer Loyalty- Assignment 2 Skills (1).pdf](https://drive.google.com/file/d/17QlHil4SFtjaiXropALR64KGFlFOMjqQ/view)
+		- [Creating Customer Loyalty - Study Guide Skills.pdf](https://drive.google.com/file/d/1Oui4qwHnaFqVviR9wu6wlxCuGVdN6WpT/view)
+		- [Creating Customer Loyalty- Assignment 1 Skills.pdf](https://drive.google.com/file/d/1AutnUwD03L7AkMm7ekV0t_WPoq3mFJYp/view)
+- **Entrepreneurship** · 11 files · [Drive](https://drive.google.com/drive/folders/15nrrW1L6R1LNjyTTu3fBuAQ_u1M68bKr) [[Public Folder/Subjects/Entrepreneurship|◆ Entrepreneurship]]
+	- [Entrepreneurship and Business Management Textbook (2).pdf](https://drive.google.com/file/d/1FdVhEbZFJz3dIXeWRixLz5gqO8iucNUN/view)
+	- **Bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/1sZrqqA_RDr8Q2hsFS1YlYjVgqx9eHT_7)
+		- [Entrepreneurship Study Guide Bellview Cover Page.pdf](https://drive.google.com/file/d/1ylBr8g0RSRNsDub1cAZq6aFOPz4stzMf/view)
+		- [Entrepreneurship - Assignment 1- Bellview.pdf](https://drive.google.com/file/d/1SQcyNCaTkqITw1y6NIlJ4zYAQcKmor4f/view)
+		- [Entrepreneurship - Assignment 2- Bellview.pdf](https://drive.google.com/file/d/17H3J3NxC6uiLHHT5OdTrlsRbW4rDfegG/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/1G5ga6tHLmmnKqKLu7c3QS1TD9dEFZg8W)
+		- [Entrepreneurship - Assignment 1 Matric.pdf](https://drive.google.com/file/d/1VBC8pD8_rM6ZoQ8c3kQCwNysSv37NhBj/view)
+		- [Entrepreneurship Study Guide - Matric College.pdf](https://drive.google.com/file/d/1cQFZpHioAOnpDDkwC6dvm3fOgdYIVLx1/view)
+		- [EBM- Assignment 2 Matric.pdf](https://drive.google.com/file/d/1hMNrnJ9JQ1FeBcaxLq60pva_QeNSiCQK/view)
+	- **Skills** · 4 files · [Drive](https://drive.google.com/drive/folders/13tbLWFi9dMEyl9K2UqFILOMntAwi4nus)
+		- [Entrepreneurship - Assignment 1 Skills.pdf](https://drive.google.com/file/d/11KceX0qK2Gl8E6ij3G2ZXANhS74n70H0/view)
+		- [Entrepreneurship Study Guide - Skills Academy.pdf](https://drive.google.com/file/d/1SHhqX6DFbHIi6PJlAlgBZq8zBlH-XFyZ/view)
+		- [Entrepreneurship - Assignment 2 Skills.pdf](https://drive.google.com/file/d/14pCrZqYAPk45mAop-LuSzUhhHdiOsrw4/view)
+		- [Entrepreneurship Study Guide Cover Skills.pdf](https://drive.google.com/file/d/130Y_rtJX10r_E5n6UrNb6zJUkaN7SnM-/view)
+- **Safety First Aid** · 12 files · [Drive](https://drive.google.com/drive/folders/1LZ-OtMrkJp_VBI3qEA1xuPY2gw5hRzuU) [[Public Folder/Subjects/Safety First Aid|◆ Safety First Aid]]
+	- [Safety First Aid  Textbook (1).pdf](https://drive.google.com/file/d/1sIeyStAqJC-ZsnSC7E6GsxrNEYRicRoZ/view)
+	- [Safety First Aid FC.pdf](https://drive.google.com/file/d/1OlHs79BTtlSTeheua8kOE7bH2PYDh703/view)
+	- [Safety First Aid BC.pdf](https://drive.google.com/file/d/11XGc6u8raBJlKAgxfupGv2UUcgNR0gpu/view)
+	- **Bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/1cPBIQinWlfdhzXhd0J1SeuhN0-9lnbvf)
+		- [Safety First Aid  - Assignment 2- Bellview.pdf](https://drive.google.com/file/d/17lfwsbrOVUAwLu_rq5Xaki6C7NyAg82D/view)
+		- [Safety First Aid  - Assignment 1- Bellview (1).pdf](https://drive.google.com/file/d/1ZyQOcZ5efCD8kOiu0JPHqsQ1-ApB-f6c/view)
+		- [Safety First Aid Study Guide Cover bellview.pdf](https://drive.google.com/file/d/1D0owAOl9ook0_wKS6mO2Ai0_bS20NXDG/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/1Oj6-f8dygXW-eiagappbsYOe0nh4t_Ld)
+		- [Safety Fisrt Aid - Assignment 2 Matric.pdf](https://drive.google.com/file/d/1TpbM89_m7WmS9bUEFvc4ETMes_m4CX7g/view)
+		- [Safety First Aid  - Assignment 1 Matric.pdf](https://drive.google.com/file/d/1DQSxpXafXcS1c0psbBAzV0lUjge1ZmxK/view)
+		- [First Aid - Study Guide (Matric).pdf](https://drive.google.com/file/d/1HVWFG5KNYnhbVgfyYa4HPv6_CVONSIb3/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1rK9jUE1begdFORzinGu3F8kFypWGmxWa)
+		- [Safety First Aid Study Guide Skills.pdf](https://drive.google.com/file/d/1ZsxGH6FoEmoJmzJZ6nxrO0EG-KZRQ3h0/view)
+		- [Safety Fisrt Aid - Assignment 2 Skills.pdf](https://drive.google.com/file/d/1NzXjPcE2B_58kXFBT2OxbSnWx8am2DO4/view)
+		- [Safety First Aid  - Assignment 1 Skills.pdf](https://drive.google.com/file/d/1tUFoUfV3KxcUlqzisVZz-vo1ve5w2oyh/view)
+- **Tourism Marketing Advanced** · 9 files · [Drive](https://drive.google.com/drive/folders/1EzGPdOMF4R6xIGnuha3mH8sgBS-2gg-f)
+	- **Bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/1_XuUWlBVx4UjVZkkO2i3zPhSOA0XleE_)
+		- [Tourism Marketing Advanced Study Guide (Bellview) (1).pdf](https://drive.google.com/file/d/1wlCuQOX7DBUZ_LPaMjYcG7aR1Q2acxXE/view)
+		- [Tourism Marketing Advanced Assignment 2 (Bellview) (1).pdf](https://drive.google.com/file/d/1JVH2-YQnfAvXPNFH94s3joDXz8VV2BEO/view)
+		- [Tourism Marketing Advanced Assignment 1 (Bellview) (1).pdf](https://drive.google.com/file/d/1tKPSwQsW7n_kklpEoPq4lRXNqtvYp8XR/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/15XPgkvAE0fXVcTOI14GYQXInhHBDYNfY)
+		- [Tourism Marketing Advanced Study Guide (Matric) (1).pdf](https://drive.google.com/file/d/1wkirZ8rqtMgkUg0bOHyTOsj-BQDnKtEt/view)
+		- [Tourism Marketing Advanced Assignment 1 (Matric) (1).pdf](https://drive.google.com/file/d/1gT8QNZLLc1awObOWCQxqVzg8hO1QIYaO/view)
+		- [Tourism Marketing Advanced Assignment 2 (Matric) (1).pdf](https://drive.google.com/file/d/1HR14KTPG1aSjhVUt9OiOUlc1xF02VW4u/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1MlNA0wR5O6D7V0GnKF8vqTHDCwb5Cvgx)
+		- [Tourism Marketing Advanced Assignment 2 (Skills) (1).pdf](https://drive.google.com/file/d/1byWQPa5Gu8rdogXkkoq1rmI3jQ1FwFwS/view)
+		- [Tourism Marketing Advanced Study Guide (Skills) (2).pdf](https://drive.google.com/file/d/1EVVKV11i6pE_in0Fae6jICzGS8DODhBZ/view)
+		- [Tourism Marketing Advanced Assignment 1 (Skills) (1).pdf](https://drive.google.com/file/d/1Lymi1mnrZDVS7sW_KhpdKfYspI6JSuBh/view)
+- **Tourism Marketing Basic** · 9 files · [Drive](https://drive.google.com/drive/folders/1TgfY8RTkaIPJ68DqAiZWhG7IUsAG6Zf8)
+	- **Bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/1MteIxY6EznE_wLCgMcQAQhZXGOqLdysH)
+		- [Tourism Marketing Basic Assignment 1 (Bellview) (1).pdf](https://drive.google.com/file/d/12vgSqQWnFdSJkY4t0qvJJq7H9WCLYFEq/view)
+		- [Tourism Marketing Basic Assignment 2 (Bellview) (1).pdf](https://drive.google.com/file/d/1ZN4oBDl-xbTnXCNXnNZO1loPKHk5E1EF/view)
+		- [Tourism Marketing Basic study guide (Bellview).pdf](https://drive.google.com/file/d/1txZ1i9Lqx3s_fCntKbZJh8fzC_45PVa_/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/1HTTOV5MwUv2eNpcgaFeBcjh85PnGNwqk)
+		- [Tourism Marketing Basic study guide (Matric).pdf](https://drive.google.com/file/d/1N_lBXr0t4TgqnZeKA0kv1HB0YUloy_ng/view)
+		- [Tourism Marketing Basic Assignmet 2 (Matric).pdf](https://drive.google.com/file/d/1t1Ktr2CNf2qq-fuCr52dmM88m6VqS4jR/view)
+		- [Tourism Marketing Basic Assignment 1 (Matric) (1).pdf](https://drive.google.com/file/d/1PCb6Q54u2o3g1zrYw7qTmYJ0J9Qzw1Cu/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1XAsQzW04Xzizqmrx9L4rOWPmMAYBdq8k)
+		- [Tourism Marketing Basic study guide (Skills).pdf](https://drive.google.com/file/d/1WKf-QboQbASJF5qstojLm5ieBdwZiuV4/view)
+		- [Tourism Marketing Basic Assignmet 2 (Skillss) (1).pdf](https://drive.google.com/file/d/1fMc0X3DSPXEQZ0eZ7QHKUtnKfvLHJmRP/view)
+		- [Tourism Marketing Basic Assignment 1 (Skills) (1).pdf](https://drive.google.com/file/d/1GLiSNDkP_8P9GzrtHXjjkZ4F0dLzolLN/view)

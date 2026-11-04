@@ -1,0 +1,175 @@
+---
+tags: [public-folder, collection]
+branch: "QCTO Accredited Courses"
+files: 114
+drive: https://drive.google.com/drive/folders/1AaJQHAf_luZv-tj09_Fb2krYletb2i2E
+---
+# ECD
+
+Up: [[Public Folder/Branches/QCTO Accredited Courses|QCTO Accredited Courses]] · [Open in Drive](https://drive.google.com/drive/folders/1AaJQHAf_luZv-tj09_Fb2krYletb2i2E)
+
+**114 files**
+
+## Subjects here
+[[Public Folder/Subjects/Km 01|Km 01]] · [[Public Folder/Subjects/Km 02|Km 02]] · [[Public Folder/Subjects/Km 03|Km 03]] · [[Public Folder/Subjects/Km 04|Km 04]] · [[Public Folder/Subjects/Km 05|Km 05]] · [[Public Folder/Subjects/Km 06|Km 06]] · [[Public Folder/Subjects/Km 07|Km 07]]
+
+## Contents
+- **Bellview** · 36 files · [Drive](https://drive.google.com/drive/folders/1EDYdFmzZt9gkv4gUidISHUD2d5luClh1)
+	- **KM-01** · 4 files · [Drive](https://drive.google.com/drive/folders/1Wl-4RfX3m9sLhWRWxKpL_rrjv-XEEip6) [[Public Folder/Subjects/Km 01|◆ Km 01]]
+		- [Copy of KM 01 BC.pdf](https://drive.google.com/file/d/1cClgtdvWx5_93Int3n3iUnWaRI4cvRyv/view)
+		- **asessments** · 3 files · [Drive](https://drive.google.com/drive/folders/1_cwyB1zGOQCFM4RSZbrzDpuHWNJyAnWK)
+			- [KM-01 Formative Assessment Bellview (2).pdf](https://drive.google.com/file/d/1DlcCVzxERWybNTeaB1pC2Q41ZlPJBvSI/view)
+			- [KM-01 Summative Assessment Bellview (2).pdf](https://drive.google.com/file/d/1RMHJUtt71O22B1qSegSM6yK6SV1Lywc7/view)
+			- [KM-01-POE Guide Bellview (2).pdf](https://drive.google.com/file/d/1fBbZ1KtRUpQV2VSJZtO1XMcFYG3_LtmK/view)
+	- **KM-02** · 4 files · [Drive](https://drive.google.com/drive/folders/1BPEVNbtuGzkcFPLSGJhy67LGopiauJ5Y) [[Public Folder/Subjects/Km 02|◆ Km 02]]
+		- [KM-02-POE guide Bellview.pdf](https://drive.google.com/file/d/14c7Mzh1SusCrYZ2coZ9AKdN8SYpyiGeD/view)
+		- [KM-02 Summative Assessment Bellview.pdf](https://drive.google.com/file/d/17ruGyTwkAWtzVc0O6CjjnH2Y-BwOWEgQ/view)
+		- [KM-02 Formative assessment Bellview.pdf](https://drive.google.com/file/d/1hi6sZs1Y02zUE99VzsGmR1gjUV1AgvBT/view)
+		- [PM-02 Practical Assessment (Bellview).pdf](https://drive.google.com/file/d/11oDEc6VDeeWEdTYVK79dEHkoxn7QqttR/view)
+	- **KM-03** · 4 files · [Drive](https://drive.google.com/drive/folders/1UiPXvNwri5HDbWN4cYTpyWj4h6tXkyug) [[Public Folder/Subjects/Km 03|◆ Km 03]]
+		- [KM 03 BC.pdf](https://drive.google.com/file/d/1x9sCnrzhMcRO2uLAcoutur9ih0QN5Iov/view)
+		- **assessments** · 3 files · [Drive](https://drive.google.com/drive/folders/1xjqfjrj1t-6j9m2IMYGRKxm8Cq1t5mm8)
+			- [KM-03 Formative Assessment Bellview.pdf](https://drive.google.com/file/d/1OxCBHng8N6gojvaqO73IEsR-GxvD08ka/view)
+			- [KM-03 summative assessment Bellview.pdf](https://drive.google.com/file/d/1xWzLo-UOePJYPHv7nYoqPTwM4B9bgIM2/view)
+			- [KM-03-POE guide bellview.pdf](https://drive.google.com/file/d/1ogVKNiqpXXfYmMPxl7YWUH_QKz2vu9-2/view)
+	- **KM-04** · 4 files · [Drive](https://drive.google.com/drive/folders/1p09ZDZZOEa9BnBxZYtcNDc48VW6tTkGn) [[Public Folder/Subjects/Km 04|◆ Km 04]]
+		- [KM 04 BC.pdf](https://drive.google.com/file/d/1B8UHr65Qzn__dfK7qmwp3XhAGz3Lraca/view)
+		- **ASSESSMENT** · 3 files · [Drive](https://drive.google.com/drive/folders/1PeFmhpD7v4ofE5OTkoQ_cuy_THvEHCtQ)
+			- [KM-04 Summative Assessment Bellview.pdf](https://drive.google.com/file/d/1PufnU1kJhjt5WpGz-EHq3f9m49FIiK0j/view)
+			- [KM-04 Formative Assessment Bellview.pdf](https://drive.google.com/file/d/1dJ1vOxqM0c9k4J4MmDieX63Ink4Bvaxm/view)
+			- [KM-04-POE Guide Bellview.pdf](https://drive.google.com/file/d/176OjSmh9IJAuAVD3G3E0LvLEsG7Wko6U/view)
+	- **KM-05** · 2 files · [Drive](https://drive.google.com/drive/folders/18NohJPy5HVGV9rVi15HYs0JaI3lSte41) [[Public Folder/Subjects/Km 05|◆ Km 05]]
+		- [KM 05 BC.pdf](https://drive.google.com/file/d/1QJ4yFRvlIOAZlJv8T5hkDG4b9XUr4zFL/view)
+		- **assessment** · 1 files · [Drive](https://drive.google.com/drive/folders/1MyxBsSrY0Ynv52Bf15Mp458SVI1IolNx)
+			- [KM-05-POE guide Bellview.pdf](https://drive.google.com/file/d/1DcOtADIc9omylx_41tpgHNXbJvRV7Pb1/view)
+	- **KM-06** · 4 files · [Drive](https://drive.google.com/drive/folders/17pTYdkf8cjGULlZESq02s5VeuxsyshHy) [[Public Folder/Subjects/Km 06|◆ Km 06]]
+		- [KM-06 Study Guide Bellview.pdf](https://drive.google.com/file/d/1o3L4gPfH7FNqRSJRz2Kv3Es8Qvx-oRbi/view)
+		- **Assessment** · 3 files · [Drive](https://drive.google.com/drive/folders/1F-pZ_5GdaH-axWWxR-wI2NZvqzJPc8jx)
+			- [KM-06 summative assessment Bellview.pdf](https://drive.google.com/file/d/1x7swxTK6l2u2Yc3HYpvvby1BwumKGT8h/view)
+			- [KM-06-POE guide Bellview.pdf](https://drive.google.com/file/d/1BVKHoEc54FYIBzFeK3s4tYiNY7L66b5J/view)
+			- [KM-06 Formative Assessment Bellview.pdf](https://drive.google.com/file/d/1PNmR0ZipP6YNUWnD5mqIkNPl8jWrI1qn/view)
+	- **KM-07** · 5 files · [Drive](https://drive.google.com/drive/folders/1tRVRn0iq1E5ojGQiOmnztprvBj3e9A0u) [[Public Folder/Subjects/Km 07|◆ Km 07]]
+		- [KM 07 BC.pdf](https://drive.google.com/file/d/145gfPPNodM8KUmbWqk9u32YvR9Z9eGI9/view)
+		- [KM-07 Study Guide Bellview.pdf](https://drive.google.com/file/d/1xgBXvo1odrD1VDbtOv3pTTU1wil7Jvqt/view)
+		- **Assessments** · 3 files · [Drive](https://drive.google.com/drive/folders/1RwrqdXM622xXWoFis_3Nx_p7xiM6qcnm)
+			- [KM-07 Summative assement Bellview.pdf](https://drive.google.com/file/d/1wNINhzFIsuvYFcV55PP11a-RHnfk7mWM/view)
+			- [KM-07 Formative assessment Bellview.pdf](https://drive.google.com/file/d/1shoJurkbBHOR81DAk7vTqxe4X-5qsCY-/view)
+			- [KM-07-POE guide Bellview.pdf](https://drive.google.com/file/d/19FjKpOPFckoU0EIiagoJAEKdksz18Fu3/view)
+	- **Practical Modules** · 5 files · [Drive](https://drive.google.com/drive/folders/1G4y5oEILUwIO2CEkrAE_hwXKCV-yjI2r)
+		- [PM-06 Practical  Assessment Bellview.pdf](https://drive.google.com/file/d/150eyTvD8jkcoqoE9omS5zWxYs_ThQhOm/view)
+		- [PM-03 Practical  Assessment Bellview.pdf](https://drive.google.com/file/d/1-6lMyx6HDVz1rA0sNpuSJr22Mnr0_B2Y/view)
+		- [PM-01 Practical Assessment Bellview.pdf](https://drive.google.com/file/d/1oasWC6m8C4qRNZnQr0FtF0zF4upxG1H1/view)
+		- [PM-04 Practical Assessment Bellview.pdf](https://drive.google.com/file/d/19x0nK50b-DLaAOZrBYWK03gbbAUQ67lB/view)
+		- [PM-05 Practical  Assessment Bellview.pdf](https://drive.google.com/file/d/1ejZM8kDE1oOwz04PuqnqFIkXEiaGTAfx/view)
+	- **Workplace Modules** · 4 files · [Drive](https://drive.google.com/drive/folders/1wwbUgduuFJfqYJa1KGKdARe_bcm6qzTj)
+		- [WM-01 Workplace Bellview.pdf](https://drive.google.com/file/d/1gf1fh4CP9oHIW4DCpvJLmE1F3YrPFMob/view)
+		- [WM-04. Workplace Guide bellview.pdf](https://drive.google.com/file/d/1-XoBPvdvVSKw-CndCtBRh-WsECZjJecs/view)
+		- [WM-02. Workplace Guide bellview.pdf](https://drive.google.com/file/d/17aQR6kImHyZSiDjt1ir8AK0V-VwA5yxD/view)
+		- [WM-03 Workplace Bellview.pdf](https://drive.google.com/file/d/1oFPB3dXPprILcwl4Ra7hcWR-2JMB49Zp/view)
+- **Skills** · 78 files · [Drive](https://drive.google.com/drive/folders/1jv_WZ0sawuldh9TGU32IqjR9z_-0vnKS)
+	- **KM 01** · 6 files · [Drive](https://drive.google.com/drive/folders/1l_n7665aAAQPEu8GCsMCsQohubrsnI33) [[Public Folder/Subjects/Km 01|◆ Km 01]]
+		- [KM 01 BC.pdf](https://drive.google.com/file/d/1C7VKRM2-D82E0_xQd9nEj9XUTtG4Yd-M/view)
+		- **Skills** · 5 files · [Drive](https://drive.google.com/drive/folders/11JU6DRJ5g4FDo5_sCdbOFJSLciDiR-rk)
+			- [KM-01 Summative Assessment1 Skills.pdf](https://drive.google.com/file/d/1aA_0Cu-HuuB81w9kv5aykllUwHG0bmg6/view)
+			- [KM-01 Formative Assessment Skills.pdf](https://drive.google.com/file/d/1FzT4AQEUAP8eSf6RFcB6ToJ_4hNb60eQ/view)
+			- [PM-01 Practical Assessment Skills.pdf](https://drive.google.com/file/d/1BKtc9FeDOKWDpnet3CKIjCHvW758_lGt/view)
+			- [KM-01-POE Guide Skills.pdf](https://drive.google.com/file/d/1tbBNY7IkKXHrbzt1cvHau8xJ4CK9IFyv/view)
+			- [WM-01 Workplace Skills.pdf](https://drive.google.com/file/d/1sdNIqzKh8tSwGp0C_hkS6xmFP_YZXab_/view)
+	- **KM 01 - Copy** · 6 files · [Drive](https://drive.google.com/drive/folders/1P06dahypuxuy0Us92H6wtyHJyOb4x_sf) [[Public Folder/Subjects/Km 01|◆ Km 01]]
+		- [KM 01 BC.pdf](https://drive.google.com/file/d/1YLOHcKw8qO-AA2IPgMXyY3StSaDjjwz3/view)
+		- **Skills** · 5 files · [Drive](https://drive.google.com/drive/folders/1ghTKtZiZMxgTy61G4i1gnE4S95O12G1Q)
+			- [KM-01 Formative Assessment Skills.pdf](https://drive.google.com/file/d/1tH8nxZV8n_h3AQiUidsFwETbndOoEHUE/view)
+			- [KM-01-POE Guide Skills.pdf](https://drive.google.com/file/d/1UN1avFaDg_5M3ekDaPmzbR3vT4rAKbSH/view)
+			- [KM-01 Summative Assessment1 Skills.pdf](https://drive.google.com/file/d/18JwzqBgcSzVhB-5SvCg4AeaAHKoIsPak/view)
+			- [PM-01 Practical Assessment Skills.pdf](https://drive.google.com/file/d/1BYUOs89pOufREbq2F_Yh-CkXsFiQxW4E/view)
+			- [WM-01 Workplace Skills.pdf](https://drive.google.com/file/d/1oxanHAGjUCXxsxgShMoBe9-e5OwDjV2H/view)
+	- **KM 02** · 6 files · [Drive](https://drive.google.com/drive/folders/1_JDDPY7iWiq6Jg2iRn98KK0WYS-VPSlU) [[Public Folder/Subjects/Km 02|◆ Km 02]]
+		- [KM 02 BC.pdf](https://drive.google.com/file/d/1UKhy9kSCHEqXRz7laq0IOA0XdV141oIO/view)
+		- **Skills** · 5 files · [Drive](https://drive.google.com/drive/folders/12MzmSPrRfLjNwOs8kKtrfU6BS44wZSwG)
+			- [KM-02 Formative assessment Skills.pdf](https://drive.google.com/file/d/13eJqbNnIldUDHwDgKTUkMKpagPd6JimV/view)
+			- [KM-02-POE guide Skills.pdf](https://drive.google.com/file/d/1S9HFsvoaewyjm-TnlZH1RZgLSNcw2XJ9/view)
+			- [KM-02 Summative Assessment Skills.pdf](https://drive.google.com/file/d/1cG5qXEbRP-E5NKw17jqyshbGJx4ccJj3/view)
+			- [PM-02 Practical Assessment (Skills).pdf](https://drive.google.com/file/d/1LZdbAYnyAwYv6wBKXW6zkZfwvFRelNci/view)
+			- [WM-02. Workplace Guide Skills.pdf](https://drive.google.com/file/d/1wdn3chBhERh3eFtW_51kh5wNhM4ZR7yS/view)
+	- **KM 02 - Copy** · 6 files · [Drive](https://drive.google.com/drive/folders/13mlw8lqkWeJ-Iqn_nNaj6tOmomAKproK) [[Public Folder/Subjects/Km 02|◆ Km 02]]
+		- [KM 02 BC.pdf](https://drive.google.com/file/d/1bImghidtsvMdmR2TUR90ePKjli7aU7B0/view)
+		- **Skills** · 5 files · [Drive](https://drive.google.com/drive/folders/19MjWWEBWVi3V30lF0Y_NXvEoEMypJmlO)
+			- [KM-02 Summative Assessment Skills.pdf](https://drive.google.com/file/d/1ki5Lxn4ZLp8uiRPFix2HW6HbRJPv26Ww/view)
+			- [KM-02 Formative assessment Skills.pdf](https://drive.google.com/file/d/1oZrGkQbHTHGTCIjOWLR0Z7rCNxBU26V7/view)
+			- [PM-02 Practical Assessment Skills.pdf](https://drive.google.com/file/d/18zugENXsGAxqhf3cLZybPGU6_6-4pIhn/view)
+			- [KM-02-POE guide Skills.pdf](https://drive.google.com/file/d/1-5NL0c11MQ60hgC-drYKqTb0fbzz4wYi/view)
+			- [WM-02. Workplace Guide Skills.pdf](https://drive.google.com/file/d/1ET7Ceqh0oq43VSy1FebRZ6kEH0QFvtHF/view)
+	- **KM 03** · 6 files · [Drive](https://drive.google.com/drive/folders/1aVYHaE_RZJG4ZhtQ1IPmXxUYW81P4lyk) [[Public Folder/Subjects/Km 03|◆ Km 03]]
+		- [KM 03 BC.pdf](https://drive.google.com/file/d/1CcdoXBuLww2gVCcyfMXGIs_2EsXwrbWa/view)
+		- **Skills** · 5 files · [Drive](https://drive.google.com/drive/folders/1-MrBnuKrnjGAo2lDUqXswLfMbdn7OFg4)
+			- [234201000-KM-03 Formative Assessment.docx.pdf](https://drive.google.com/file/d/1C5XQT1VfjjSUibM7fCn44HhKyEcAXSnz/view)
+			- [234201000-KM-03 summative assessment.docx (Skills).pdf](https://drive.google.com/file/d/1dU6d5gYpPa7icIX-Xf2XDAJetcjVIe1v/view)
+			- [234201000 -PM-03 Practical  Assessment.docx (Skills).pdf](https://drive.google.com/file/d/126BLY38TOcaz7PrSXPmk0WJZ3eLYQpZQ/view)
+			- [234201000-KM-03-POE guide.docx (Skills).pdf](https://drive.google.com/file/d/1-GQNdaLCaHtORc00A7_C_mUqxzEDM7iJ/view)
+			- [234201000-WM-03.docx (Skills).pdf](https://drive.google.com/file/d/1wKkq5zokjzZ4uo7rlp015sdopf-gEdHn/view)
+	- **KM 03 - Copy** · 6 files · [Drive](https://drive.google.com/drive/folders/1ZN09sRK8os7dcd3ZzwwczQxAY-K17R4G) [[Public Folder/Subjects/Km 03|◆ Km 03]]
+		- [KM 03 BC.pdf](https://drive.google.com/file/d/1CikXL0LazaFHAT0e_ucLyZ5sZb_XjtSE/view)
+		- **Skills** · 5 files · [Drive](https://drive.google.com/drive/folders/15qAsP2OgUwXZa4DA6_WvSuAeLMmDn1QR)
+			- [234201000-KM-03 Formative Assessment.docx.pdf](https://drive.google.com/file/d/1RCyYDTp4o67GJEBd9q8IWGv46pnbhN1W/view)
+			- [234201000 -PM-03 Practical  Assessment.docx (Skills).pdf](https://drive.google.com/file/d/1DLick3EfiRQUvZU60_5WCRksDtIANB6k/view)
+			- [234201000-KM-03-POE guide.docx (Skills).pdf](https://drive.google.com/file/d/15hVgg4nEHF9wcFeDpI7JStvo_XjhPoff/view)
+			- [234201000-KM-03 summative assessment.docx (Skills).pdf](https://drive.google.com/file/d/1HRy-6HFkq1o5Gk3t9apQHGAUf7eic_lC/view)
+			- [234201000-WM-03.docx (Skills).pdf](https://drive.google.com/file/d/1EgpqqRdZpQNOcE2lKHtTgGzJCHmNy8c-/view)
+	- **KM 04** · 6 files · [Drive](https://drive.google.com/drive/folders/1Te1hQEhaFI-Gmp35tvYPfp-ey4agnx85) [[Public Folder/Subjects/Km 04|◆ Km 04]]
+		- [KM 04 BC.pdf](https://drive.google.com/file/d/1qIR0QrIQeW5vUIdClBvWdxFi_XEEtx0s/view)
+		- **Skills** · 5 files · [Drive](https://drive.google.com/drive/folders/1g79eAhbE41zXPnWU38tUNphah03_rA33)
+			- [PM-04 Practical Assessment Skills.pdf](https://drive.google.com/file/d/1lwaqiFdvEes4x42N9_WhdqY8-V-4yP2V/view)
+			- [KM-04 Summative Assessment Skills.pdf](https://drive.google.com/file/d/1WalbhJmeb6Un7LUWzxGqu3dRR08o4tiK/view)
+			- [KM-04-POE Guide Skills.pdf](https://drive.google.com/file/d/1cmxYupUVlYQcz4DWpuZSyVAQSM7YttbF/view)
+			- [WM-04. Workplace Guide Skills.pdf](https://drive.google.com/file/d/1U5dKkui5EooYR0BTX9s3mFnL2sM6ffWk/view)
+			- [KM-04 Formative Assessment Skills.pdf](https://drive.google.com/file/d/16m6O6LGtUFK_FKWa9o1zoVOCp07r4DjL/view)
+	- **KM 04 - Copy** · 6 files · [Drive](https://drive.google.com/drive/folders/1fZ8GNkf-tDWCN-sBZNoAagMHq2PedmOa) [[Public Folder/Subjects/Km 04|◆ Km 04]]
+		- [KM 04 BC.pdf](https://drive.google.com/file/d/1PDq8qWYisZoBmPlsqERvdRywyYIUPb5t/view)
+		- **Skills** · 5 files · [Drive](https://drive.google.com/drive/folders/1M6PnCZRfPWOwhqcVfSHGLkSE0djdZ6a9)
+			- [KM-04 Summative Assessment Skills.pdf](https://drive.google.com/file/d/1Fmemb_rioJLG_xvrhHZiow2Rk5DrLgZC/view)
+			- [PM-04 Practical Assessment Skills.pdf](https://drive.google.com/file/d/1JjeR7kcS7tHFHwFKynb1wFvY0SN1lA5u/view)
+			- [KM-04 Formative Assessment Skills.pdf](https://drive.google.com/file/d/1zqIkjZ2XIjfKeaJff5GUa6LUmyJ70Cyf/view)
+			- [WM-04. Workplace Guide Skills.pdf](https://drive.google.com/file/d/16QAGrCxrOPYJ_CawaM_bPa500Jh0u1X6/view)
+			- [KM-04-POE Guide Skills.pdf](https://drive.google.com/file/d/1U6TT9xVcYwn91fVv5PiTnBaSxvSmv6pS/view)
+	- **KM 05** · 5 files · [Drive](https://drive.google.com/drive/folders/1Ijk442sGta_4wtlY7tQQyuWxJiZMysMN) [[Public Folder/Subjects/Km 05|◆ Km 05]]
+		- [KM 05 BC.pdf](https://drive.google.com/file/d/13w7OzTHRur9YG8t5oyAa2aJakdNwe3T5/view)
+		- **Skills** · 4 files · [Drive](https://drive.google.com/drive/folders/1vf_vgp1U6I03lnSKxu__x8Ti_q_2sRoW)
+			- [234201000-KM-05 Summative Assessment1.docx (Skills).pdf](https://drive.google.com/file/d/12rLLYK8agGkbkE2MyeafkyWJvXIxag5u/view)
+			- [234201000-KM-05-POE guide.docx (Skills).pdf](https://drive.google.com/file/d/1QZ_gww8u4Lh79t5k0N1EMtg3Sm-ms7gf/view)
+			- [234201000 -PM-05 Practical  Assessment.docx (Skills).pdf](https://drive.google.com/file/d/1xPPrdiARlRnRNbROXChWicwjaeGFfqsb/view)
+			- [234201000-KM-05 Formative Assessment.docx (Skills).pdf](https://drive.google.com/file/d/1HpMwqZU3Fsru3U7xC8H79Jo4Hy3c9mjH/view)
+	- **KM 05 - Copy** · 5 files · [Drive](https://drive.google.com/drive/folders/16KZS_mMkR_yoSlPaiH8YHSZwq64mOrxD) [[Public Folder/Subjects/Km 05|◆ Km 05]]
+		- [KM 05 BC.pdf](https://drive.google.com/file/d/1T46edjbyJa1bOHqRgiLGjrrhOj4EZShz/view)
+		- **Skills** · 4 files · [Drive](https://drive.google.com/drive/folders/1AvdkDhG37FA_SiKIDyd3OCJu86JER0tu)
+			- [234201000-KM-05-POE guide.docx (Skills).pdf](https://drive.google.com/file/d/1gYCljjNBaWhsy8sFoz6IM-k48Ca2MHhR/view)
+			- [234201000-KM-05 Formative Assessment.docx (Skills).pdf](https://drive.google.com/file/d/1VIg5qGoJ57S2MJ1GFiafWibfn-gAAsZS/view)
+			- [234201000-KM-05 Summative Assessment1.docx (Skills).pdf](https://drive.google.com/file/d/1G7AkSzXS4ZUb5iUuvTyJayxHMqc9OUe8/view)
+			- [234201000 -PM-05 Practical  Assessment.docx (Skills).pdf](https://drive.google.com/file/d/1qEUIY_Yf-iKk5NbfwUaXWdWZ0DKr2_ip/view)
+	- **KM 06** · 5 files · [Drive](https://drive.google.com/drive/folders/156E1bps9zeCPXLJ_PUVFuW2WtMJTh1js) [[Public Folder/Subjects/Km 06|◆ Km 06]]
+		- **Skills** · 5 files · [Drive](https://drive.google.com/drive/folders/1V1mk6r9zfslV0iufid8BWDn1t7dn698-)
+			- [KM-06-POE guide Skills.pdf](https://drive.google.com/file/d/1m35HQmQjmx_ZjYW0q0MzJjbKG2GdneKL/view)
+			- [PM-06 Practical  Assessment Skills.pdf](https://drive.google.com/file/d/1D5OuXARY6NtxcUjZ2M3dxJpk1PJEJj6y/view)
+			- [KM-06 Formative Assessment Skills.pdf](https://drive.google.com/file/d/18S3wuHCrWEIAUZfX9aJWr8YWjr4KPdRM/view)
+			- [KM-06 Study Guide Skills.pdf](https://drive.google.com/file/d/1VEwbZNvrrpoqXe29t0YpaoU1PFaOZM-p/view)
+			- [KM-06 summative assessment Skills.pdf](https://drive.google.com/file/d/1RVMpnvgZFhkeLVz6z5uSb0BxNeS1__PI/view)
+	- **KM 06 - Copy** · 5 files · [Drive](https://drive.google.com/drive/folders/16ra7CVRl0X6D9dF4Q2XpddG15VGrHmVT) [[Public Folder/Subjects/Km 06|◆ Km 06]]
+		- **Skills** · 5 files · [Drive](https://drive.google.com/drive/folders/1W1HHSsEyU4c1MecX-cu-EZauGhj1HmyX)
+			- [KM-06 summative assessment Skills.pdf](https://drive.google.com/file/d/1X-hBF4giznrPYQf6pkgdyh_LksPGwoi7/view)
+			- [KM-06 Study Guide Skills.pdf](https://drive.google.com/file/d/1twcpmllZFym6O5DtiAGnuD5o6wryLd57/view)
+			- [KM-06-POE guide Skills.pdf](https://drive.google.com/file/d/1c8zJ5YIRtq5G0Zc4Nflksw9b8znWpGrE/view)
+			- [PM-06 Practical  Assessment Skills.pdf](https://drive.google.com/file/d/1r0FaMBzYNUo2bwLlWaEEov_-TXNheNRA/view)
+			- [KM-06 Formative Assessment Skills.pdf](https://drive.google.com/file/d/1U2RX_BeCNc97Ga7BMdtIU_GBkx9gAfxz/view)
+	- **KM 07** · 5 files · [Drive](https://drive.google.com/drive/folders/1BoT1C556-5BN3D7LAa1yl5O_1iwTVASH) [[Public Folder/Subjects/Km 07|◆ Km 07]]
+		- [KM 07 BC.pdf](https://drive.google.com/file/d/11UeJkx1VOW7F6dnwTEunlziL8G4Tm6R5/view)
+		- **Skills** · 4 files · [Drive](https://drive.google.com/drive/folders/1ga58hgEXu0wzttBQr_f1wTUv3Esa4gkc)
+			- [234201000-KM-07 Formative assessment.docx (Skills).pdf](https://drive.google.com/file/d/1lmXpPXVyHSuU7XUnCUE0lkyeWZZD1MxA/view)
+			- [KM-07 Study Guide Skills.pdf](https://drive.google.com/file/d/1SaFiJvMQjMKvKpAMF2c7xOYbeXtY7BGE/view)
+			- [234201000-KM-07 Summative assement.docx (Skills).pdf](https://drive.google.com/file/d/1MujUCLZjtmLeZAMdyy4cRx9kRVjCczc2/view)
+			- [234201000-KM-07-POE guide.docx (Skills).pdf](https://drive.google.com/file/d/1U8buiXRYe3MmIgeiwoh5URX0O0eLQxPq/view)
+	- **KM 07 - Copy** · 5 files · [Drive](https://drive.google.com/drive/folders/1BLljj4aFmAVgPHcfksVOnAIx3sI-pDA5) [[Public Folder/Subjects/Km 07|◆ Km 07]]
+		- [KM 07 BC.pdf](https://drive.google.com/file/d/1URmrFsfLd-a_piKufrRTzHbuOSRRN9GO/view)
+		- **Skills** · 4 files · [Drive](https://drive.google.com/drive/folders/1EytESk5T4KfP1Gjj-jPjT6sbrjSV4J56)
+			- [234201000-KM-07 Summative assement.docx (Skills).pdf](https://drive.google.com/file/d/1552gD7Q2DA9tYl75V8PR44q5Ro-SOzqi/view)
+			- [234201000-KM-07 Formative assessment.docx (Skills).pdf](https://drive.google.com/file/d/1be2OmgaefmeS3Y1IjweePE5i-McScUiN/view)
+			- [KM-07 Study Guide Skills.pdf](https://drive.google.com/file/d/1N0DilfFF6uIZ7LEefc8XldUndIhaDsWk/view)
+			- [234201000-KM-07-POE guide.docx (Skills).pdf](https://drive.google.com/file/d/158nrhzp2JHjD2qBUGXWvpmC_jBU2OZHx/view)

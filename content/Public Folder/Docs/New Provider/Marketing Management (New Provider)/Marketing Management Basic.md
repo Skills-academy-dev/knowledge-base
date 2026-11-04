@@ -1,0 +1,16 @@
+---
+tags: [public-folder, document]
+source: "Marketing Management Basic.pdf"
+format: pdf
+drive: https://drive.google.com/file/d/1DKHer4SnJOmcHW1lya9O-eMWBqzpDdrb/view
+branch: "New Provider"
+---
+# Marketing Management Basic.pdf
+
+Up: [[Public Folder/Collections/New Provider/Marketing Management (New Provider)|Marketing Management (New Provider)]] · Subjects: [[Public Folder/Subjects/Marketing Management|Marketing Management]] · [[Public Folder/Subjects/Provider|Provider]]
+Location: New Provider › Marketing Management · [Open original in Drive](https://drive.google.com/file/d/1DKHer4SnJOmcHW1lya9O-eMWBqzpDdrb/view)
+
+---
+
+TEXTBOOKMarketingManagement BasicAuthor: Thiana Pretorius • Editor: Itai NgoshiQuality Checked by Aludwe Mthini and Getrude TsemwaDeveloped byCape Town, South Africa
+Build Your Marketing Foundation. Launch Your Career.Marketing sits at the heart of every successful business - connecting companies withcustomers, driving innovation, and creating real value in the marketplace. The MarketingManagement Basic textbook equips you with the foundational knowledge and practicalskills to excel in this dynamic, fast-paced field.Whether you're a student launching your marketing journey, a professional refining yourstrategic thinking, or an entrepreneur learning to understand and reach your audience, thistextbook provides the essential framework for tackling every marketing challenge withconfidence.Inside, you'll learn how to:Master Marketing Fundamentals: Understand the origin and evolution of marketing as adiscipline, grasp core concepts including the marketing mix and process, and recognizehow modern marketing creates value for businesses and consumers alike.Navigate the Marketing Environment: Analyze internal and external factors thatinfluence marketing decisions, identify opportunities and threats in dynamic markets, andadapt strategies to changing business conditions and competitive landscapes.Understand Consumer Behavior: Explore what drives consumer decision-making in theSouth African context, identify factors that shape purchasing habits and preferences,and apply insights about consumer psychology to marketing strategies.Segment and Position Strategically: Learn to identify and define target marketseffectively, segment audiences based on meaningful criteria, position products to createcompetitive advantage, and craft differentiation strategies that resonate with specificcustomer groups.Leverage Marketing Research: Discover how data informs smarter marketing decisions,explore the complete marketing research process from design to analysis, gatherconsumer insights systematically, and translate research findings into actionablestrategies.Build Customer Relationships: Develop communication strategies that engageaudiences authentically, create brand awareness that drives consideration and sales,foster lasting customer relationships through value delivery, and measure marketingeffectiveness to demonstrate ROI.Each module is carefully structured with clear learning objectives, real-world examples, andpractical activities that reinforce your understanding. You'll build the marketing foundationemployers value and the strategic capabilities businesses need to thrive in competitivemarkets.Marketing Management BasicDeveloped byCape Town, South Africa

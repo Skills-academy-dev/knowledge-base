@@ -1,0 +1,276 @@
+---
+tags: [public-folder, collection]
+branch: "Matric 2025 Study Material"
+files: 166
+drive: https://drive.google.com/drive/folders/1eUBjZ617wSvc6SwA_2Al11r_r2S7zuuH
+---
+# Afrikaans
+
+Up: [[Public Folder/Branches/Matric 2025 Study Material|Matric 2025 Study Material]] · [Open in Drive](https://drive.google.com/drive/folders/1eUBjZ617wSvc6SwA_2Al11r_r2S7zuuH)
+
+**166 files**
+
+## Subjects here
+[[Public Folder/Subjects/Afrikaans|Afrikaans]] · [[Public Folder/Subjects/Besigheidstudies|Besigheidstudies]] · [[Public Folder/Subjects/Do Not Print|Do Not Print]] · [[Public Folder/Subjects/Ekonomie|Ekonomie]] · [[Public Folder/Subjects/Fisiese Wetenskap|Fisiese Wetenskap]] · [[Public Folder/Subjects/Geografie|Geografie]] · [[Public Folder/Subjects/Geskiedenis|Geskiedenis]] · [[Public Folder/Subjects/Google Doc|Google Doc]] · [[Public Folder/Subjects/Institute|Institute]] · [[Public Folder/Subjects/Landbou|Landbou]] · [[Public Folder/Subjects/Lewenswetenskappe|Lewenswetenskappe]] · [[Public Folder/Subjects/Rekeningkunde|Rekeningkunde]] · [[Public Folder/Subjects/Religie|Religie]] · [[Public Folder/Subjects/Research|Research]] · [[Public Folder/Subjects/Wiskunde|Wiskunde]]
+
+## Contents
+- **AFR EAT** · 13 files · [Drive](https://drive.google.com/drive/folders/1bSZNCspPKAHol_sKyLy3S24ZBWDHs0lq)
+	- [Afrikaans EAT Textbook FC.pdf](https://drive.google.com/file/d/1ICAtDPVO_W81L4fTX67411idXq6OTHq6/view)
+	- [AFR EAT Handboek.pdf](https://drive.google.com/file/d/12FLUBxcagxCrZctbAWYobdT1Os7mE6HX/view)
+	- [Afrikaans  FAL BC.pdf](https://drive.google.com/file/d/1bitxFgPs5RZPsGSxWfdIDoAuvslApgYJ/view)
+	- [1869-Afrikaans Eerste Addisionele Taal Exam Guide.pdf](https://drive.google.com/file/d/1758oNH16kIptcwNvvZ3TN69HmpHyQBAw/view)
+	- **bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/1VLWTzCwYpq3g4fkZvd8HQSUclOWehfjY)
+		- **DO NOT PRINT** · 3 files · [Drive](https://drive.google.com/drive/folders/1fMqyfme6i6yN9bkV4S9YFvteaqYILfRO) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Afrikaans Eerste Addisionele Taal - Opdrag 1 (Bellview).pdf](https://drive.google.com/file/d/1CYhs4krEWOLyqHgzA3LktjMrhXJ3jhnw/view)
+			- [Afrikaans Eeerste Addisionele - Opdrag 3 (Bellview).pdf](https://drive.google.com/file/d/1mHrIF4dkeRFlTyHvjThhfusGjO96uMlh/view)
+			- [Afrikaans Eerste Addisionele Taal – Opdrag 2 (Bellview).pdf](https://drive.google.com/file/d/1LfSkUfeo_CpfbSJ26hRMeGaDbvGIB9S1/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/1-vGwPGrGZmn18tFs3rc8E8-3G3KEYObb)
+		- **DO NOT PRINT** · 3 files · [Drive](https://drive.google.com/drive/folders/1PFpvpu9z-AwdZa7rqh6w-aOxXtb59Sef) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Afrikaans Eerste Addisionele Taal - Opdrag 1 (Matric).pdf](https://drive.google.com/file/d/1ZeVHAQrPWAke8zrK2X4MZHoHkH-nKl8J/view)
+			- [Afrikaans Eerste Addisionele Taal – Opdrag 2 (Matric).pdf](https://drive.google.com/file/d/1FIfoVA0AHZwAgJ_T8M5YMvSY0d0Y7XsO/view)
+			- [Afrikaans Eeerste Addisionele - Opdrag 3 (Matric).pdf](https://drive.google.com/file/d/1iJCMZLEw5LTNoOIj2pDYbpOdU85-6LO3/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1t9WjfcU8i5tqtcaX3FOyj9qoLPEDyoV6)
+		- **DO NOT PRINT** · 3 files · [Drive](https://drive.google.com/drive/folders/15j4F5KqfkrZ0CuCUioicvp9c0j2x5ipD) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Afrikaans Eerste Addisionele Taal - Opdrag 1 (Skills).pdf](https://drive.google.com/file/d/1ECVR9XGIk2WryKU_5kY7L3whmgBc9pIF/view)
+			- [Afrikaans Eerste Addisionele Taal – Opdrag 2 (Skills).pdf](https://drive.google.com/file/d/1hmBiCQzKVRl550HCMRL4zpTQNQ85XGzo/view)
+			- [Afrikaans Eeerste Addisionele - Opdrag 3 (Skills).pdf](https://drive.google.com/file/d/1L2jLz8th-x3dtpkQbzzuETCN1w6X3V8P/view)
+- **Afrikaans HT** · 13 files · [Drive](https://drive.google.com/drive/folders/19rQp5_O4GW4JWaNWazl1IqZgkdgwL-pr)
+	- [Afrikaans HT Textbook.pdf](https://drive.google.com/file/d/1J-o8CIXZ5jECXreBkHH-qnIHtklFcNF0/view)
+	- [Afrikaans HL Textbook FC.pdf](https://drive.google.com/file/d/1j13d6o4tzU_ZJEDvG4vJsWejB6iRqbNY/view)
+	- [Afrikaans HL BC.pdf](https://drive.google.com/file/d/1zSIKkjgYaE04p6DrlzxqeVSid83vYKhT/view)
+	- [1794-Exam Guideline.pdf](https://drive.google.com/file/d/1mDZ0xrqPruwXqzriuvgeSdG96dEYnMGm/view)
+	- **Bellview Institute** · 3 files · [Drive](https://drive.google.com/drive/folders/1QBPI5hB_bJ4q24LS7UeYTZTiGNZJdvOr) [[Public Folder/Subjects/Institute|◆ Institute]]
+		- **DO NOT PRINT** · 3 files · [Drive](https://drive.google.com/drive/folders/1D3tqdCdw9iWUpwIio7IrdO3B5cFvTxwY) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Afrikaans Huistaal – Taak 1 Bellview.pdf](https://drive.google.com/file/d/1H-i4MzKajwlJ5wzSgX36r6UEoensrCDc/view)
+			- [Afrikaans Huistaal – Taak 2 (Bellview).pdf](https://drive.google.com/file/d/1bEd-ctcl8q3vu7GKQ3qqzMrWgdCwVtKa/view)
+			- [Afrikaans Huistaal – Taak 3 (Bellview).pdf](https://drive.google.com/file/d/19BEA544i0Dmx6Tn7QaSjGJ7z3WPJ-3wI/view)
+	- **Matric College** · 2 files · [Drive](https://drive.google.com/drive/folders/1tLZWJzavzXjxvM5uJ0M7f7mZttEF-PUT)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1uqtVlqI2cFn3j09VZ7vTaZqXMwQCX-B2) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Afrikaans Huistaal – Taak 1 Matric.pdf](https://drive.google.com/file/d/141ifbNKEFxhOUPDjC5bONTYP_GF4FhJg/view)
+			- [Afrikaans Huistaal – Taak 3 (Matric).pdf](https://drive.google.com/file/d/1uycaIATyPxRj3bzbSQ0dC_IxeYyYHcQU/view)
+	- **Skills Academy** · 4 files · [Drive](https://drive.google.com/drive/folders/1C6-UlG3QY_1G9sp8HvL2HpaZoiCzuCdw)
+		- [Afrikaans - Shortcut.lnk](https://drive.google.com/file/d/11EnztY_CVTafBWnzBvIe6ccY86aTKtBG/view)
+		- **DO NOT PRINT** · 3 files · [Drive](https://drive.google.com/drive/folders/1SAzAmxWO7FhvirPo3mIjErzJmKu8wjQl) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Afrikaans Huistaal – Taak 2 (Skills).pdf](https://drive.google.com/file/d/1Agn_6PkpgkLI_FbMT0P6xe_7T0a46ylY/view)
+			- [Afrikaans Huistaal – Taak 1 Skills.pdf](https://drive.google.com/file/d/1C2kkjJMOYDuaRA9dXyzg0bdg5AEUY5WC/view)
+			- [Afrikaans Huistaal – Taak 3 (Skills).pdf](https://drive.google.com/file/d/12h3agSSZ-bMPFHhjvbbkDyTt4XdOsewK/view)
+- **Besigheidstudies** · 15 files · [Drive](https://drive.google.com/drive/folders/1Rb6k3cGFlJNHXE5hHwSrF8qzEl7Xxmvg) [[Public Folder/Subjects/Besigheidstudies|◆ Besigheidstudies]]
+	- [Besigheidstudies Textbook FC.pdf](https://drive.google.com/file/d/1Z95WzTiE0VJxsZx7WbgbXbqJAHQARBYg/view)
+	- [Besigheidstudies Handboek.pdf](https://drive.google.com/file/d/1OBzOCp-0a_7YrABK1UOM2F1sWNgw7Gbs/view)
+	- [Besigheidstudies  BC.pdf](https://drive.google.com/file/d/1ledEcx5A1YO2Eeyuu5BQloO-CQY_Lp2G/view)
+	- [Besigheidstudies Eksamenriglyne.pdf](https://drive.google.com/file/d/1vpqsUpXfcPV8ONwg9zYewbCqsZU1NYh5/view)
+	- **Bellview** · 4 files · [Drive](https://drive.google.com/drive/folders/1utdFNe0Pf93bTzb57k4UAkuW8dm0LG6W)
+		- [Besigheidstudies Assesseringsgids - Bellview.pdf](https://drive.google.com/file/d/18-HTLzrx1LWXrCKgW1Kv8YMAPPs4ciEm/view)
+		- [Besigheidstudies Study Guide Bellview.pdf](https://drive.google.com/file/d/1od8iSd93xKus4uoRJFXLglGu-baeCRni/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1RfBLY4dmOz1yf9VJ5Y-VU8Hbp0Kquc_e) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Besigheidstudies Opdrag 2 (Bellview).pdf](https://drive.google.com/file/d/1aLHoSb8c-RvrV9AMJghhsGYfgy3g2Ixv/view)
+			- [Besigheidstudies Opdrag 1 (Bellview).pdf](https://drive.google.com/file/d/1EUlMoG2eVg5LTRpiLs0FJr0E7dY3zEzx/view)
+	- **Matric** · 4 files · [Drive](https://drive.google.com/drive/folders/1cZfJAfYRsmm59ERPa463vNKifttjM3lt)
+		- [Besigheidstudies Assesseringsgids - Matric College.pdf](https://drive.google.com/file/d/1pK3YrX_13hdK3PMRyUlw1Xd8qaX2lTkd/view)
+		- [Besigheidstudies Study Guide Matric.pdf](https://drive.google.com/file/d/1OZ-pGbNf0fnBtWPU88jmOZzlbJ0o7Sqe/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1m50WrznlBJtcFHuoImHPJ8pr8DSoiq1i) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Besigheidstudies Opdrag 1 (Matric).pdf](https://drive.google.com/file/d/1Pt2EvA0i3btPnaK5Ksg2e8BNNnjiATYy/view)
+			- [Besigheidstudies Opdrag 2 (Matric).pdf](https://drive.google.com/file/d/1EPST1PYAIuChxCxUN_Rhv-JB28lfGXVD/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1F1LhhCpide22QVwSby7mSv8zjH27flId)
+		- [Besigheidstudies Assesseringsgids - Skills Academy.pdf](https://drive.google.com/file/d/1jxDckDb5xm81DJ6VwZ4iXIRaC7oBECWL/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1DGS7WXr5UHP8_F0k-dZbJVlG9OjCSNLt) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Besigheidstudies Opdrag 1 (Skills).pdf](https://drive.google.com/file/d/1HsfPnDUeArBX8opfHLb_t8GOox72NtrA/view)
+			- [Besigheidstudies Opdrag 2 (Skills).pdf](https://drive.google.com/file/d/19udtBiOKrBySsiD3-WVeZ-bLaqSaD1Ly/view)
+- **Ekonomie** · 13 files · [Drive](https://drive.google.com/drive/folders/1wqa9ZrC9ZwGks8D8ku-0tHyNFVfqDD2O) [[Public Folder/Subjects/Ekonomie|◆ Ekonomie]]
+	- [Ekonomie Textbook FC.pdf](https://drive.google.com/file/d/1gap4eJKDRV8P_RLUOwJUrPVcZqb0amQT/view)
+	- [Ekonomie Textbook BC.pdf](https://drive.google.com/file/d/1oQddFBbH3EQCm1hvLQ-_9HN7BIT0GWOQ/view)
+	- [Ekonomie Handboek.pdf](https://drive.google.com/file/d/182fS8BU7NB-x1_TV-E1pCGHMi4P4jgRa/view)
+	- [1858-Ekonomie Exam Guide.pdf](https://drive.google.com/file/d/1iNVq-ZXytMb4WP1F44fnecQK40hFiInS/view)
+	- **Bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/1j1ilI4qGovdhDbygWNVz6wGgUE92s93H)
+		- [Ekonomie Assesseringsgids - Bellview.pdf](https://drive.google.com/file/d/12LJwVITFEhVnO7VB9rXIPY2CCnXdLyDy/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1AmwXeUAm2TXp4jYVljj6KKgIKhEXVIiI) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Ekonomie Taak 2 Bellview.pdf](https://drive.google.com/file/d/1jMoY-MGluBzn3uV6WDrPum8TUsg4L6bK/view)
+			- [Ekonomie Taak 1 Bellview.pdf](https://drive.google.com/file/d/1RVm1btJHhUe3NXS1Mv9PMoL3nTdPiZyZ/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/18d9y4YONxTTdPpLDkA3EyqaCM_bk7JPR)
+		- [Ekonomie Assesseringsgids - Matric College.pdf](https://drive.google.com/file/d/1uHj5MO-sG8e0DMelyN9Dk08HASohVHPh/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1E6HyP_pgVqpTCFPM42lJ29cOsqrUfvhQ) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Ekonomie Taak 1 Matric.pdf](https://drive.google.com/file/d/14sxU2nVZ9nJxav3-7rU_UNfhsCI-moMd/view)
+			- [Ekonomie Taak 2 Matric.pdf](https://drive.google.com/file/d/1KN8OhSFM1Sg9lcnpg4av_JJjSDzTxvw9/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1nmA5AP6jIG8EmE4lKGLTD_P9n3fLHKr0)
+		- [Ekonomie Assesseringsgids - Skills Academy.pdf](https://drive.google.com/file/d/1xE8-P0MpvlpEnBwZjr-Silm-JYJylWJh/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1E3ytPK375haWqo4q4zO-hNZ0isZt0U0X) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Ekonomie Taak 1 Skills.pdf](https://drive.google.com/file/d/1u3-xoU3bewLPyH5landFLZbPCNqBIjTj/view)
+			- [Ekonomie Taak 2 Skills .pdf](https://drive.google.com/file/d/1dCO5NNAkzyEtUznD5htOEJi6bGn-ftbC/view)
+- **Fisiese Wetenskap** · 6 files · [Drive](https://drive.google.com/drive/folders/1GqiXQ_8Uun8oi-hFz8YLBVmdU0HA5uWV) [[Public Folder/Subjects/Fisiese Wetenskap|◆ Fisiese Wetenskap]]
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1AXJbz2_gfpibnJesE0QgZ2dtBmsx0va9)
+		- [Fisiese Wetenskap Assignment 2.pdf](https://drive.google.com/file/d/1lGnzBvHXzaswF37ic_XL376ZLT63Nosj/view)
+		- [Fisiese Wetenskap Assignment 1.pdf](https://drive.google.com/file/d/1GscigC7rXBi3fdM6PS0R6XW07OrajWv6/view)
+	- **Matric** · 2 files · [Drive](https://drive.google.com/drive/folders/1awalU9dbmSQlOXHdeZyTZ1Q-neE6BGma)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1PiP2RJJnF5CVBSxb8ea4HS7LNGGW7v0j) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Fisiese Wetenskap Assignment 2.pdf](https://drive.google.com/file/d/1fD74fSNbdBwo1xdfKDi-S2lzEYxW5EU3/view)
+			- [Fisiese Wetenskap Assignment 1.pdf](https://drive.google.com/file/d/1shNM2tmnhhsOLW-gqq-1gQaQC9yFquFB/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1cERXeG_0q1gpEo0mXwMu9W0-uErsyB9n)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1EGYwmxn0lOU0RltNEd3qLIaDt1CGik9E) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Fisiese Wetenskap Assignment 1.pdf](https://drive.google.com/file/d/1_5XMnOh_letVmZFJJNGopxdnWuykpkVf/view)
+			- [Fisiese Wetenskap Assignment 2.pdf](https://drive.google.com/file/d/1FDJDKeqLUL2XyGqqbOYV5T8L9iaj-1zP/view)
+- **Geografie** · 20 files · [Drive](https://drive.google.com/drive/folders/1ZGGii_6VVlnGlRcDJe1aVNDlVFtHXkdp) [[Public Folder/Subjects/Geografie|◆ Geografie]]
+	- [Geografie Textbook FC.pdf](https://drive.google.com/file/d/1DNszFb1xV6b9KEa5n3oLtO2IvzuYQHI1/view)
+	- [Geografie Textbook FC-Duplicate.pdf](https://drive.google.com/file/d/1ulTbLFYPPkKXjJeVMzmRHld60HJaChGv/view)
+	- [Geografie Handboek.pdf](https://drive.google.com/file/d/1Nmvg_gdmTxfC4LjQmorZyqnDWDGd2K7v/view)
+	- [Geografie BC.pdf](https://drive.google.com/file/d/139AAnjSptHCFEAJwS2suTRZvmLO6Lt4d/view)
+	- [1804-Geografie Exam Guide.pdf](https://drive.google.com/file/d/18rfH5CuhnYzZwYC1vJwifUIITmUaZbgg/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1PL8tNjl7sX04NJTzJvjIRxFuhpada9qe)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1n9ZgKppRkKYIwdsx4kzgKndNwvs3ou9a) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Geografie Opdrag 2 (Bellview).pdf](https://drive.google.com/file/d/1oFLBbyf-36LwoeuePOMUtLQ0DauAA5z_/view)
+			- [Geografie Opdrag 1 (Bellview).pdf](https://drive.google.com/file/d/1kaw0_gw0-KNUomlfaBUANkvNwxF1Te4Q/view)
+	- **Google docs & QA report** · 4 files · [Drive](https://drive.google.com/drive/folders/19SuIHa88bo9Yo-CBpivwtnAzo20913se)
+		- [QA Report_ Geografie Handboek (Graad 12).docx](https://drive.google.com/file/d/1SJbemKvxHGsx176grZ28xpvg6h5KEiVY/view)
+		- [QA Report_ Geografie Studiegids Bellview.pdf](https://drive.google.com/file/d/1g_IKdDOjuYqSgpwBzVbaCfN1mP8HXt7y/view)
+		- [📘 QA Report_ Geografie.pdf](https://drive.google.com/file/d/1WYl8IBdg1ZZUd4SNUsbJ6PgDk8fsFSqv/view)
+		- [Geografie Kursusoorsig.docx](https://drive.google.com/file/d/1QXGEbnK1p4vLmRCoRL5tCc-_JFZd-gtp/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/1PIiocqSFDWjgw4b0APjJCoFbHuOa8WbG)
+		- [Geografie Assesseringsgids - Matric College.pdf](https://drive.google.com/file/d/1ygv8Txw4655-CqzUjipPLnKHHLg5BBaJ/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1FaM0Gh8-SePdMbwI_VAEmS9t3pSQg8mI) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Geografie Opdrag 2 (Matric).pdf](https://drive.google.com/file/d/1k4QmCqWMqOa82qde9kGZJINWAOccsCUD/view)
+			- [Geografie Opdrag 1 (Matric).pdf](https://drive.google.com/file/d/1nUuBu9heZ2qQWjHXkILRAUpvwGAC2IW4/view)
+	- **RESEARCH** · 4 files · [Drive](https://drive.google.com/drive/folders/1RnhUt5GpFLN-Rh0Pk5ghZUfJIYVmqZs0) [[Public Folder/Subjects/Research|◆ Research]]
+		- [Geography P2 Nov 2024 Afr.pdf](https://drive.google.com/file/d/1YHlSt-sVQjxhCRWIzO5F7oIm_k1_oZCq/view)
+		- [Geography GR 12 Exam Guidelines 2021 Afr.pdf](https://drive.google.com/file/d/1JZihIhyDLveklcMt-o5mJE8e_kxQwest/view)
+		- [CAPS FET Geography Afr web.pdf](https://drive.google.com/file/d/10kQEaoSQzXvrmlwfRdvJIZvVAuCDdczN/view)
+		- [Geography P1 Nov 2024 Afr.pdf](https://drive.google.com/file/d/1-8cSiuCGVUBU75KUzBH81G9ESCTjcheO/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1W_vamvVrQLkpmBaIwClhgPLoX7yQf_Ec)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1OfQXVrwFGxigoKkljBXl0-ev9Tcw4Km0) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Geografie Opdrag 2 (Skills).pdf](https://drive.google.com/file/d/1lyz4alvb1uVqwQtsA0nP97j5Jcm5e9Jx/view)
+			- [Goegrafie Opdrag 1 (Skills).pdf](https://drive.google.com/file/d/1MJgY2ukzFqvPJApiTwORCuKmN-3Ug01O/view)
+- **Geskiedenis** · 21 files · [Drive](https://drive.google.com/drive/folders/1qWDj86aHntKCDa7TuszzLY9T64lDi54I) [[Public Folder/Subjects/Geskiedenis|◆ Geskiedenis]]
+	- [Geskiedenis Textbook FC.pdf](https://drive.google.com/file/d/13qokUruh8TF7ymgc2TETmMDxo76-qGG5/view)
+	- [Geskiedenis Textbook BC.pdf](https://drive.google.com/file/d/19wfXtaPc2ujdbxYEdQpHstYo7mirKCqR/view)
+	- [Geskiedenis Handboek.pdf](https://drive.google.com/file/d/19DKkDVcYwsUV9-YrWuB6jqv5LXL_SW2K/view)
+	- [Geskiedenis Handboek.afpub](https://drive.google.com/file/d/14VVo8eDwiiY4idQfOMN_kCbTuXHXbzCB/view)
+	- [Geskiedenis BC.pdf](https://drive.google.com/file/d/19kOwlSExDaSg2EM5XnT9FWqhT5ctF_rn/view)
+	- [1862-Geskiedenis Exam Guide.pdf](https://drive.google.com/file/d/1GUQEln2T-GQvm5umzKmuh9oRYyLlT1hO/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1UJXkBhGMxcb0bgJ27uBMCbxL7jNUmrON)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1SsgOzbCDUJTH09qxPUsIv5149wl1vbUk) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Geskiedenis Opdrag 1 (Bellview).pdf](https://drive.google.com/file/d/1APIKHwhMefEFbsEYTS3vUlt6UZPg6_oj/view)
+			- [Geskiedenis Opdrag 2 (Bellview).pdf](https://drive.google.com/file/d/1sDdpcl5R87s289k8IpiT9UICfowa5Dbj/view)
+	- **Google Doc** · 2 files · [Drive](https://drive.google.com/drive/folders/1sKmD9xFCyedHcya6NsqvUEP7roKCC47_) [[Public Folder/Subjects/Google Doc|◆ Google Doc]]
+		- [Geskiedenis Kursusoorsig.docx](https://drive.google.com/file/d/1gLzhqoH0Nir_-SVbeH8T5EJAxSEInli5/view)
+		- [Geskiedenis QA Report.docx](https://drive.google.com/file/d/1kBIvRj1_UaBLhhWpUGd6_jQonhSVs5Gd/view)
+	- **Matric** · 2 files · [Drive](https://drive.google.com/drive/folders/17UF43XtYYRSQ9UHOk3NCbcLNzj8ACl4n)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1dwSZLeEzd7wYWqI4o59eQk47yKtv0-9W) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Geskiedenis Opdrag 1 (Matric).pdf](https://drive.google.com/file/d/1YDU_aAmjfPCeAmC6EFfU758pGEyGb40H/view)
+			- [Geskiedenis Opdrag 2 (Matric).pdf](https://drive.google.com/file/d/1daZYXPrhdKN2gn57ApjbmZzF8Wyr086k/view)
+	- **QA** · 3 files · [Drive](https://drive.google.com/drive/folders/1z5jibtqAcr_7MK9IYyY_SYOZ-w0_v9CC)
+		- [Full QA Report_ Geskiedenis Handboek.pdf](https://drive.google.com/file/d/11isUZqkKPBJPmovnfQxhLbNBwpyY76tb/view)
+		- [QA Report_ Geskiedenis Studiegids Matric.pdf](https://drive.google.com/file/d/19ld4ywxKxQXtlXxSJthr_OzLzMZhsirm/view)
+		- [QA Report_ Geskiedenis Handboek.pdf](https://drive.google.com/file/d/1AA-PafL8Y8JY15Gaj1UaLCsXEE3e5Ib9/view)
+	- **RESEARCH** · 4 files · [Drive](https://drive.google.com/drive/folders/14xW5OpXpbwiQ889takxr24obJFQoEMeu) [[Public Folder/Subjects/Research|◆ Research]]
+		- [KABV AFRIKAANS  GESKIEDENIS GR 10-12  WEB.pdf](https://drive.google.com/file/d/13WNFWzBRNBSt5GSEi3FvuXed0wgo9-D-/view)
+		- [GESKIEDENIS GR 12 Eksamen riglyne 2021 Afr.pdf](https://drive.google.com/file/d/1Tn4CUMNxXDtH-Qgjfwr8okx8FmcRsKjJ/view)
+		- [VRAESTEL 1 Nov 2024 Afr.pdf](https://drive.google.com/file/d/1fmBgk-aMmAXgvEoiIBNemEgJfWrUrMJb/view)
+		- [VRAESTEL 2 November 2024 Afr.pdf](https://drive.google.com/file/d/1EqrZKz0u_6gCBnNsQeKDY7hLNFmho3fD/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1pcPy5Z5s6zpWD1HNQM8F0NkO1lvXDOT1)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1NfYA6AxBBy0vqyJibszDwc8gefcICuh2) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Geskiedenis Opdrag 2 (Skills).pdf](https://drive.google.com/file/d/1ujnIpHf60jvXDHunF2mDyjgfCsnIi9yl/view)
+			- [Geskiedenis Opdrag 1 (Skills).pdf](https://drive.google.com/file/d/19r9KslAd31ULDdvoIqMjzGZnTOylZMZP/view)
+- **Landbou** · 15 files · [Drive](https://drive.google.com/drive/folders/1Fpp909QAyT3YK8Xzey3v2CYzs_r4De3S) [[Public Folder/Subjects/Landbou|◆ Landbou]]
+	- [Landbou Wetenskappe Handboek.pdf](https://drive.google.com/file/d/1D0-GDjXgh4xaWOqCfwl7kKGIvsqEjrc1/view)
+	- [Landbou FC.pdf](https://drive.google.com/file/d/1pN85KhwDiqLsNWj6kQlVsSpCLA023-7f/view)
+	- [Landbou BC.pdf](https://drive.google.com/file/d/178SBGASfO0rjSFGYQO1rm8_1HW1TLsJM/view)
+	- [1864-Landbou exam guide.pdf](https://drive.google.com/file/d/1dJgOu_JE8CAbs895HQ-l5IexSmTzUREP/view)
+	- **Bellview Institute** · 3 files · [Drive](https://drive.google.com/drive/folders/1a7RBK2L9tjP0XbBwkDTPTVsFlzZyMqA6) [[Public Folder/Subjects/Institute|◆ Institute]]
+		- [Landbouwetenskappe Assesseringsgids - Bellview.pdf](https://drive.google.com/file/d/1q3zbMtmu5Iz6x1xjS5WIWe0KVLW950Vk/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1ycDliweKMUo1lqM8wou89o7uJ0O38pXA) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Landbouwetenskappe Taak 1 (Bellview).pdf](https://drive.google.com/file/d/14G_4cFTwlFUcTwdZSC78QEp3O2xrlaqB/view)
+			- [Landbouwetenskappe Taak 2 (Bellview).pdf](https://drive.google.com/file/d/14p_uk6p9wPELUCn5Q1saL8iILXvpCX6F/view)
+	- **Matric College** · 3 files · [Drive](https://drive.google.com/drive/folders/1fk9vhZ1mRFmAeYUReZ7L4Z9UVQldeT9n)
+		- [Landbouwetenskappe Assesseringsgids Matric.pdf](https://drive.google.com/file/d/1ER8ltbhC5q2pAznpXKVTALRRU9ddRbJv/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1omIfva22EfQm-S-CwjI7Dh50uTeOpsOo) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Landbouwetenskappe Taak 2 (Matric).pdf](https://drive.google.com/file/d/1wwe1iqd--MRtbVEMIKqFNr2ZMcwJ3Pxa/view)
+			- [Landbouwetenskappe Taak 1 (Matric).pdf](https://drive.google.com/file/d/1FwTnkP-oRQ6wMogTfrOcmJPZ_gRxOsTS/view)
+	- **Skills Academy** · 5 files · [Drive](https://drive.google.com/drive/folders/13NJrPUwyOk1U0A7tBhBCYOCUy8fwRUwn)
+		- [Landbouwetenskappe Assesseringsgids - Skills.pdf](https://drive.google.com/file/d/1hcg889jO9DZlAxRGty7Lye4qMm1R8Vk2/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1FZnXDV8q7tI9mzFlGf55lKyFELegtZUW) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Landbouwetenskappe Taak 2 (skills).pdf](https://drive.google.com/file/d/1vxMV7g_SS2xnSmxcJpqrJrwVwZa0qzW7/view)
+			- [Landbouwetenskappe Taak 1 (Skills).pdf](https://drive.google.com/file/d/1capp8mxSixJA7K74YwE9XX4NS_dCsNII/view)
+		- **Old Covers** · 2 files · [Drive](https://drive.google.com/drive/folders/1FKudAKdtgV1vmT6UscscRcpDyvbSRj_x)
+			- [Landbou Taak 1 Skills .pdf](https://drive.google.com/file/d/1I9MZJOkidqnbvats45Tw4VGqPGMyQW8y/view)
+			- [Landbou Taak 2 skills.pdf](https://drive.google.com/file/d/1AZHxt-bu1y5UfBtpqMLQq7vwk0T4TrZW/view)
+- **Lewenswetenskappe** · 12 files · [Drive](https://drive.google.com/drive/folders/1o-wX18nVFub5SLJtSMjczRSzaQth1IL0) [[Public Folder/Subjects/Lewenswetenskappe|◆ Lewenswetenskappe]]
+	- [Lewenswetenskappe Handboek (1).pdf](https://drive.google.com/file/d/1dHybgwKKtdvOv86sXVGb60SH8oOAxw3K/view)
+	- [Lewenswettenskap BC.pdf](https://drive.google.com/file/d/1CWpg1bgxSz6mNhCEGQ6s-ClcgQHQMZ8o/view)
+	- [Lewenswettenskap FC.pdf](https://drive.google.com/file/d/17cL90DsHXXTS7l9FRyVMtDZ6fB32pyxu/view)
+	- [1806-Lewenswetenskap (Old Biology) Exam guideline.pdf](https://drive.google.com/file/d/1NyE3PUfm_vPA8F5Nge92JoADXFnrRkso/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1dCJNI7zO4EttltjD-zD44tg1NWpbRRpb)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1SQ0bOrNaeQGO81-AIS91BkHpH-qLmDom) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Lewenswetenskappe Taak 2 (Bellview).pdf](https://drive.google.com/file/d/1VE940YugWVLY1nuJh6eZj0W4-iaOBQeo/view)
+			- [Lewenswetenskappe Taak 1 (Bellview).pdf](https://drive.google.com/file/d/1VGcPhO-rLn2SZKPFkh4S-W3IIfWR7MIe/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/10yal2tyOmTbuMTasQgjA9OihhoOQq0e3)
+		- [Lewenswetenskap Assesseringsgids - Matric College.pdf](https://drive.google.com/file/d/1_bQR_Lg1qpEK4-Z3XS9dPPIa7cGpwjzq/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1e-HmJUrJMpJKCpxAXg0CWz6lyfoUM1a2) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Lewenswetenskappe Taak 1 (Matric).pdf](https://drive.google.com/file/d/14XdxO8W5qYuDoDJ38ax11CUH3o7SWBuN/view)
+			- [Lewenswetenskappe Taak 2 (Matric).pdf](https://drive.google.com/file/d/1CZPWb3yW2tPXlR6JMCg_p_tBuFyO8Bfy/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1N46e_9Dz3QcNCVAD2F9BoE-TYCATtluQ)
+		- [Lewenswetenskappe Assesseringsgids - Skills Academy.pdf](https://drive.google.com/file/d/1IvRO-RQL4yeRqwekOu4B7pGV3aoq7dsT/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1k2dYvTLvpF7iNkINPYxiA1OFY5qXKHn4) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Lewenswetenskappe Taak 1 (Skills).pdf](https://drive.google.com/file/d/1ZxKr5-oBwDRAG8TKBwiruASh1QGwecGj/view)
+			- [Lewenswetenskappe Taak 2 (Skills).pdf](https://drive.google.com/file/d/10mDb8PHdBAV1rcASpgLDJ1FJH1EjHwEI/view)
+- **Rekeningkunde** · 11 files · [Drive](https://drive.google.com/drive/folders/1YxyEbC13-u7xpgm7BXMIy7O__NNf3tYP) [[Public Folder/Subjects/Rekeningkunde|◆ Rekeningkunde]]
+	- [1860-Rekeningkunde Exam Guide.pdf](https://drive.google.com/file/d/1pQNUqmPJkAsrZfiVUnHkhrJk4_ommUUg/view)
+	- [Rekeningkunde Handboek.pdf](https://drive.google.com/file/d/15d4Jhu-Ls0bpr9ApkdqyQXyE26mzx723/view)
+	- [Rekeningkunde FC.pdf](https://drive.google.com/file/d/1P5GKWD-q4yC_m5xN5Qj_4FgCLan-AUSf/view)
+	- [Rekeningkunde BC.pdf](https://drive.google.com/file/d/1JN21TdGRbE9eXxNKSKJPJsbzVqYCx72T/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1TwE4NcSehIxP8GUJdYbeD44K4RsSU4N2)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1sPmr-Byr8Z07Q2Izb7HDWJv4EVfLP8uL) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Rekeningkunde Taak 2 (Bellview).pdf](https://drive.google.com/file/d/11MK1fbsESgLXqhJXNZtxhOtL-BCsDlYt/view)
+			- [Rekeningkunde Taak 1 (Bellview).pdf](https://drive.google.com/file/d/1Q9536ohW0kx5VHC_jR4utNDyDf9RyJVn/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/1eNqKHIaMhZC2VCvre7aKO-rAgk_306Wx)
+		- [Rekeningkunde Studiegids (Matric).pdf](https://drive.google.com/file/d/1euVniSEbfLaORPUm4TXEs76Qm8sPS_R0/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/11NdE78y4nAak81ttKmYYneptMurnH6k9) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Rekeningkunde Taak 2 (Matric).pdf](https://drive.google.com/file/d/12s-gUQ17XnJME6QPSqVC6jR_JsqdwR1S/view)
+			- [Rekeningkunde Taak 1 (Matric).pdf](https://drive.google.com/file/d/1SGMxEIn5IRc5Q2SgqslJfE4rotsxCvoW/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1ZWtSMLRqIE1KyUgwPusYkLL66yOzZR4H)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1fXSDPmNf4QM2o92ZthTNhoI6a1LbFx-W) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Rekeningkunde Taak 2 (Skills).pdf](https://drive.google.com/file/d/13mvGLYR1_ipqPgix_IfMUnD4L-gqQM6i/view)
+			- [Rekeningkunde Taak 1 (skills).pdf](https://drive.google.com/file/d/1VU5sI7tKXtqJEnkmrbiBzcLGOi7KhkzL/view)
+- **Religie** · 14 files · [Drive](https://drive.google.com/drive/folders/1TPMJjV-gpIOHopSr3Cp_jGcXozcVHAun) [[Public Folder/Subjects/Religie|◆ Religie]]
+	- [Religiestudie Handboek 2025.pdf](https://drive.google.com/file/d/1IRlnIhl8rsm2sE4iWzHwNiAuuavbqBmR/view)
+	- [Religie Textbook FC.pdf](https://drive.google.com/file/d/1HA1W8BC0g4YCChIiEUI4Wqp0_qQzMZ3T/view)
+	- [Religie Textbook BC.pdf](https://drive.google.com/file/d/1KF_nFMmc4QiU1fS3wRDZcWQY7FJcx7Du/view)
+	- [1859-Religie Exam Guide.pdf](https://drive.google.com/file/d/10q8bqOJolUTlhf1MVzW6dbg_e23J_IgD/view)
+	- **Bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/16INwk-G4HWzxYSGY8KYLEtkbDGoHxdgB)
+		- [Religie Assesseringsgids - Bellview.pdf](https://drive.google.com/file/d/1st3z5QiGNRDGDC8u8QhaV5Gi6QfIGKeL/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1DpeiZrP9eCptg8eSs5ppdvj87_aeIU6x) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Religie Studies Opdrag 1 (Bellview).pdf](https://drive.google.com/file/d/1SPTDic0vWD2AHw2JuP7MoJiuQsHP6o-z/view)
+			- [Religie Studies Opdrag 2 (Bellview).pdf](https://drive.google.com/file/d/11oB5jX58nRVaucTNPEKEXT9H7_i6_W1N/view)
+	- **Matric** · 4 files · [Drive](https://drive.google.com/drive/folders/1ICVwVKvhlKuVXy2bT8WEbbbJU2IFKS7F)
+		- [Religie assesseringsgids - matric.pdf](https://drive.google.com/file/d/1u81KaOIxR22Uev7R9P8YvH4CVnQiwnz8/view)
+		- [Religie Studiegids Matric.pdf](https://drive.google.com/file/d/16eQ9GTDdWslnKsr6MC4-4LxBiFhXD1Wx/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1XOtGJY_Bd2vUAeWNGb8Mz7OBcV78XpCg) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Religie Studies Opdrag 1 (Matric).pdf](https://drive.google.com/file/d/11bTt9QY-wimdMYY3Gc3uuBQJDIPad_ec/view)
+			- [Religie Studies Opdrag 2 (Matric).pdf](https://drive.google.com/file/d/1zCoi4dji1W60mep0yCMxXFBEgxU26nwU/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1YoSW8c4HJFupNpDvAnoHLASAhWGF0C8P)
+		- [Religie assesseringsgids -skills academy.pdf](https://drive.google.com/file/d/1OrpY_mio73rGnQBufckGT6p6uyqMoChW/view)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1hZWXmpH5jDHt7B_WcrUba3IKpJZb9Z74) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Religie Studies Opdrag 1 (Skills).pdf](https://drive.google.com/file/d/17jItCQJkip2rqLRgPVYTD70nHoJSYWW0/view)
+			- [Religie Studies Opdrag 2 (Skills).pdf](https://drive.google.com/file/d/164OwJxGdvXxccpGCmNT4elX3hzt8BNNr/view)
+- **Wiskunde** · 6 files · [Drive](https://drive.google.com/drive/folders/1fpBvUg801NSw-1y4gm4uWVmEOVv7Oe2S) [[Public Folder/Subjects/Wiskunde|◆ Wiskunde]]
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/16jG_eWd-cloEpxa_hnnzzi4ovj63xAAY)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1whY5usCtcEuxM6QjiVARrjraTDkgQYfI) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Wiskunde Assignment 1.pdf](https://drive.google.com/file/d/1mUuPSMetWNd8ANgawdOTRfI4pK3684Mh/view)
+			- [Wiskunde Assignment 2.pdf](https://drive.google.com/file/d/1S1Z85DGU_iM3ZfdvVNf8i6Y0jLwzDqee/view)
+	- **Matric** · 2 files · [Drive](https://drive.google.com/drive/folders/1fMawX8YppnDdnHLiTJW2yE3c_3_445Lx)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1RYoBVNe4Rt3btg4nfEUjN1qZT4nn-6vH) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [2529-Wiskunde Assignment 2.pdf](https://drive.google.com/file/d/1sySW3REgV_UJHMLbrhMCEsz-KWXD8Go6/view)
+			- [Wiskunde Assignment 1.pdf](https://drive.google.com/file/d/19KEajRf9Rf2fTm3u6T6UNSIyDJNlvv6r/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1Em025IrUgpgyX6j2XPgq82G2-TEITTOo)
+		- **DO NOT PRINT** · 2 files · [Drive](https://drive.google.com/drive/folders/1wiimjTpqBtlx7JG83GKbkwmTyn8paPWK) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Wiskunde Assignment 1.pdf](https://drive.google.com/file/d/1miEVRM585jRxIwV-SAllJ2whC9gLgxbH/view)
+			- [2529-Wiskunde Assignment 2.pdf](https://drive.google.com/file/d/1-EdJE8ppIgsuQfuob-6_jaI9SJPal96P/view)
+- **Wiskundige Geletterdheid** · 7 files · [Drive](https://drive.google.com/drive/folders/1oAkdk5t-fw9dUwBWfar6OywD3GKzohJj)
+	- [366964 wiskunde gelet taak 1 merk.pdf](https://drive.google.com/file/d/1Yk-Ylv7A7K6Rj1-b6tpKSKhClanFDUHc/view)
+	- [Wiskundige Geletterdheid Handboek.pdf](https://drive.google.com/file/d/1cjQlK3m4AprSAfDdTAQBQAboQ4rhkKUx/view)
+	- [Wiskundige Geletterdheid BC.pdf](https://drive.google.com/file/d/1bVGGBPMWB28ypLdiSneE2WbnnkvzYVhY/view)
+	- [Wiskundige Geletterdheid FC.pdf](https://drive.google.com/file/d/1QIG_qXFGrrz8vQl8W7aw50Kq70QQ6lnv/view)
+	- [1807-Wiskunde Geletterdheid Exam guideline.pdf](https://drive.google.com/file/d/11GyuHxrvKBYAJoahICsHyCmknQbFH0ep/view)
+	- **Matric** · 1 files · [Drive](https://drive.google.com/drive/folders/1eMHkLKUMEkRT2IXjL9ysUe_Q268F9yjI)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1oRSeah_7EM6eHTk1-cw95a8GKVNd168U) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Wiskundige Geletterdheid Taak 1 (Matric).pdf](https://drive.google.com/file/d/1YrnrN_ncfV1jZwS_6F4qbPT-VfhSLGFP/view)
+	- **Skills** · 1 files · [Drive](https://drive.google.com/drive/folders/1BXb38jOnifBMuHhyq4hQuvUZyx2GMn-v)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1BDurpcW4YXqghs7wHdwZO78gDTD87iiX) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Wiskundige Geletterdheid Taak 1 (Skills).pdf](https://drive.google.com/file/d/1bxjI1T0jBlEXgSyvAOQI1UJtHysQciBC/view)

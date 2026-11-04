@@ -1,0 +1,154 @@
+---
+tags: [public-folder, collection]
+branch: "Matric 2025 Study Material"
+files: 77
+drive: https://drive.google.com/drive/folders/11iScFQIx80Wxhsurc6hrKudr4syozR_8
+---
+# African Languages
+
+Up: [[Public Folder/Branches/Matric 2025 Study Material|Matric 2025 Study Material]] · [Open in Drive](https://drive.google.com/drive/folders/11iScFQIx80Wxhsurc6hrKudr4syozR_8)
+
+**77 files**
+
+## Subjects here
+[[Public Folder/Subjects/African Languages|African Languages]] · [[Public Folder/Subjects/Do Not Print|Do Not Print]] · [[Public Folder/Subjects/Isixhosa|Isixhosa]] · [[Public Folder/Subjects/Isizulu|Isizulu]] · [[Public Folder/Subjects/Sepedi Leleme La Gae|Sepedi Leleme La Gae]]
+
+## Contents
+- [SEPEDI LELEME LA GAE - Copy.zip](https://drive.google.com/file/d/1tVz2lHebY9lpIJhc8f6Jrmy8GTJbBwsy/view)
+- **IsiNdibele** · 6 files · [Drive](https://drive.google.com/drive/folders/1SSJxnEPRegSZ_dTXqHCPqnXjvol1XIed)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1nlMQnYES6sCntEXNZ0IUMKw4Roko6pm-)
+		- [IsiNdebele Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1-lwinxwAzzKbE9AcgJFPy7QLENg9BFIZ/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1GYuXB58__OtsoVwol5kY-H2GSFMrjukG) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [IsiNdebele Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/1W-Lx4kE_wG8fn0ax5Ur3lEsy9QIRxnag/view)
+	- **Matric** · 2 files · [Drive](https://drive.google.com/drive/folders/1kgijLjQHgiYOeAb-8pbzV0vT0o-i9App)
+		- [IsiNdebele Assessment Guide - Matric College.pdf](https://drive.google.com/file/d/1oYzCpbhfqbPsWXKPe4FwB2QsdmF3d1d4/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1xMWgl87vkZNaedtoCrApdr-Nf1eE5D5J) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [IsiNdebele Assignment Guide - Matric.pdf](https://drive.google.com/file/d/1M6Xu3D6C8y1uY6UMXMzwqdenZeqftz8S/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/19Y0_4KIXpqm6PWJ97EhQDsCqub0wvdkF)
+		- [IsiNdebele Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1PgJZmE2tDT6WC4DMhOOacoMNPvzbSfvj/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1r3tMgwh5a2F5avRxQMgb9UMdpzFQ0WkL) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [IsiNdebele Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1JN9zsdAXHr2SbXH_dDVTDzQd9KmCLQi7/view)
+- **IsiXhosa** · 14 files · [Drive](https://drive.google.com/drive/folders/1X-dyyxpKZPh9mW0W5Q_R2yBTG-cztvih) [[Public Folder/Subjects/Isixhosa|◆ Isixhosa]]
+	- [Isixhosa Textbook BC.pdf](https://drive.google.com/file/d/1shqfa9k29SOD_zCtMyongC905DIzZ-gk/view)
+	- [Isixhosa Textbook FC.pdf](https://drive.google.com/file/d/1mvbGrJc6aRYKtkK9XqrMIOfXxD6Z78tw/view)
+	- **Bellview** · 4 files · [Drive](https://drive.google.com/drive/folders/1GSwO0khi0HNJVy-1kQxkVzgfzxHkg_x9)
+		- [IsiXhosa Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1u5sX6M_7Y7fbDXNO6d9A-nTe11hwTa7S/view)
+		- [IsiXhosa Study Guide Cover Bellview.pdf](https://drive.google.com/file/d/1TXLEaFKdhITnKOTHhRwZJJsxpsY36mnw/view)
+		- [IsiXhosa Literature Analysis for Bellview.pdf](https://drive.google.com/file/d/13K8plltJysGYj76roQCKQdbbfLZyZUvw/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/114cfYBazDch8Jjm2ikt75bZ70lSD_X9t) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [IsiXhosa Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/1-lYxiqZENNTTbcjjkgnIpdWXOLR3y8WJ/view)
+	- **Matric** · 4 files · [Drive](https://drive.google.com/drive/folders/1Km-SwRtrJShXA8bMHlFWR1Qyf6tbmb8E)
+		- [IsiXhosa Assessment Guide - Matric College.pdf](https://drive.google.com/file/d/12MXmjsADW4zrYzWh6Mu7EpjLcKBEOcal/view)
+		- [IsiXhosa Study Guide Cover Matric.pdf](https://drive.google.com/file/d/1tseVHWrhrEURSX3O34NYNJH9Us7cHQhC/view)
+		- [IsiXhosa Literature Analysis for Matric.pdf](https://drive.google.com/file/d/1etk-_K6jJb7Ahi-QCtJCT2P_7j_PWzN8/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1jmCSUx_YxnxPwLBrhDHPstRk4oy-CjIz) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [IsiXhosa Assignment Guide - Matric.pdf](https://drive.google.com/file/d/116pi6htbhrgFwVz4xCMbz3WjHkDpoARR/view)
+	- **Skills** · 4 files · [Drive](https://drive.google.com/drive/folders/1BVTGNSXkjN2zWoXKhFb_Brcb3LVzIWtZ)
+		- [IsiXhosa Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1Xdk6rQD7f0rkhnYCIIT89bKm3tDDlyBA/view)
+		- [IsiXhosa Literature Analysis (Skills).pdf](https://drive.google.com/file/d/1Tsb03sHEp_Yb8NndR3EYokWgK-UxduGI/view)
+		- [IsiXhosa Study Guide Cover Skills.pdf](https://drive.google.com/file/d/12mh8lcVbIcIeOyqzCGH_1c_WUZ4AFd5D/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/18I7wK9nAHc1UxymWrrZmY48NXz_VULVv) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [IsiXhosa Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1Vkc9z5PSMlHmtWDc6pYykB1k51entGAT/view)
+- **isiZulu** · 16 files · [Drive](https://drive.google.com/drive/folders/1-MCKLAWaDIT7vhzhxsq1A2FlPEPOwUJZ) [[Public Folder/Subjects/Isizulu|◆ Isizulu]]
+	- [IsiZulu Textbook Publisher.pdf](https://drive.google.com/file/d/1CpnU3rTcKlppkM832q_V1_188ZFXYE-8/view)
+	- [Isizulu Textbook BC.pdf](https://drive.google.com/file/d/1WRe_KWKYKkaBxoNO-xfOayLyB0LAn0Gj/view)
+	- [Isizulu Textbook FC.pdf](https://drive.google.com/file/d/1OqoDaUJZ3II_rkHSQOhP_Lc0KKSgc9iL/view)
+	- **Bellview** · 4 files · [Drive](https://drive.google.com/drive/folders/1tzT-hA-PJ8kxFe5JqQDdr4yCYfQ4Ukdi)
+		- [isiZulu Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1b3tIO8P_sr0sOE07vovIGdeONsHYo3XS/view)
+		- [IsiZulu Analysis Study Guide Bellview (1).pdf](https://drive.google.com/file/d/1e15nF0VHoRRBz1MGAQur_XhUi3rFo7Qh/view)
+		- [IsiZulu Study Guide Cover Bellview.pdf](https://drive.google.com/file/d/1c-TNcOpr8DncJojtOdT4VkvHpdAic7q4/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1MdHPpG67tOxCXb1nP0CLbMv499R9jRI9) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [IsiZulu Assignment Guide Bellview.pdf](https://drive.google.com/file/d/14riQ2JKI7s7vZU_jX2TsD1y5GEzl0L3S/view)
+	- **Matric** · 5 files · [Drive](https://drive.google.com/drive/folders/1QXCiEUL36kA8c6uROA-p0FSL6Q7S6a7z)
+		- [isiZulu Assessment Guide - Matric College.pdf](https://drive.google.com/file/d/1p-Inq7SuwvT-jjqMWTNrS4A8YmzXjMTg/view)
+		- [IsiZulu study guide Matric.pdf](https://drive.google.com/file/d/1U1MWu9M1gwIEH4Z-rWfXpmw0PWecoTXb/view)
+		- [IsiZulu Literature Analysis Study Guide Matric.pdf](https://drive.google.com/file/d/15HvlKOPI1TOJK4bk57Mqn0L52wPfdGTM/view)
+		- [IsiZulu Study Guide Matric Cover.pdf](https://drive.google.com/file/d/1nCWHDt-h-q4-a6a4QPnvFtifb5W3_QP9/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1FR0HdxI52yva3kuDwcEv3F0uHr6aBi2B) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [IsiZulu Assignment Guide Matric.pdf](https://drive.google.com/file/d/1fjwPhx_n8ZZ69MY_OfOuXi-hRFdW6SWS/view)
+	- **Skills** · 4 files · [Drive](https://drive.google.com/drive/folders/1e0J_47Nj2hryF0hUgn_GwXrdrDRgyCJh)
+		- [isiZulu Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/14ydSl4iWLhLEJI6MKGJ309CcQZN1NtQ8/view)
+		- [IsiZulu Literature Analysis Study Guide Skills.pdf](https://drive.google.com/file/d/1F5rV1mWU6nH9htP_bdY4LEpFypgCgWCH/view)
+		- [IsiZulu study guide Skills.pdf](https://drive.google.com/file/d/1Ua9X9Ak-KTjuMP24SSuHefun1tprEpX0/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/16c2Ot9YzSyvgP67X79Q1ChwsY6YwMNWF) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [isiZulu Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/11D-0c2aNw9KSsgBXW6bpIKVbjjmK96Ch/view)
+- **SEPEDI LELEME LA GAE** · 15 files · [Drive](https://drive.google.com/drive/folders/1JjVwrhf1d51PgRYeUvxRg5x7t11UKQc7) [[Public Folder/Subjects/Sepedi Leleme La Gae|◆ Sepedi Leleme La Gae]]
+	- [Sepedi Leleme la gae textbook.pdf](https://drive.google.com/file/d/1GxForAw63Zq7_VhR8Ou52M1ZhEvuKKtC/view)
+	- [Sepedi Textbook FC.pdf](https://drive.google.com/file/d/1BsTuZT4DN9MWsozc-cJUfX9g3mVmwUeQ/view)
+	- [Sepedi Textbook BC.pdf](https://drive.google.com/file/d/1ytL5tPnCqO24arJxxXX6-aEYjCOK_rYX/view)
+	- **BELLVIEW** · 4 files · [Drive](https://drive.google.com/drive/folders/1G2nadTjYYmx4of2aZEEn5OTiIHvFCxic)
+		- [Sepedi Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1atdwBDqQUZ6pW4HL4yUCoyw6fyjzzGCi/view)
+		- [Sepedi Study Guide Cover Bellview.pdf](https://drive.google.com/file/d/1750CfhvfLIitRVI6bleMUcrWynlCFR9W/view)
+		- [Sepedi Literature Analysis Guide Bellview.pdf](https://drive.google.com/file/d/1jOhsDiT9WoRXLAsQ4tpVavoheO7o_SNt/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1shaM2hifhOeN-tKc6BlPp30d4iGXRmzX) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Sepedi Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/17GxuPYd8eLB9zmj3cf1YZbc6BPJG4Xsb/view)
+	- **MATRIC COLLEGE** · 4 files · [Drive](https://drive.google.com/drive/folders/1t9ejQBVty93Ky5W6pEMmMObUSYS4nfcT)
+		- [Sepedi Assessment Guide - Matric College.pdf](https://drive.google.com/file/d/1iF53HvZVl6hht0bXdWJp-wwP7Vb5vcai/view)
+		- [Sepedi Literature Analysis Guide Matric.pdf](https://drive.google.com/file/d/1-4VgQi5UHjNKdAHB-Mf2XuOqhf9sMtGi/view)
+		- [Sepedi Study Guide Matric.pdf](https://drive.google.com/file/d/10_oCdN2M1_OSGLvMl7zcBkSKLuobrLLi/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1vdXn19JR4zDJh4LrMUEawdJ76Q70LVBX) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Sepedi Assignment Guide - Matric.pdf](https://drive.google.com/file/d/15cIQ15jiB7PGnNfuzW2qsjA1NzxK3S19/view)
+	- **SKILLS ACADEMY** · 4 files · [Drive](https://drive.google.com/drive/folders/1y3H9C3_SoIcCVEdcKRVJZu095jhTvX7Y)
+		- [Sepedi Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/15wki242-fjSmToKJfq-kfBGlp3pFJahX/view)
+		- [Sepedi Study Guide Cover Skills.pdf](https://drive.google.com/file/d/1kKtpq1BkZEhw-uOFjprPlriDTdJcznK8/view)
+		- [Sepedi Literature Analysis Study Guide -Skills (1).pdf](https://drive.google.com/file/d/1iT-ubl-zKVAyJB8lH6EB5XeasegFXwtO/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1x2kG8CvmJ6og0RqaYhrKLhaex7tMfyGY) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Sepedi Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1XTea9W5EVYZxtq91xl_7TRnvOlwizN5O/view)
+- **Sesotho** · 6 files · [Drive](https://drive.google.com/drive/folders/163Y53a3lGsXLrchgjY_n3iba9ZUe0c1W)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/10RUM1bzJWbAUBsNdZjvG-iCWF8UzSlSG)
+		- [Sesotho Assessment Guide -Bellview.pdf](https://drive.google.com/file/d/1hMthuch3dcvxwVtK3T5xVYFO2xvygKEo/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/11J59TRom7JNcmGX1Bf52IybvxJyJ83cY) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Sesotho Assignment Guide -Bellview.pdf](https://drive.google.com/file/d/1Sx6iYkUk6KMXPj9F6hUrY_Fjgh9flAZy/view)
+	- **Matric** · 2 files · [Drive](https://drive.google.com/drive/folders/18UzoH74lF0WG4sHl913Hn5Eb8DeX67sz)
+		- [Sesotho Assessment Guide - Matric College.pdf](https://drive.google.com/file/d/1fbvuWUn7zFgLu4R2SaPU9ZOXQnX2Zjg7/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1kHsuugj_aNrmLpH87vq8EdIr6BOwQonE) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Sesotho Assignment Guide -Matric.pdf](https://drive.google.com/file/d/1J2Y3_iMbBjAYNyWGZSZElos4qN3fm38q/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1yFeEeWD3boJQrHts75A9-E6LqsRk6KXE)
+		- [Sesotho Assignment Guide -Skills Academy.pdf](https://drive.google.com/file/d/1fQi6coxUpSYXPAQpf5fNDLg19B7OyRXl/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1KwYLQA3kcFuo7t7dtbYHq2bvrgZQX6pV) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Sesotho Assessment Guide -Skills Academy.pdf](https://drive.google.com/file/d/1A7EiRL20v32rl2nv4828Vf_uCz7a1f1M/view)
+- **Setswana** · 4 files · [Drive](https://drive.google.com/drive/folders/1o_98x2oqDMiwG1bgR8a3wT_u2qofJAwR)
+	- **Bellview** · 1 files · [Drive](https://drive.google.com/drive/folders/1RF63AzTTlirxeQK8Zu9izxH2mIF1M9sI)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1KNUz-YEDZLoeR52sGrWUaiw-klEwy8Bl) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Setswana Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/1IotyabnBZ6Pn_AazdiBc1k4dNfhCe1pk/view)
+	- **Matric** · 2 files · [Drive](https://drive.google.com/drive/folders/1ZOFghWNUlVofCtXKpzzSPvJUOAeIZClC)
+		- [Setswana Assessment Guide - Matric College.pdf](https://drive.google.com/file/d/1mlLXvewgfwkcxaj7A2LoKRCgpmAiiXtO/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1mwZoksD8iJvQ909om_g2JuUV6X3GbLy3) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Setswana Assignment Guide - Matric.pdf](https://drive.google.com/file/d/1Ys_CJ7HaQIEWVjBTeTfuAKxBBF9hlfng/view)
+	- **Skills** · 1 files · [Drive](https://drive.google.com/drive/folders/15aTJYCHrQ96ckS6FqiyktkGxSPU9sDWa)
+		- [Setswana Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/14fltDh6K-R4gDNmQZHxUiqlH1UOh67rg/view)
+- **Siswati** · 6 files · [Drive](https://drive.google.com/drive/folders/1SnKNezWfKdi9dUaQf9HiFBNJOGw-gLCr)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1DFujpiZD7rcCucjJY_vvVvysbcPkcLbs)
+		- [Siswati Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1JGeuFfYy0IyyBnu4E7a5hg9WY8oGDC_N/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1J8DzToVksC5OG26HBio_anRp-avDD3_l) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Siswati Assignment Guide -Bellview.pdf](https://drive.google.com/file/d/1B0TwWGt5vWghnfB95Dx6_xPwJD5YADGX/view)
+	- **Matric** · 2 files · [Drive](https://drive.google.com/drive/folders/1FFH_j1wh3hXoDKjIsPHfJTLvnYG9P8iA)
+		- [Siswati Assessment Guide - Matric College.pdf](https://drive.google.com/file/d/1N5-mECiiIkHqckJ0f8LgvMDU8xoFxHF-/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1vbwzI7WDhkgVsesLOOWC8l_aLqoHrTD8) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Siswati Assignment Guide - matric (1).pdf](https://drive.google.com/file/d/1rqJc2sSzPK-sTjp-06Rd2GZnmj2m2w5O/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1stBBpBNqUCQZPQu8UbD4r1cJIysPGrHV)
+		- [Siswati Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1yGA4pf8K7DTMVVIRfq2JEdIEulmhT2-A/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1bTPGHdSQwRWqjhSd74ILWJVOm8AHI6Hj) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Siswati Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1Ev60f7My4TUeNswnPqkBAR8-E213i-5t/view)
+- **Tshivenda** · 6 files · [Drive](https://drive.google.com/drive/folders/1-hhdJKTUGG9S2Hacx9Gl9Znx0FEU5C6x)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1OGxbkIGttSScaqa6VELkS6v9rRpjsr1e)
+		- [Tshivenda Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1dcCRAFPYhSgQLklYpVJIhWrkASowptsE/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1TPRYMlKmhEkvf1rPwqrc9v3ZFMeqY8GC) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Tshivenda Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/1vowE44YmoLWvI9QechGlR2CyX_96VM5K/view)
+	- **Matric** · 2 files · [Drive](https://drive.google.com/drive/folders/1xiFch5ZLlc_i9tkN4NqG0xGXOt8lztQN)
+		- [Tshivenda Assessment Guide - Matric.pdf](https://drive.google.com/file/d/1X9BqkGfZcyJLFejv4ol_EOqWIG7CcUCL/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1gl8HccUARItn0WLEQSPJ-dnVm33R_fgR) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Tshivenda Assignment Guide - Matric.pdf](https://drive.google.com/file/d/1kUY3Uoz4gxTiAQxqh4JZIWWJXHIX5srM/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1pF68_EPTYy-rvHsUFNWCpD-fezEV1rGU)
+		- [Tshivenda Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/17b_AWXbLtw8AhSwAgkcKkjtlqNzUZIx8/view)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1Nxebouo3ih6lGEpEaydvHRKUGSNGKBZX) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Tshivenda Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1EaHb-FK1nAUuNqtthrJ2d4QAwoH1oZk0/view)
+- **Xitsonga** · 3 files · [Drive](https://drive.google.com/drive/folders/10bSYdajFW5OAsnF6_kkdMCzVPFitSXAf)
+	- **Belview** · 1 files · [Drive](https://drive.google.com/drive/folders/1Sc4hYrV394BDWWcLBDuD86XiX98LbnVE)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1rpMI3dETxnxXvdGJAfLQ7nxPrQVph-ZD) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Xitsonga Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/10f7n5PGXIm3AsDC_rWrURNTBjQ_V7lHE/view)
+	- **Matric** · 1 files · [Drive](https://drive.google.com/drive/folders/1FTMOEdBh79BA-r_mqikpSt7MpaTVeqzQ)
+		- **DO NOT PRINT** · 1 files · [Drive](https://drive.google.com/drive/folders/1XrBwmNgai7DVtVmXeTXFXuJ3EepZTS0g) [[Public Folder/Subjects/Do Not Print|◆ Do Not Print]]
+			- [Xitsonga Assignment Guide - Matric.pdf](https://drive.google.com/file/d/1f52dKoWPEdN1cWaiRuLYHaiJgz9RUEAE/view)
+	- **Skills** · 1 files · [Drive](https://drive.google.com/drive/folders/170s-Pr_S5cm27taT3AiyNj5sWKohJ9kN)
+		- [Xitsonga Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1PGn-z-VNwWbLrwFzKTt2CTGKADq-FEgk/view)

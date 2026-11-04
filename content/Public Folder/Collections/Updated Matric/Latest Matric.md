@@ -1,0 +1,692 @@
+---
+tags: [public-folder, collection]
+branch: "Updated Matric"
+files: 510
+drive: https://drive.google.com/drive/folders/1N5-bpHpZJ-CY5EMizCc0Gupnj0GtBVLz
+---
+# Latest Matric
+
+Up: [[Public Folder/Branches/Updated Matric|Updated Matric]] · [Open in Drive](https://drive.google.com/drive/folders/1N5-bpHpZJ-CY5EMizCc0Gupnj0GtBVLz)
+
+**510 files**
+
+## Subjects here
+[[Public Folder/Subjects/Accounting|Accounting]] · [[Public Folder/Subjects/African Languages|African Languages]] · [[Public Folder/Subjects/Afrikaans|Afrikaans]] · [[Public Folder/Subjects/Afrikaans Eerste Addisionele Taal|Afrikaans Eerste Addisionele Taal]] · [[Public Folder/Subjects/Afrikaans Huistaal|Afrikaans Huistaal]] · [[Public Folder/Subjects/Afrikaans Matric|Afrikaans Matric]] · [[Public Folder/Subjects/Agriculture|Agriculture]] · [[Public Folder/Subjects/Assesments 2024|Assesments 2024]] · [[Public Folder/Subjects/Assignment|Assignment]] · [[Public Folder/Subjects/Besigheidstudies|Besigheidstudies]] · [[Public Folder/Subjects/Business Ethics|Business Ethics]] · [[Public Folder/Subjects/Business Studies|Business Studies]] · [[Public Folder/Subjects/Economics|Economics]] · [[Public Folder/Subjects/Ekonomie|Ekonomie]] · [[Public Folder/Subjects/English|English]] · [[Public Folder/Subjects/English Fal|English Fal]] · [[Public Folder/Subjects/English First Additional Language|English First Additional Language]] · [[Public Folder/Subjects/English Hl|English Hl]] · [[Public Folder/Subjects/English Home Language|English Home Language]] · [[Public Folder/Subjects/English Matric|English Matric]] · [[Public Folder/Subjects/Financial Risk Analysis|Financial Risk Analysis]] · [[Public Folder/Subjects/Finlite|Finlite]] · [[Public Folder/Subjects/Fisiese Wetenskap|Fisiese Wetenskap]] · [[Public Folder/Subjects/Fisiese Wetenskappe|Fisiese Wetenskappe]] · [[Public Folder/Subjects/Geografie|Geografie]] · [[Public Folder/Subjects/Geography|Geography]] · [[Public Folder/Subjects/Geskiedenis|Geskiedenis]] · [[Public Folder/Subjects/History|History]] · [[Public Folder/Subjects/Isixhosa|Isixhosa]] · [[Public Folder/Subjects/Isizulu|Isizulu]] · [[Public Folder/Subjects/Landbou|Landbou]] · [[Public Folder/Subjects/Lewenswetenskap Biology|Lewenswetenskap Biology]] · [[Public Folder/Subjects/Lewenswetenskappe|Lewenswetenskappe]] · [[Public Folder/Subjects/Life Science|Life Science]] · [[Public Folder/Subjects/Life Sciences|Life Sciences]] · [[Public Folder/Subjects/Life Sciences Biology|Life Sciences Biology]] · [[Public Folder/Subjects/Mathematical Literacy|Mathematical Literacy]] · [[Public Folder/Subjects/Mathematics|Mathematics]] · [[Public Folder/Subjects/Matric 2025|Matric 2025]] · [[Public Folder/Subjects/Physical Science|Physical Science]] · [[Public Folder/Subjects/Product Structure|Product Structure]] · [[Public Folder/Subjects/Rekeningkunde|Rekeningkunde]] · [[Public Folder/Subjects/Religie|Religie]] · [[Public Folder/Subjects/Religion|Religion]] · [[Public Folder/Subjects/Sepedi Leleme La Gae|Sepedi Leleme La Gae]] · [[Public Folder/Subjects/W Best Matric|W Best Matric]] · [[Public Folder/Subjects/Wiskunde|Wiskunde]] · [[Public Folder/Subjects/Wiskunde Geletterdheid|Wiskunde Geletterdheid]]
+
+## Contents
+- **Assignment guides (Skills)** · 13 files · [Drive](https://drive.google.com/drive/folders/13TmnZVgvyMaTCURz2pxVYzRJ0dCdfEDB) [[Public Folder/Subjects/Assignment|◆ Assignment]]
+	- **Afrikaans** · 4 files · [Drive](https://drive.google.com/drive/folders/1CeSMK_d2Aq1NinuQ-I2pnj4P6QgSSumX) [[Public Folder/Subjects/Afrikaans|◆ Afrikaans]]
+		- [Afrikaans Huistaal Taakgids.pdf](https://drive.google.com/file/d/1emzXF4uo7N_IO9JzjtO1TYl_NJnP_apa/view)
+		- [Rekeningkunde taakgids - Skills Academy.pdf](https://drive.google.com/file/d/1x9R7bfzEPtl_ed6ZTDxNGLqa4fZ4PxH8/view)
+		- [Ekonomie Taakgids skills.pdf](https://drive.google.com/file/d/1la43OveqqDkX14RBrs2DMiWZDH31Qt6y/view)
+		- [Afrikaans Eerste Addisonele Taal taakgids - Skills Academy.pdf](https://drive.google.com/file/d/1hqokbA8aL9HomiOsQZKqRpZr78o8Zcyq/view)
+	- **English** · 9 files · [Drive](https://drive.google.com/drive/folders/1z56hu7FMPM1vlvpmiVznvG_CDd_9kKxi) [[Public Folder/Subjects/English|◆ English]]
+		- [Life Sciences assignment guide.pdf](https://drive.google.com/file/d/1-ss6fzjrJze4mq4OjML3cBFIpvvnxgE5/view)
+		- [History Assignment Guide  - Skills Academy.pdf](https://drive.google.com/file/d/1PGGL5GTHs3wzz8nIm7N6F85KpN6XZH7s/view)
+		- [Economics Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1twZyB_1wWuBOPcrxQGA-AQ_J93bBcwna/view)
+		- [Accounting Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1NuPHJmB-kF03aVE0s0z5fA_ry_kkhfu4/view)
+		- [Geography Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1Ap_jkvbKS-Z27Pq4pruRg3RPp8ZopUHE/view)
+		- [Religious Studies Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1LKffP_Mxh-k_9WyapKqJBzFt6f5EeDys/view)
+		- [BS assignment guide skills.pdf](https://drive.google.com/file/d/1sNO--O1p72OTo7JPqyhkqUGVof_wY1UO/view)
+		- [English FAL Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1V8tSpg6WFvVjeXA_ChL52e56VZkZnsZa/view)
+		- [English HL Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/15WYW2L3Ln25C-CxWSKLkieN-_9VlgJcL/view)
+- **Exam Guidelines** · 25 files · [Drive](https://drive.google.com/drive/folders/1fvFk7M-MapDXw_cohASPyCBN_gBz1eUF)
+	- **Afrikaans** · 13 files · [Drive](https://drive.google.com/drive/folders/1LwyXxKYIjhwQuBlf1Ujd1RkYBc8PpKO9) [[Public Folder/Subjects/Afrikaans|◆ Afrikaans]]
+		- **Afrikaans Eerste Addisionele Taal** · 1 files · [Drive](https://drive.google.com/drive/folders/1uSNRGFnDG7HpSlrdC1PZJM1YP5rZu0T2) [[Public Folder/Subjects/Afrikaans Eerste Addisionele Taal|◆ Afrikaans Eerste Addisionele Taal]]
+			- [Eerste Additionele Taal Eksamenriglyne.pdf](https://drive.google.com/file/d/1nbtnXgnCh9Zh9AmOj5fagLv1ELf44IFS/view)
+		- **Afrikaans Huistaal** · 1 files · [Drive](https://drive.google.com/drive/folders/10_nLaovRzZqsK0rSPRXp0Sr0b8OE9DPg) [[Public Folder/Subjects/Afrikaans Huistaal|◆ Afrikaans Huistaal]]
+			- [Huistaal Eksamenriglyne.pdf](https://drive.google.com/file/d/1rmQQu0j277bRIeZzfFdU0KgJc7sCosjS/view)
+		- **Besigheidstudies** · 1 files · [Drive](https://drive.google.com/drive/folders/1P2ez2B81GxEC_W16HqaN1cjLIEv8c6Gs) [[Public Folder/Subjects/Besigheidstudies|◆ Besigheidstudies]]
+			- [Besigheidstudies Eksamenriglyne.pdf](https://drive.google.com/file/d/14rZhpg2wGqZKUrlJb6hMmpOVOTSXNXZu/view)
+		- **Ekonomie** · 1 files · [Drive](https://drive.google.com/drive/folders/1YcA1msieSeLZji19x0bm6g9TXCH488Av) [[Public Folder/Subjects/Ekonomie|◆ Ekonomie]]
+			- [Ekonomie Eksamenriglyne.pdf](https://drive.google.com/file/d/1zCJI74AZ4VOmIw28Fp8zSPx5d1hxG40u/view)
+		- **Geografie** · 1 files · [Drive](https://drive.google.com/drive/folders/1f3nZ6ocdJoPlb-hfup8_ju-mFpso3WG1) [[Public Folder/Subjects/Geografie|◆ Geografie]]
+			- [Geografie Eksamenriglyne.pdf](https://drive.google.com/file/d/1AbevcAPSWzdHQdVLOHMRYfzATywKTMkc/view)
+		- **Geskiedenis** · 1 files · [Drive](https://drive.google.com/drive/folders/1sFyQIT2ikaWr60gPOl3PvvQGbHtmtdib) [[Public Folder/Subjects/Geskiedenis|◆ Geskiedenis]]
+			- [Geskiedenis Eksamenriglyne.pdf](https://drive.google.com/file/d/1jRHWHdXBf94jlMpAUYvoPU-x3bqBllU1/view)
+		- **Landbouwetenskappe** · 1 files · [Drive](https://drive.google.com/drive/folders/1Q5jK52ExSPmY1r1rvivi3Dq0AZjlXZ9Z)
+			- [Landbouwetenskappe Eksamenriglyne Graad 12 2021.pdf](https://drive.google.com/file/d/1HNKtfsgc36CGnIi1sGGgkk6We7hkQPXY/view)
+		- **Lewenswetenskappe** · 1 files · [Drive](https://drive.google.com/drive/folders/1ZWlyh7HPpLdehCEo5s-5zv7HbVZZa4RU) [[Public Folder/Subjects/Lewenswetenskappe|◆ Lewenswetenskappe]]
+			- [Lewenswetenskappe Eksamenriglyne Graad 12 2021.pdf](https://drive.google.com/file/d/1lbeap-p-4DgEWryX69Fa6clPEke7aXJS/view)
+		- **Rekeningkunde** · 1 files · [Drive](https://drive.google.com/drive/folders/1v-_YNQAPFya3fRTh0WMM4m695ujvNmrG) [[Public Folder/Subjects/Rekeningkunde|◆ Rekeningkunde]]
+			- [Rekeningkunde Eksamenriglyne.pdf](https://drive.google.com/file/d/1xKBDVo3JUxJ647RovdjGkACLLn-WNn1H/view)
+		- **Religiestudies** · 1 files · [Drive](https://drive.google.com/drive/folders/16A5cT7ixtqipQMLsOOQiPut7RTGvdMRz)
+			- [Relegiestudies Eksamenriglyne.pdf](https://drive.google.com/file/d/16RNQKOvC7DbUjMgEubJtegSqTLvDCGw0/view)
+		- **Wiskunde** · 1 files · [Drive](https://drive.google.com/drive/folders/11jbGQTkl-Lu574V6gZoc9TGTzkyMDc5X) [[Public Folder/Subjects/Wiskunde|◆ Wiskunde]]
+			- [Wiskunde Eksamenriglyne.pdf](https://drive.google.com/file/d/1CgoElB-KefN-WJgyUcFefuSvurpCkZwn/view)
+		- **Wiskunde Geletterdheid** · 2 files · [Drive](https://drive.google.com/drive/folders/1NBYhv8FD8W6NsDQWOjxLpycbUhYZKHj0) [[Public Folder/Subjects/Wiskunde Geletterdheid|◆ Wiskunde Geletterdheid]]
+			- [photo_2025-01-27_16-51-07.jpg](https://drive.google.com/file/d/13O64JXjDUxASLU1weiHbKCeGOo7tT_1W/view)
+			- [Wiskundige Geletterdheid Eksamenriglyne.pdf](https://drive.google.com/file/d/126Qj54BXDw32D8Hx8GTXH4EfNzAt7J9z/view)
+	- **English** · 12 files · [Drive](https://drive.google.com/drive/folders/1Ps5AA_Ttr9hlJssWCV7givgZtOikN-Vb) [[Public Folder/Subjects/English|◆ English]]
+		- [Life Sciences GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1PSQZVYDmNE_-0-FBlw31on99dyRWc82j/view)
+		- **Accounting** · 1 files · [Drive](https://drive.google.com/drive/folders/1LpKmklyYOosH7TBh3lTKpWbg8xasngqp) [[Public Folder/Subjects/Accounting|◆ Accounting]]
+			- [Accounting GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/14hPTtURwx9ZjibFnWvEACN3cnK2jQifU/view)
+		- **Agricultural Sciences** · 1 files · [Drive](https://drive.google.com/drive/folders/1N8yEdZycF-NVgexSXbwGTBj2bt_8gSSK)
+			- [Agricultural Sciences GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1zyiHPInlUGuf_xlkLbCbFReqj0DrNIHZ/view)
+		- **Business Studies** · 1 files · [Drive](https://drive.google.com/drive/folders/1Ny2sjl0HpyZRVmdCCYKgdiOO36hcIfsk) [[Public Folder/Subjects/Business Studies|◆ Business Studies]]
+			- [Business Studies GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1I3gCemlT8hABG_zcZFMKDc9oEnZJ1qah/view)
+		- **Economics** · 1 files · [Drive](https://drive.google.com/drive/folders/1e-3itGSPVKEZ08EZXX_w7JBmwpMv82v0) [[Public Folder/Subjects/Economics|◆ Economics]]
+			- [Economics GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1K25PAE9vYMiKEDqJu62MIQK62Rj6hhye/view)
+		- **English FAL** · 1 files · [Drive](https://drive.google.com/drive/folders/1WHP6lTagS9gegjObhn3fzAZcoAdBzhAv) [[Public Folder/Subjects/English Fal|◆ English Fal]]
+			- [First Additional Languages GR 12 Exam Guidelines 2021.pdf](https://drive.google.com/file/d/1XVWMDBkn43cx4fRiJ-CiNVJ1zKK4ygGF/view)
+		- **English Home Language** · 1 files · [Drive](https://drive.google.com/drive/folders/1BNASVYqSEhh5Tk2p7gIDg8USGVVRsIWH) [[Public Folder/Subjects/English Home Language|◆ English Home Language]]
+			- [Home Languages GR 12 Exam Guidelines 2021.pdf](https://drive.google.com/file/d/1uPBH1_le3AyXOnn-uKmFedTFQPsZqHDK/view)
+		- **Geography** · 1 files · [Drive](https://drive.google.com/drive/folders/1d6DGGM-g_ZqBGU0bIvWihmz8fvmbDisb) [[Public Folder/Subjects/Geography|◆ Geography]]
+			- [Geography GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1RLP-mxolo8YukcTq882gtq7oB5I-TTAm/view)
+		- **History** · 2 files · [Drive](https://drive.google.com/drive/folders/1AE1hKc6uNwzNJ4ux7PSC4UPYVn3vZNRy) [[Public Folder/Subjects/History|◆ History]]
+			- [History GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1gLR8NOZEStmKL0taJ6WEDXAaqMnyI3_x/view)
+			- **Life Science - Copy** · 1 files · [Drive](https://drive.google.com/drive/folders/1CgdlbuzViKtRfcobTjdqb0G1jEh0QVCD) [[Public Folder/Subjects/Life Science|◆ Life Science]]
+				- [Life Sciences GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1VVmy2xGQEO18U9M0pTQhhfyDz1HA4RCN/view)
+		- **Mathematics** · 1 files · [Drive](https://drive.google.com/drive/folders/1lI1EvJbmre99fstGkYUWcnTRXcKnGauf) [[Public Folder/Subjects/Mathematics|◆ Mathematics]]
+			- [Mathematics GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/17KM-Y_XClJ6YAbukoCj1_U86yJDBr0Ra/view)
+		- **Mathematics Literacy** · 1 files · [Drive](https://drive.google.com/drive/folders/1t0FSNAeaFHQ8lhA8O6SQX44919iUhCu8)
+			- [Mathematical Literacy GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1c3qN1AO-gr7VlMIuhXshckSV5ysOGLKp/view)
+- **Mathematics** · 7 files · [Drive](https://drive.google.com/drive/folders/1N0diyxwF_xirOJ2V6hJy3te68894li7W) [[Public Folder/Subjects/Mathematics|◆ Mathematics]]
+	- [Mathematics Grade 12 Study Guide.pdf](https://drive.google.com/file/d/1zGrK30qb_n6AxvCsvKA_E54rPG2SXKGd/view)
+	- [Mathematics GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1n9bN-Yfe5Xj4sgbQiCx4JlF9MxpESIUD/view)
+	- [Mathematics Assessment Guide - Skills.pdf](https://drive.google.com/file/d/1eI4jxXLmYI49inQ-Syhm9JJPC8LpkIw9/view)
+	- [Mathematics Assessment Guide - Matric.pdf](https://drive.google.com/file/d/1hXLpI-RZKU4fdrebHbysB8pL2qo_CpSs/view)
+	- [Mathematics Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1ee-q4IrUWcfYH_m6WvQzO9IPFr3sG2Km/view)
+	- [Gr12_Maths_Learner_Eng_Part2.pdf](https://drive.google.com/file/d/1AkwHB9mDaFiqXUh2_qo9nNmAkvm7Bzet/view)
+	- [Gr12_Maths_Learner_Eng_Part1.pdf](https://drive.google.com/file/d/1HcpWORfKsG45pj2w3X_j1I5YG_ySD3Lm/view)
+- **Matric 2025** · 48 files · [Drive](https://drive.google.com/drive/folders/1xXZK26rQ57rpf03Jg-8S80s6vzf6qWGd) [[Public Folder/Subjects/Matric 2025|◆ Matric 2025]]
+	- [drive-download-20250203T064543Z-001.zip](https://drive.google.com/file/d/17ru9SMeBHJ2P2EH90v41MkkBZGD8kUvL/view)
+	- **Accounting** · 1 files · [Drive](https://drive.google.com/drive/folders/1pAvO5F9R28YOU9Zn3oT8PBhErpYw-4ni) [[Public Folder/Subjects/Accounting|◆ Accounting]]
+		- [1853-Accounting Exam guide.pdf](https://drive.google.com/file/d/1euqowVP5R5R-EDWG3Mvu5dZ2vK1o6G2E/view)
+	- **AFRICAN LANGUAGES** · 1 files · [Drive](https://drive.google.com/drive/folders/12ozpDRPUrCBTqOMglK_R-G-GUcBW2ltu) [[Public Folder/Subjects/African Languages|◆ African Languages]]
+		- **SEPEDI LELEME LA GAE** · 1 files · [Drive](https://drive.google.com/drive/folders/1lZG2LgmQRq9shteBBTE-udvUFSWM-R0e) [[Public Folder/Subjects/Sepedi Leleme La Gae|◆ Sepedi Leleme La Gae]]
+			- [Sepedi Back Cover.pdf](https://drive.google.com/file/d/1s21KNfgwmZ3GIANpqemgKx6adFvIoGeO/view)
+	- **Afrikaans Eerste Addisionele Taal** · 5 files · [Drive](https://drive.google.com/drive/folders/1z-CWaBZ3V8ttGGgIt16KorBDEKSH0ODv) [[Public Folder/Subjects/Afrikaans Eerste Addisionele Taal|◆ Afrikaans Eerste Addisionele Taal]]
+		- [Fiela se kind Cover.jpg](https://drive.google.com/file/d/1KjjSBFF4VJl7Tsc63vMXnhFLeWl4YUwq/view)
+		- [Afrikaans EAT - Poem Analysis.pdf](https://drive.google.com/file/d/1otElUcYzUX_4YaR6M8SO92NDIxRhUccD/view)
+		- [Speelbeelde Cover.jpg](https://drive.google.com/file/d/1EAoYXTQARcNLn7dh1ICCb0Pt6XXdXQNV/view)
+		- [1869-Afrikaans Eerste Addisionele Taal Exam Guide.pdf](https://drive.google.com/file/d/1MpxBDRUffJ83Qd9FqM9tIJaoQhUJYjpn/view)
+		- [Lien se langskoene Cover.jpg](https://drive.google.com/file/d/1zj-b0bOEMoXu4ehWlUNYva6SesXnc51V/view)
+	- **Afrikaans Huistaal** · 4 files · [Drive](https://drive.google.com/drive/folders/1T2e-0lBTSqo9Rnk_qGTfeikKcmLC6arQ) [[Public Folder/Subjects/Afrikaans Huistaal|◆ Afrikaans Huistaal]]
+		- [Verse cover.jpg](https://drive.google.com/file/d/159Q1kBJ7k5nC9FnfZ_kwg23c-THiw_mL/view)
+		- [Onderwereld Cover.jpg](https://drive.google.com/file/d/1cb__7TTqB68HYLNnct6aRsOKWGt0Sxls/view)
+		- [Krismis van Map Jacobs_ Cover.jpg](https://drive.google.com/file/d/1E6_02wJtzjrN8egGTiuO1ggLveUdDEUg/view)
+		- [1794-Exam Guideline.pdf](https://drive.google.com/file/d/1wsY-CU8kd1aUm7RU9x06TqwZ1JJ2h4Mu/view)
+	- **Agriculture** · 1 files · [Drive](https://drive.google.com/drive/folders/1mk2kCaypk5aUjpkIg6fRw5YDCCMEeBtI) [[Public Folder/Subjects/Agriculture|◆ Agriculture]]
+		- [1803-Agriculture Exam Guide.pdf](https://drive.google.com/file/d/1LQt4uLHjkf81cWeT47mhFtVqhS7XBkhE/view)
+	- **Besigheidstudies** · 1 files · [Drive](https://drive.google.com/drive/folders/1l86qZurPiMog6g2nlF9RP3M1oA-oGmPv) [[Public Folder/Subjects/Besigheidstudies|◆ Besigheidstudies]]
+		- [1490-Besigheidstudies Study Guide.pdf](https://drive.google.com/file/d/135sZZ8i8FsHQm0WCmFKTjTAAXFxIaDTG/view)
+	- **Business Studies** · 3 files · [Drive](https://drive.google.com/drive/folders/1ij2Z2eGxSOSvS7KQT9pObiGcrylJHLC2) [[Public Folder/Subjects/Business Studies|◆ Business Studies]]
+		- [1543-Business Studies Assessment Guide.pdf](https://drive.google.com/file/d/1PjYnMmcsLpa8YWmfUZHVnNSy2kLwfO_u/view)
+		- [1797-Business Studies Exam Guide.pdf](https://drive.google.com/file/d/17PYwFPsqUx1kPrkJGKFStO0j85IvevkP/view)
+		- [1489-Business Studies Study Guide.pdf](https://drive.google.com/file/d/1zAIACXYb5X2DkSrj0XPeEdc0-1Znj949/view)
+	- **Economics** · 1 files · [Drive](https://drive.google.com/drive/folders/1hyQSQqrvOCJH-4MtjcAHiQqL75eLAjOP) [[Public Folder/Subjects/Economics|◆ Economics]]
+		- [1798-Economics Exam Guide.pdf](https://drive.google.com/file/d/1e-YvvmjJwVvPQqGBqlIsam5X2SysVXOa/view)
+	- **English First Additional Language** · 4 files · [Drive](https://drive.google.com/drive/folders/1kiXuk_EFEhgjw81XB0Uve9XH22gDYBt9) [[Public Folder/Subjects/English First Additional Language|◆ English First Additional Language]]
+		- [1454-English first Additional Language Poetry.pdf](https://drive.google.com/file/d/1vGcnQSWd2kHeAyw1fS-zqu0Np1tEJGc4/view)
+		- [1868-English FAL Exam Guide.pdf](https://drive.google.com/file/d/1QQuj77HpdSCrzUwKaYxfGOtmdaD45JhB/view)
+		- [1449-English First Additional Language Study Guide.pdf](https://drive.google.com/file/d/1KI93MPnjWtxMkTi_WawkQ-qIcVEp0jV0/view)
+		- [1450-Cry, the Beloved Country.pdf](https://drive.google.com/file/d/1tbOVqvQ58v10EhdiP6w1T6dEPzSYlWTA/view)
+	- **English Home Language** · 6 files · [Drive](https://drive.google.com/drive/folders/1M2YsSDOC-4lUO3M2qx2V4KpZPeUSMdAG) [[Public Folder/Subjects/English Home Language|◆ English Home Language]]
+		- [1445-English Home Language Study Guide.pdf](https://drive.google.com/file/d/14rtDo_C9sNQCZkdKJxhVXk_gopSZQSwr/view)
+		- [1446-Anthropology of Poetry.pdf](https://drive.google.com/file/d/1wHOT56x5zkEKhYGYQmm85Ry_HwvtlKJB/view)
+		- [Hamlet Cover.jpg](https://drive.google.com/file/d/1L3VIHTahieiZqR6CbjmFG66-zsUOGug2/view)
+		- [Dorian Gray,Cover.jpg](https://drive.google.com/file/d/1kgJIOfDhmgajNO1COU2HSAzWcvcOwmPA/view)
+		- [1867-Langauge Exam guide.pdf](https://drive.google.com/file/d/1ON61IK-D7zdRAFOpJ0sXC5OALKGbQzez/view)
+		- [1448-Dorian Grey.pdf](https://drive.google.com/file/d/1qMNe9ahvbM6FRFBRVY7Nnp56vPxzHc9x/view)
+	- **Geografie** · 1 files · [Drive](https://drive.google.com/drive/folders/1ozP-xTxNvZ7OD2oqms_NHfLEeGbcaSKA) [[Public Folder/Subjects/Geografie|◆ Geografie]]
+		- [1804-Geografie Exam Guide.pdf](https://drive.google.com/file/d/1KE8pkUTfTbkg2oNr_hzq_V63hFvX8c7A/view)
+	- **Geography** · 1 files · [Drive](https://drive.google.com/drive/folders/1VjKsrSAToeVJqzu1Kf3Gk7xPG9NBZAl8) [[Public Folder/Subjects/Geography|◆ Geography]]
+		- [1799-Geography Exam Guide.pdf](https://drive.google.com/file/d/1rAgyDOMHqA3CSOeTq9AN3OpJJ2-rTx82/view)
+	- **Geskiedenis** · 2 files · [Drive](https://drive.google.com/drive/folders/1d6RDljhEfgj6iTpRbO2JUtchvT7Fq-Es) [[Public Folder/Subjects/Geskiedenis|◆ Geskiedenis]]
+		- [Geskiedenis back cover.pdf](https://drive.google.com/file/d/1mZZlQneL-NkgLKsIuBO6wzM_6JQJZMsS/view)
+		- [1862-Geskiedenis Exam Guide.pdf](https://drive.google.com/file/d/1_o_mwE52L1PcDBGvY-m72G-x7zdQi3H8/view)
+	- **History** · 1 files · [Drive](https://drive.google.com/drive/folders/1vG8ixPzjgnBghH7HVnPHHtvdHPL36LvR) [[Public Folder/Subjects/History|◆ History]]
+		- [1855-History Exam guide.pdf](https://drive.google.com/file/d/1AFlhwt77vVGC0q6cECE4nakCJHehSR9I/view)
+	- **Landbou** · 3 files · [Drive](https://drive.google.com/drive/folders/1tX8HLYtb4V2sdAFKwdfXkQRVytTvMMvd) [[Public Folder/Subjects/Landbou|◆ Landbou]]
+		- [Landbou Back Cover.pdf](https://drive.google.com/file/d/1mx2DwRYkqUC9Ej1kD1jp0ywum4fr8yl7/view)
+		- [Landbou Front Cover.pdf](https://drive.google.com/file/d/17sYQ4uC8gubISWuzOn1jaa-sM8Ie-OEw/view)
+		- [1864-Landbou exam guide.pdf](https://drive.google.com/file/d/12V5t5N0bydXCwUijCC4Mi2vLCJb2ONqT/view)
+	- **Lewenswetenskap (Old Biology)** · 1 files · [Drive](https://drive.google.com/drive/folders/1nWOptJeAfgCPKRNbmwK8Y518hX2vKwx3) [[Public Folder/Subjects/Lewenswetenskap Biology|◆ Lewenswetenskap Biology]]
+		- [1806-Lewenswetenskap (Old Biology) Exam guideline.pdf](https://drive.google.com/file/d/1qvwhNBs4U6CzKEe8CPYxsQ6C_4lqJJxY/view)
+	- **Life Sciences (Old Biology)** · 1 files · [Drive](https://drive.google.com/drive/folders/1JPva-IOhhjl8-v0amee0Na88JTZaWYyS) [[Public Folder/Subjects/Life Sciences Biology|◆ Life Sciences Biology]]
+		- [1800-Life Sciences (Old Biology) Exam Guide.pdf](https://drive.google.com/file/d/1zYYhh_AiFM5rZgPLSoY5uxtAY_nH8xPQ/view)
+	- **Mathematical Literacy** · 1 files · [Drive](https://drive.google.com/drive/folders/1cRwU2gxd9uh726lw602QFXFwD0AuCYcI) [[Public Folder/Subjects/Mathematical Literacy|◆ Mathematical Literacy]]
+		- [1796-Exam Guide.pdf](https://drive.google.com/file/d/1OZhd5VPdJWRziFHTytGeYDxgw3zuQ4Xc/view)
+	- **Mathematics** · 1 files · [Drive](https://drive.google.com/drive/folders/1GkMkCKG8PNcNg5FD3yDGEGXSX1kqrlWB) [[Public Folder/Subjects/Mathematics|◆ Mathematics]]
+		- [1594-Mathematics Exam Guidelines.pdf](https://drive.google.com/file/d/1NatHHu7mO2P7GPFDauArtN3kPVqLOQ8V/view)
+	- **Rekeningkunde** · 1 files · [Drive](https://drive.google.com/drive/folders/1Vz3GcP2G3kUU7GIJ4XDztH3m2bGs5e4R) [[Public Folder/Subjects/Rekeningkunde|◆ Rekeningkunde]]
+		- [1860-Rekeningkunde Exam Guide.pdf](https://drive.google.com/file/d/1BCFUmFRkdNQtGCTrJZ2BaOY7OvicESvO/view)
+	- **Religie** · 3 files · [Drive](https://drive.google.com/drive/folders/1wwpxHbatz8DNqhVjkF1XLnbjVarnZrb2) [[Public Folder/Subjects/Religie|◆ Religie]]
+		- [Religiestudie studie gids- Matric (1).pdf](https://drive.google.com/file/d/18KeHUW4D0wP2T5qtRStPRPqEcFw0IXMO/view)
+		- [Religie Back Cover.pdf](https://drive.google.com/file/d/1ukE5n1UUDI0v_ALWc55vI_6t8mET15yL/view)
+		- [1859-Religie Exam Guide.pdf](https://drive.google.com/file/d/1CRM2GorXNpDl9LsztAyDMOfKtWZHFkOI/view)
+	- **Religion** · 2 files · [Drive](https://drive.google.com/drive/folders/1xKQ8FH0fPSVvJh1avG804959J1uHt-32) [[Public Folder/Subjects/Religion|◆ Religion]]
+		- [1541-Religion Assessment Guide.pdf](https://drive.google.com/file/d/1JCNM7lR3Ss6uYlydLuN3G8MxkP3MtghU/view)
+		- [1801-Religion Exam Guide.pdf](https://drive.google.com/file/d/1wCQ5dPfclX7VRP-Jl4oLk0IWbqt1Fch2/view)
+	- **Wiskunde** · 1 files · [Drive](https://drive.google.com/drive/folders/1fhrK4Y7M4zQFrkyt5ZTjcxij-j7g_a32) [[Public Folder/Subjects/Wiskunde|◆ Wiskunde]]
+		- [1857-Wiskunde Exam guide.pdf](https://drive.google.com/file/d/1p-YQksUWZuM9Y46X4cSWdonAkgeVrT2t/view)
+	- **Wiskunde Geletterdheid** · 1 files · [Drive](https://drive.google.com/drive/folders/1hHcCFQtzrOBfZ_-836w_OsJVt7HFtdxQ) [[Public Folder/Subjects/Wiskunde Geletterdheid|◆ Wiskunde Geletterdheid]]
+		- [1807-Wiskunde Geletterdheid Exam guideline.pdf](https://drive.google.com/file/d/1vE8aXCC_lQqcg9Y3PMrp3Dz72iaihOLn/view)
+- **Matric Assignment guides** · 45 files · [Drive](https://drive.google.com/drive/folders/1xtOTedgjf7SjpXmmmUGTaAH55DeNWrya)
+	- **African Languages** · 21 files · [Drive](https://drive.google.com/drive/folders/1_rx4BTogdIkFPNZNsiYv0eyVHhLSNctI) [[Public Folder/Subjects/African Languages|◆ African Languages]]
+		- **Bellview** · 6 files · [Drive](https://drive.google.com/drive/folders/1JdNywV2TvCWq1pseyr-BLzsrR5c9vyOm)
+			- [Sesotho Assignment Guide -Bellview.pdf](https://drive.google.com/file/d/1zGc5ohOOrR968MYykAyFzY1sha8Weef3/view)
+			- [Siswati Assignment Guide -Bellview.pdf](https://drive.google.com/file/d/100dtaNqaHQB2LSTnvewIU2xVGFW3G8j0/view)
+			- [Setswana Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/1YMITk6z7Bk79IQjJamKWYZAYp5VeBzM8/view)
+			- [IsiNdebele Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/1HHmvPekiKQDMQV2MYzwG2saZy0g_NpO9/view)
+			- [isiZulu Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/1-mGOPyZ6i8lWxiUJsk4wK50akipmdkWq/view)
+			- [Sepedi Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/1jklEJgTJmpius8zReQHLPd2XxRQ1XDUv/view)
+		- **Matric** · 7 files · [Drive](https://drive.google.com/drive/folders/1C4mvLbx-Jte6lLFtBllADKWA3pQuARLe)
+			- [IsiXhosa Assignment Guide - Matric.pdf](https://drive.google.com/file/d/1ouXhfY9Wg0A9aJysCpRfHhzHy_6_PPsT/view)
+			- [isiZulu Assignment Guide - Matric.pdf](https://drive.google.com/file/d/1CmhWzoBK1mn_Ts_lUke4scqG7_71fSX2/view)
+			- [IsiNdebele Assignment Guide - Matric.pdf](https://drive.google.com/file/d/1Nf7vcRLiqdvD4uzaw5omafllEyRNHzM9/view)
+			- [Tshivenda Assignment Guide - Matric.pdf](https://drive.google.com/file/d/1eN9JJ4ZJaCKZZ2sPSHbwPGLXJWtdENIB/view)
+			- [Siswati Assignment Guide - matric.pdf](https://drive.google.com/file/d/1J8fUrWTl1wk-JIKCTBIuJ0i0Dj0xvgSk/view)
+			- [Sepedi Assignment Guide - Matric.pdf](https://drive.google.com/file/d/16yPLhCrLQXQoH8UNAx2QF0M44EC3vxQh/view)
+			- [Setswana Assignment Guide - Matric.pdf](https://drive.google.com/file/d/1Ok56JTmbJ8DoZhvCW-ZHlUOvtO1YJVDT/view)
+		- **Skills** · 8 files · [Drive](https://drive.google.com/drive/folders/1DInYOcwLlmwQGDqKVGm_YeXIrx-SE7qc)
+			- [Siswati Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1P91D1bGWyNPU39_jbSw7lksM9fjLePXL/view)
+			- [Tshivenda Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1w96FojwCb5J-KrfhdNlVniH88y9xWzSb/view)
+			- [isiZulu Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1uDydr16-BAoM5iWhfzg9Xafrf9usB2GN/view)
+			- [IsiXhosa Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1atv7bmk7ThgVgNH0AUbnlTQEn0VOwvl8/view)
+			- [Sesotho Assignment Guide -Skills Academy.pdf](https://drive.google.com/file/d/1Tck_iaizuuYgoxpAJ8HXg5JHeDSDq19e/view)
+			- [IsiNdebele Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/19wFcDT5Xz1UUCGHK86QVG1wSlMWI_RI3/view)
+			- [Setswana Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/13Os6GR2Hy5c_eCVcuZoI-0fcw5_JNBep/view)
+			- [Sepedi Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1JfYJe4ITwLpqF_zCrCCuup0457BffZ1c/view)
+	- **Bellview** · 5 files · [Drive](https://drive.google.com/drive/folders/1651F84W8L4TOvM23kZodGfco_rZITnr1)
+		- **Afrikaans Bellview** · 1 files · [Drive](https://drive.google.com/drive/folders/1GIQjIhQ42qQ_9hIyNoyz3V1zJ1InUVAi) [[Public Folder/Subjects/Afrikaans|◆ Afrikaans]]
+			- [Besigheidstudies Taakgids - Bellview.pdf](https://drive.google.com/file/d/1HeB6FA4VTJ0CrYaUtdodUGBLG0gGgvCk/view)
+		- **English Bellview** · 4 files · [Drive](https://drive.google.com/drive/folders/11bwCpTvIXYqdj_oF1vLaC7EOo2nPrFiq) [[Public Folder/Subjects/English|◆ English]]
+			- [Geography Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/1CTcMUOJ68l8yfy60gwtURCrMEWiRU6sQ/view)
+			- [BS assignment guide Bellview.pdf](https://drive.google.com/file/d/147BfouzMkuIDwc10BSINS8FvthAB8Fw5/view)
+			- [English HL Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/1ldZHcxjvOO--7hpvj-bRbl3OlsYR3XM2/view)
+			- [English FAL Assignment Guide - Bellview.pdf](https://drive.google.com/file/d/1hXtsEMGS5sA5Y0KNm7qGVeRGk2YEbQJe/view)
+	- **Matric** · 2 files · [Drive](https://drive.google.com/drive/folders/1jN_PBmEtUKDOPDbWxJNMP4sGrpPF0B00)
+		- **English Matric** · 2 files · [Drive](https://drive.google.com/drive/folders/1-9aJDsFTeZHH5UI6Eyp-iA8texw7eFLd) [[Public Folder/Subjects/English Matric|◆ English Matric]]
+			- [BS assignment guide Matric.pdf](https://drive.google.com/file/d/1GZVXkBp-aFL1hjODr0soXsPT9BwY3_py/view)
+			- [Religious Studies Assignment Guide - matric.pdf](https://drive.google.com/file/d/10-58g7XxjU8_sqAY8x73ubmHQykhOyC1/view)
+	- **Skills Academy** · 17 files · [Drive](https://drive.google.com/drive/folders/1fuGiATkIq2Em2_YkjOU4ZVoDUvrQAOD-)
+		- **Afrikaans Skills** · 8 files · [Drive](https://drive.google.com/drive/folders/1kwEIdQQxCgmV38CYN3S2zvqLYNKgQdIY) [[Public Folder/Subjects/Afrikaans|◆ Afrikaans]]
+			- [Afrikaans Huistaal Taakgids.pdf](https://drive.google.com/file/d/16RnvTdzlKt6swMmebDFVPGOoCp6oVBm2/view)
+			- [Religie Taakgids -skills academy.pdf](https://drive.google.com/file/d/1jXYjsjXOdf6_96eM_Bo0QZqagye00Kw5/view)
+			- [Besigheidstudies Taakgids - Skills.pdf](https://drive.google.com/file/d/1uhvGugPl1gvsitmYHzXtRzqHS3HzSLmY/view)
+			- [Ekonomie Taakgids skills.pdf](https://drive.google.com/file/d/1HXdlGcwiu43LuuaooyXEpjraZbSO1ehJ/view)
+			- [Rekeningkunde taakgids - Skills Academy.pdf](https://drive.google.com/file/d/1b7eoHB8-6Ht3MR80BWb8x4G-narwaWho/view)
+			- [Geskiedenis Taakgids - SKILLS (1).pdf](https://drive.google.com/file/d/1r6GcdigQMQCbAsGxH44no1pVc1w-sOVG/view)
+			- [Afrikaans Eerste Addisonele Taal taakgids - Skills Academy.pdf](https://drive.google.com/file/d/1JyF2L40QHAqZW2OF9g5yUawi5Eo6unfB/view)
+			- [Geografie Taakgids Skills.pdf](https://drive.google.com/file/d/1z-QDK85jxIW4puOLjliO7FHLeQRR3Snt/view)
+		- **English Skills** · 9 files · [Drive](https://drive.google.com/drive/folders/1Qz4MMP3SzzLX7vtSjY8p1NfrMohI-UsN) [[Public Folder/Subjects/English|◆ English]]
+			- [History Assignment Guide  - Skills Academy.pdf](https://drive.google.com/file/d/1pR57C9AmjimCu2sPuOYgn3Zz-g4bXfGj/view)
+			- [Life Sciences assignment guide.pdf](https://drive.google.com/file/d/1IJ7U-ktOLoz-fGOOWSnOo7_vDzRbxNxL/view)
+			- [Geography Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1jmyJbkcQ9wv-Hj-K6fzT7D17xEjIQMCR/view)
+			- [English FAL Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1EUWssCnjJ4sbGs80qqHgHwUK-PEftY1t/view)
+			- [English HL Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/14fiOAnYpE7l6WIKyRjyqY-I8slRh2-Qk/view)
+			- [Agricultural Sciences Assignment Guide.pdf](https://drive.google.com/file/d/1gHJe8eOyTkDezxZcrGdAzaw7QOHBbFnt/view)
+			- [Economics Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1aCWbCN1sF8E31OcA9Vm62n0mVogh5Ovk/view)
+			- [Accounting Assignment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1jZo21Bep_say8uolDbvFg39gr8sncE_U/view)
+			- [BS assignment guide skills.pdf](https://drive.google.com/file/d/1i94HRiZZvXWXL6s9zyfDjR5mn1U3hDMu/view)
+- **New Afrikaans FAL** · 14 files · [Drive](https://drive.google.com/drive/folders/164nP9I7kV7A1UAD4a0O6nq6uwSzzV57g)
+	- [Afrikaans Eerste Addisionele Taal Textbook Front Cover .png](https://drive.google.com/file/d/1XRYWLECTiEGWrbauK8_AKtuXUXrj682i/view)
+	- [Afrikaans FAL Textbook.pdf](https://drive.google.com/file/d/1J0dMmcgyHQba_sJBkcNJbryAqLE0H7z-/view)
+	- [AFrikaans FAL Back Cover.png](https://drive.google.com/file/d/1MovK-W9z871kfHo0642PvNenuJTPEa8c/view)
+	- [Afrikaans Eerste Addisionele Taal Poësie-Analise Boek V1.png](https://drive.google.com/file/d/1GXaL6eP-M98eWvk6bwswxRBCMoKWKsuZ/view)
+	- [Afrikaans Eerste Addisonele Taal Assesseringsgids - Skills Academy.pdf](https://drive.google.com/file/d/1LMglTR_Ed3A0ugd6_cwn7v5jzGXyePQG/view)
+	- [Afrikaans Eerste Addisonele Taal Assesseringsgids - Matric College.pdf](https://drive.google.com/file/d/1RhN-gctFmHrIGUvP79cXbufk2v769knx/view)
+	- [Afrikaans Eerste Addisonele Taal Assesseringsgids - Bellview.pdf](https://drive.google.com/file/d/1FKHtMnW4kVMqNCR71vEubjqWLN43hust/view)
+	- [Afrikaans Eerste Addisionele Taal Studiegids.pdf](https://drive.google.com/file/d/1EGLMr0E6Rmzz4f7X4keo9b1hNyl03yB5/view)
+	- [Afrikaans Eerste Add. Taal - Gedigte 2024.pdf](https://drive.google.com/file/d/1yBV7J2gsaoI27SgMYrJoHzZP44swg8sa/view)
+	- [Afrikaans EAT - Poem Analysis.pdf](https://drive.google.com/file/d/1rooxZeI1hYjiQ3PbqGymtn56FTutQZ9q/view)
+	- [Fiela se kind Cover.jpg](https://drive.google.com/file/d/1ttaZ7W20gUISlsBZVaIEcy4MoUX1nWDt/view)
+	- [Speelbeelde Cover.jpg](https://drive.google.com/file/d/1mQQ0erJX9-HcNhHoVQiHo1qDItkbYftb/view)
+	- [Eerste Additionele Taal Eksamenriglyne.pdf](https://drive.google.com/file/d/1Ho2zrTsmhz89GnqV0uemQgm4rhlk_wZE/view)
+	- [Lien se langskoene Cover.jpg](https://drive.google.com/file/d/1EvRIzY71eoSOBgiPpow4oAF0GuDA_s6w/view)
+- **New Agriculuture Updated** · 4 files · [Drive](https://drive.google.com/drive/folders/1WHToCZ3JPIAv8nk-AGASvtD2t3ct5E2p)
+	- [Matric Agricultural Studies V1.png](https://drive.google.com/file/d/1SGcs34tTyHlS98AXiH0-y7FDOADvOB17/view)
+	- [Agricultural Studies for Adult Matric Textbook Back Cover V1.png](https://drive.google.com/file/d/1Ao5MHHYAvZgtrqq3PMkVQcaE7cqw5pCS/view)
+	- [Agricultural Sciences Textbook (1).pdf](https://drive.google.com/file/d/1UUN22NMjBlSeAedkIHGBOBewhZvcD21J/view)
+	- **Religious Studies** · 1 files · [Drive](https://drive.google.com/drive/folders/1hEf8xAsUJEJ-S8gUGfdQr_SDLKVnpfA-)
+		- [Religion Studies GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1Toji5AL-oy8J5I77UEMtciqKetzi5RMT/view)
+- **New Assessements 2024 Bellview Institute** · 34 files · [Drive](https://drive.google.com/drive/folders/1sbXQVE6OCFldkmxpgNvzQcbIumbw_u1L)
+	- **New assessment guide** · 34 files · [Drive](https://drive.google.com/drive/folders/13Cw9Wz7db-z2zPC4dSDdhDr0Ua5ivoc0)
+		- **English First Additional language new 2024** · 34 files · [Drive](https://drive.google.com/drive/folders/1ItEywI5GoZTGRSfe2NCUd1kkfdIsV50Y)
+			- **drive-download-20250203T064543Z-001** · 28 files · [Drive](https://drive.google.com/drive/folders/1exgVNPvsLqTn4h6HR5_lABTlgqiQqMsr)
+				- **-Ekonomie** · 1 files · [Drive](https://drive.google.com/drive/folders/134xwjw0aeVSPM8vC8vmCc0_nUjCo8Qu8) [[Public Folder/Subjects/Ekonomie|◆ Ekonomie]]
+					- [1858-Ekonomie Exam Guide.pdf](https://drive.google.com/file/d/1xa-vRKjet8hgvWMxpuSXwaGXXRS_WfoO/view)
+				- **Accounting** · 1 files · [Drive](https://drive.google.com/drive/folders/1nv4RCCOPvKgnhsBP5UOcYTv3qfll-vrc) [[Public Folder/Subjects/Accounting|◆ Accounting]]
+					- [1853-Accounting Exam guide.pdf](https://drive.google.com/file/d/1cUnMHvoIXoi3DDDsHhJSBeaJL7jTsvh-/view)
+				- **Afrikaans Huistaal** · 3 files · [Drive](https://drive.google.com/drive/folders/11KleTpmbQsZZ-HDgqOWsjeoU3uhR1c1A) [[Public Folder/Subjects/Afrikaans Huistaal|◆ Afrikaans Huistaal]]
+					- [1794-Exam Guideline.pdf](https://drive.google.com/file/d/1Ly3svvy7qQ4_MlUcZV8zojyKMCBaBcvg/view)
+					- [Verse cover.jpg](https://drive.google.com/file/d/1aZ0jsyBt8JYis2BhyYaEmaAOMJBiznYy/view)
+					- [Onderwereld Cover.jpg](https://drive.google.com/file/d/1-ak3WQHcemqwR9Z9UFHyamwcTOrzmVJj/view)
+				- **Agriculture** · 1 files · [Drive](https://drive.google.com/drive/folders/1WpEl3EILlGdWwsjm_TiE52w4v5vvJMlD) [[Public Folder/Subjects/Agriculture|◆ Agriculture]]
+					- [1803-Agriculture Exam Guide.pdf](https://drive.google.com/file/d/10FfZxKU2pCLYySbbbfvbvdM3iMHxpv-Z/view)
+				- **Economics** · 1 files · [Drive](https://drive.google.com/drive/folders/1xtGDtaClpa9RQ-0MGLGINGaDvWSGWRFu) [[Public Folder/Subjects/Economics|◆ Economics]]
+					- [1798-Economics Exam Guide.pdf](https://drive.google.com/file/d/1IjEb1oOqwsV-otlkEzImbMftRWnleqxC/view)
+				- **English Home Language** · 4 files · [Drive](https://drive.google.com/drive/folders/1W9slubcOWy8QvJRDG8FjO4UZwpUpwOw5) [[Public Folder/Subjects/English Home Language|◆ English Home Language]]
+					- [1867-Langauge Exam guide.pdf](https://drive.google.com/file/d/15B4yoLA6v5sJBxrVDpdaGhK30hCZxb7v/view)
+					- [1448-Dorian Grey.pdf](https://drive.google.com/file/d/15CKf1rCkEoXIxi2_BTgB5IvSbeNCyeLi/view)
+					- [Dorian Gray,Cover.jpg](https://drive.google.com/file/d/1O4mY3HLEWpDgtCxZHQDv4E8pab8pmVED/view)
+					- [Hamlet Cover.jpg](https://drive.google.com/file/d/1EfhnBczgGcIX_QaurabaMOiNQxpXtwfE/view)
+				- **Geografie** · 1 files · [Drive](https://drive.google.com/drive/folders/12zDVNIoukMXN0aOfq7j_-0efvCC87hsb) [[Public Folder/Subjects/Geografie|◆ Geografie]]
+					- [1804-Geografie Exam Guide.pdf](https://drive.google.com/file/d/1DOqw2PgwBycUkWcpquXWgTTgNaZFDNYs/view)
+				- **Geography** · 1 files · [Drive](https://drive.google.com/drive/folders/1uTrlypLI2mKgzhyeU-bqQRU5sf-TUTtI) [[Public Folder/Subjects/Geography|◆ Geography]]
+					- [1799-Geography Exam Guide.pdf](https://drive.google.com/file/d/16S1y7q9mrOe6ZODMM5G_e-B0lhGLKLpH/view)
+				- **Geskiedenis** · 2 files · [Drive](https://drive.google.com/drive/folders/152p_9yu6gGKGwHTyoeajw_xBGBkXRnAX) [[Public Folder/Subjects/Geskiedenis|◆ Geskiedenis]]
+					- [Geskiedenis back cover.pdf](https://drive.google.com/file/d/11l5HgwQW65nM_Ay8BmnKjvRGXrZNqePQ/view)
+					- [1862-Geskiedenis Exam Guide.pdf](https://drive.google.com/file/d/1xb6U0XaG7BKOrtdm88_PhHB-mV2zcF06/view)
+				- **History** · 1 files · [Drive](https://drive.google.com/drive/folders/1WE409lihOYcXHGOzryGm9xLWZuMrG3n5) [[Public Folder/Subjects/History|◆ History]]
+					- [1855-History Exam guide.pdf](https://drive.google.com/file/d/1LUGXWv6Qhob9iHtN8kzzN6b3jXLezCsO/view)
+				- **Landbou** · 3 files · [Drive](https://drive.google.com/drive/folders/1pEKhXt8w90u3sU7wGIOjDJDtdrLkUE9O) [[Public Folder/Subjects/Landbou|◆ Landbou]]
+					- [Landbou Front Cover.pdf](https://drive.google.com/file/d/1QgNcC8R-UT4E88T9Puiy0xq7L5dYUZYw/view)
+					- [Landbou Back Cover.pdf](https://drive.google.com/file/d/18jNwl-_Qxsq3Om0nwIEFUyvElFLIWcQo/view)
+					- [1864-Landbou exam guide.pdf](https://drive.google.com/file/d/1MDzzroHdX9638iktY3dIErK-zO5Cczqe/view)
+				- **Mathematical Literacy** · 1 files · [Drive](https://drive.google.com/drive/folders/1k61gfF4x3D_rH0l9UposTmW4T8W_lMGr) [[Public Folder/Subjects/Mathematical Literacy|◆ Mathematical Literacy]]
+					- [1796-Exam Guide.pdf](https://drive.google.com/file/d/1KaWGm_X8opTN5V401GEJY39xeLMOfdZg/view)
+				- **Mathematics** · 1 files · [Drive](https://drive.google.com/drive/folders/174VrVXvnen4DjkpKI4ClUBXX5nCiI0Uu) [[Public Folder/Subjects/Mathematics|◆ Mathematics]]
+					- [1594-Mathematics Exam Guidelines.pdf](https://drive.google.com/file/d/1A4rvGRHK4vIALZ3jZQIMlszd8CpASkLz/view)
+				- **Rekeningkunde** · 1 files · [Drive](https://drive.google.com/drive/folders/1CbwuICkvnIWibm6P2yD7GUIJuQkhlSdD) [[Public Folder/Subjects/Rekeningkunde|◆ Rekeningkunde]]
+					- [1860-Rekeningkunde Exam Guide.pdf](https://drive.google.com/file/d/1snP9zCnWO_3l1Xcu1fidCtkzcalzqH9g/view)
+				- **Religie** · 3 files · [Drive](https://drive.google.com/drive/folders/1i6KyOYmRhP4Od-BIFv0RMJ6FsKqRA45o) [[Public Folder/Subjects/Religie|◆ Religie]]
+					- [Religiestudie studie gids- Matric (1).pdf](https://drive.google.com/file/d/14LpVTqCUz-C0XYdbj4n9EVOXtLHv2d3L/view)
+					- [1859-Religie Exam Guide.pdf](https://drive.google.com/file/d/1qmgm7_pKevYwDRkOltssT_aPxCw2ZdD0/view)
+					- [Religie Back Cover.pdf](https://drive.google.com/file/d/1GVqB2TxyBHkah1JRgwtKjqy6wfvrVW2q/view)
+				- **Religion** · 2 files · [Drive](https://drive.google.com/drive/folders/1vlqhFnMV_FzyCrqD6vV6ZAeTxtayLN4C) [[Public Folder/Subjects/Religion|◆ Religion]]
+					- [1541-Religion Assessment Guide.pdf](https://drive.google.com/file/d/1U_jvG-rit2-VMWYVlyhL2HSOHc2LF8fz/view)
+					- [1801-Religion Exam Guide.pdf](https://drive.google.com/file/d/1S1UlM6COrdoX8g8Ky4guOgBxi7szRRk9/view)
+				- **Wiskunde** · 1 files · [Drive](https://drive.google.com/drive/folders/1cXof9dYMuShCR8x8aPx5R3CFnjHlG6Vu) [[Public Folder/Subjects/Wiskunde|◆ Wiskunde]]
+					- [1857-Wiskunde Exam guide.pdf](https://drive.google.com/file/d/158mBHRQn8fjdNM8H_W2gHftEIzOYS2ag/view)
+			- **English HL updated** · 6 files · [Drive](https://drive.google.com/drive/folders/1T2q538tHy8amrHlEo44pTXge2qdOObvW) [[Public Folder/Subjects/English Hl|◆ English Hl]]
+				- [the_picture_of_dorian_gray.pdf](https://drive.google.com/file/d/19MnqFVu-yEAn6kG5Jklc5c3ON27u4HdX/view)
+				- [English HL poems.pdf](https://drive.google.com/file/d/1Ccv9xhk2XvJ-Ggl34XR8O8KZWfcTnP0L/view)
+				- [English Home Language Poetry Analysis.pdf](https://drive.google.com/file/d/1r936SVPN2zUtmQGyLLPyI6RlfA7rNav0/view)
+				- [Hamlet Cover.jpg](https://drive.google.com/file/d/1urYZZazPNJpeAhbNgubbwh8PS-9fE_40/view)
+				- [Dorian Gray,Cover.jpg](https://drive.google.com/file/d/1FJWjZpI-wvKj1sScCIlp43moB9PV2yvN/view)
+				- [Home Languages GR 12 Exam Guidelines 2021.pdf](https://drive.google.com/file/d/1ueIQHotDmzkpVMMKEGAnoEsNb4ox47Re/view)
+- **New Assessments 2024 Matric College** · 2 files · [Drive](https://drive.google.com/drive/folders/1Yj3coI6a8E_41VwFcqPvcx9jIgvyvd1A)
+	- **Matric Assesments 2024** · 2 files · [Drive](https://drive.google.com/drive/folders/1zI7x9GKHTXkveFp1Zx5zeetiztgv3fRH)
+		- **English** · 2 files · [Drive](https://drive.google.com/drive/folders/1iBieYP4vVGTWtfXac7sCExfWowfr9lec) [[Public Folder/Subjects/English|◆ English]]
+			- [Religion Studies Assessment Guide - Matric.pdf](https://drive.google.com/file/d/10DEnL43FUL4wqIaWVA-K8tBMaAHiaGaR/view)
+			- [Business Studies Assessment Guide - Matric.pdf](https://drive.google.com/file/d/1KVM4gxBAEogCqL1_-bSiV2f3xvHbbKtU/view)
+- **New besigheid studies** · 3 files · [Drive](https://drive.google.com/drive/folders/1Rkexf1QRStUtqsfIUq5xTPe7nRGWkJbx)
+	- [Besigheidstudies vir Volwasse Matriek Textbook Back Cover.png](https://drive.google.com/file/d/1XuJ6svxiMzaiodZrSceJ6550QuHKEmJ4/view)
+	- [Besigheidstudies V2 (1).png](https://drive.google.com/file/d/1wOSI1dx9ory3tJu3rWduAPhoTr8jXicb/view)
+	- [Besigheidstudies Textbook - Draft 1 (1).pdf](https://drive.google.com/file/d/1if3_UJ7Y7rOeFRJ-OcvZBTCA0SI2eyQy/view)
+- **New Business Studies** · 9 files · [Drive](https://drive.google.com/drive/folders/1dzaHc_oDzqxVaXQldEgvbOPW1_nd1ONi) [[Public Folder/Subjects/Business Studies|◆ Business Studies]]
+	- [New Business Studies Matric Assessment.pdf](https://drive.google.com/file/d/12DnuN5ccVwWxPy64HWIfhWNKv_kMqtcU/view)
+	- [BS assessment guide skills.pdf](https://drive.google.com/file/d/1womq6lrTLYfc3DS9BqOdWGXAOzIGTM6r/view)
+	- [BS assessment guide matric.pdf](https://drive.google.com/file/d/1CEFrB0dqpjgSJoM6WmmZZxI6WQmg2Ghf/view)
+	- [BS assessment guide bellview.pdf](https://drive.google.com/file/d/1kMUg3PhgcvcukSnqEGBEsTjuhg1aqwqa/view)
+	- [Business-Studies-G12-Study-Guide(1).pdf](https://drive.google.com/file/d/1bPBCKQrLy9KSNX7CmEkD-dKTsHTnB_t4/view)
+	- [Business Studies GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/11qDpYQaqJH7hH9PZuNeK7DCPGHka0dKH/view)
+	- **New Assessments 2024 Skills Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/1iulId4TxNKvvyEB0Ke1HOMmY_yOXrroj)
+		- **Skills Assesments 2024** · 3 files · [Drive](https://drive.google.com/drive/folders/18ma5s-Oh5-wyRqXhcP5Pp6zqkXq-sAbt) [[Public Folder/Subjects/Assesments 2024|◆ Assesments 2024]]
+			- **English** · 3 files · [Drive](https://drive.google.com/drive/folders/1z2hETEnp5-os7sZZPOsSK-GZieJCbjoX) [[Public Folder/Subjects/English|◆ English]]
+				- [Religion Studies Assessment Guide - Skills.pdf](https://drive.google.com/file/d/18JzyJp3TE58rAoKFz1whi7F4RiuB9-b7/view)
+				- [Chemistry Assessment Guide - Skills.pdf](https://drive.google.com/file/d/1s2PbdeDBsL6XvBYvojBJrMbAdqccGkZc/view)
+				- [Business Studies Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1eKMMGIbaHX9_sOWACluJzu1SghQ3GKUA/view)
+- **New Economics** · 6 files · [Drive](https://drive.google.com/drive/folders/12Rss9sV_Jmuj9gzGSkqESwgYTz8pClQK) [[Public Folder/Subjects/Economics|◆ Economics]]
+	- [Economics Assessment Guide - Skills Academy  edit.pdf](https://drive.google.com/file/d/1r6Sv_-C-k6w-0YH_kKO04jlYaZH9o3NN/view)
+	- [Economics Textbook (1).pdf](https://drive.google.com/file/d/1JNBgsUgqhGY5lDF_aXEfnPsZWM7nuN14/view)
+	- [Matric Economics V2.png](https://drive.google.com/file/d/16AowaeLI9clutM0n_DhI7z-pqP4_S3op/view)
+	- [Geography for Adult Matric Textbook Back Cover V1 (1).png](https://drive.google.com/file/d/1wHoqk4yjTHWWSy5eznIqzrJvkIpo7lpj/view)
+	- [Economics Assessment Guide - Matric.pdf](https://drive.google.com/file/d/1haWDT7Jhr4qCQRA8uc4yEkhX_UWs1Vk9/view)
+	- [Economics Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1MFnPh7DfqQLg9YDAhspdmWo3_8vO5SRf/view)
+- **New Edition Textbook** · 1 files · [Drive](https://drive.google.com/drive/folders/1qYie5v2AB62k8vv6RF5oyhwg3cYsAnSA)
+	- **Religion Studies** · 1 files · [Drive](https://drive.google.com/drive/folders/1wIl4BT7ntxRN5mavpSJF0DeC08xPkQr9)
+		- [1801-Religion Exam Guide.pdf](https://drive.google.com/file/d/1roZxLgncs3PeT9GdJ7LTAKEl2ZC8SNKv/view)
+- **New Ekonomie (updated)** · 3 files · [Drive](https://drive.google.com/drive/folders/1hjdCafPhKV11h__2aQik-xav3lEcS0W_) [[Public Folder/Subjects/Ekonomie|◆ Ekonomie]]
+	- [Ekonomiese vir Volwasse Matriek Textbook Back Cover V1 (1).png](https://drive.google.com/file/d/1tI1VQ5kk02KsxnckUbqDH8M9wQ8tTH51/view)
+	- [Ekonomie  Textbook (1).pdf](https://drive.google.com/file/d/13ckWbLIdW7gtkjJTp_IExHV8CaPDMjZp/view)
+	- [Ekonomie Front Cover V3.png](https://drive.google.com/file/d/1SOSl15vgOFZ1gely75uQ9euPJwDCDpeU/view)
+- **New English FAL** · 14 files · [Drive](https://drive.google.com/drive/folders/1SJknuQkFU6lAPUvAqF9loySnTyCjmD4r) [[Public Folder/Subjects/English Fal|◆ English Fal]]
+	- [Cry, the Beloved Country by Alan Paton.pdf](https://drive.google.com/file/d/1CA9pqV4zeBaayeqWpRH3kZ860NE7ONLK/view)
+	- [English First Additional Language for Adult Matric Textbook Back Cover (2).png](https://drive.google.com/file/d/1ddjGGzZY5p0SvFcGXJnNrZ90vZKlIWz-/view)
+	- [Poems + Short Stories Analysis - Without Cover.pdf](https://drive.google.com/file/d/1zTwwfu0EmiDOmzd6zu4SsVLch-ZCsEdy/view)
+	- [New English FAL Textbook.pdf](https://drive.google.com/file/d/1jLPT_XIWiaBFwxSsSLmcy8nsYVx83cCC/view)
+	- [English First Additional Language.png](https://drive.google.com/file/d/1lRzmf1RNrcgRzjn7eRvxd_acH4n1P77v/view)
+	- [ENG FAL Short Stories.pdf](https://drive.google.com/file/d/1s-PiDImRwLkDfJew8OJty5MUYvAyhBts/view)
+	- [Poems and Short Stories Analysis V4.png](https://drive.google.com/file/d/12KR1YK_ksrdGTeE7jnuCCErwK7_FC7Sl/view)
+	- [English FAL Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1go8QWraY0H9FK8AsarF_awUSO7GR0530/view)
+	- [English FAL Assessment Guide - Matric.pdf](https://drive.google.com/file/d/15uB-pYH6JgotrOcArFt4Mge2tXRPMhj5/view)
+	- [English FAL Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1EJ0ImwPeEj9BrGvTVIAQkJ-ScU-nCR2J/view)
+	- [Macbeth Cover.png](https://drive.google.com/file/d/1H6vYlzrbz5bZ8rMf5NQnvlCXBzviperW/view)
+	- [MTG EFAL P1 LANGUAGE 19_01_2015 WEB.pdf](https://drive.google.com/file/d/1mCpDq6ai2itwG2P7as9UWkEQ9U7LYerb/view)
+	- [ENG FAL poems .pdf](https://drive.google.com/file/d/1MZQcjOY3lcE3WiPv4osMP7lf0vzMDAFS/view)
+	- [First Additional Languages GR 12 Exam Guidelines 2021.pdf](https://drive.google.com/file/d/1GBgHc7pw1KfEVVdn1i7aR70Lb1qUpuGp/view)
+- **New Finlite** · 5 files · [Drive](https://drive.google.com/drive/folders/1dxNtbTGea0QlaDDB7NA-5Jpr1UEUidI3) [[Public Folder/Subjects/Finlite|◆ Finlite]]
+	- [Wealth Management Orientation Guide.docx](https://drive.google.com/file/d/1XH7jvq3iESZbDKQHjex8MZfj1oIt_cTX/view)
+	- **Financial Risk Analysis** · 3 files · [Drive](https://drive.google.com/drive/folders/13NVCnvgFn1frDtOnOnj0r-emzYlITx6H) [[Public Folder/Subjects/Financial Risk Analysis|◆ Financial Risk Analysis]]
+		- **Book 1** · 1 files · [Drive](https://drive.google.com/drive/folders/1peHA5MZ7DbUARZ1QbcDlgi_mHFDqIQlp)
+			- [Financial Risk Assessment and Needs Analysis textbook Book A.pdf](https://drive.google.com/file/d/1lA8SuC3wXmmtXfw-lv2itlslw2puwvRi/view)
+		- **Book 2** · 2 files · [Drive](https://drive.google.com/drive/folders/1txx21NKRKDwzbsoLkDQ-5aWDHE_5NJFW)
+			- [financial Risk Assessment and Needs Analysis Assessments BookB.pdf](https://drive.google.com/file/d/15aLCIrSZe60-lZDBn7cccnXTY_dBYMe_/view)
+			- [financial Risk Assessment and Needs Analysis Textbook Book B.pdf](https://drive.google.com/file/d/15HHuT9HQHYExkRpO7FGD0UrY4V_CJIfU/view)
+	- **Product Structure** · 1 files · [Drive](https://drive.google.com/drive/folders/1W5GvLXEeZ-v8aon9S6kt_ZTm2aiDnhU-) [[Public Folder/Subjects/Product Structure|◆ Product Structure]]
+		- **Book 2** · 1 files · [Drive](https://drive.google.com/drive/folders/1cPCrGJkfydSuSbSnv-KvKnUtedZ06-nR)
+			- [Product Structure and Current Affairs Assessments BookB.pdf](https://drive.google.com/file/d/1M7F30hYng1p8RR-6RFoqDYfUGLoWs-B1/view)
+- **New folder** · 8 files · [Drive](https://drive.google.com/drive/folders/1uMdN494rhlqdws45WFjkDzMXxe_TIUvK)
+	- [Religiestudie Handboek - Draft 1 (1).pdf](https://drive.google.com/file/d/1quLVhG2wqS01PQ28h9KvYE4eYFuX1cda/view)
+	- [landbou textbook.pdf](https://drive.google.com/file/d/17J820_Z9ekJ7Xuppwe0jKbZ_3Fd1wojR/view)
+	- [Landbou Studiegids Matric.pdf](https://drive.google.com/file/d/1J7xPDmT08cWmBTxTPesZ8Qu1Nm0Q7BIy/view)
+	- [Religiestudie studie gids- Bellview.pdf](https://drive.google.com/file/d/1z4Y4wI-8mrbndTq7JHni1iad0y1lQFM9/view)
+	- [Religiestudie studie gids- Matric.pdf](https://drive.google.com/file/d/1gsT5kSRD2vJ5ARjvr5gqXR4_985VnrVU/view)
+	- [Landbou Front Cover.pdf](https://drive.google.com/file/d/1EMnB6xEBe_bgwLZi4JCgYX8IOcJbw_qs/view)
+	- [Religiestudie studie gids- Skills.pdf](https://drive.google.com/file/d/1x2BC4OCxPSAj6oVTw0fYKcBuq8CsqKG0/view)
+	- [Landbou Back Cover.pdf](https://drive.google.com/file/d/1cpeUKYCVeuSdbtXP0LRX7mIblHMl4Tnq/view)
+- **New Geografie** · 4 files · [Drive](https://drive.google.com/drive/folders/1wBFGEQZejud8D2nM1YSZ-naXGs3Qv709) [[Public Folder/Subjects/Geografie|◆ Geografie]]
+	- [Geografie vir Volwasse Matriek Textbook Back Cover V1 (1).png](https://drive.google.com/file/d/1wA26B-QMK_iqxQruTEgWWq3viCVBQfoH/view)
+	- [Geografie vir Volwasse Matriek Textbook Back Cover V1.png](https://drive.google.com/file/d/1-LWZBEnGqPEvIYs2b-OgYO2TJLxoBK7L/view)
+	- [Geografie Textbook - Draft 1.pdf](https://drive.google.com/file/d/1-0cXATf4RK2t8RJpGLt34SF04ylBs3lS/view)
+	- [Geografie Front Cover V3.png](https://drive.google.com/file/d/1sdalXksTRjlPHvh0ZxChnBlfZHmSKKJl/view)
+- **New History Updated** · 8 files · [Drive](https://drive.google.com/drive/folders/1Kp1fVFMqWAo3IdYdWhsGAZMCT0_QCZu0) [[Public Folder/Subjects/History|◆ History]]
+	- [History Assessment Guide  - Skills Academy.pdf](https://drive.google.com/file/d/17R-fUm1lIgve9y6PY6Xfy2kh_JEMDoiV/view)
+	- [History Assessment Guide  - Matric.pdf](https://drive.google.com/file/d/1eR4yMTeUqmlLVFs8LkQtfErpv9m0u80R/view)
+	- [History Assessment Guide  - Bellview.pdf](https://drive.google.com/file/d/1hoO89idKhWWPcaUr8B20zbSpkFxTuTd7/view)
+	- [Matric History V2 (2).png](https://drive.google.com/file/d/1czOIaEgFx7j1zI1KtEDBNaBaZ6AQsoYe/view)
+	- [History Textbook (1) (1).pdf](https://drive.google.com/file/d/1QbhGqXUB1vCirERfbdr0CODRGNnOzITD/view)
+	- [History for Adult Matric Textbook Back Cover V1 (1).png](https://drive.google.com/file/d/1wHbqKYGN6MAN0pTn3MSwlo9V7xumKb2O/view)
+	- [History Gr12 SG.pdf](https://drive.google.com/file/d/1zSoUZyqb55LjuxXU0Wx34vaJAu15UiKM/view)
+	- [History GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/11o78h2OPN2tTv9KHhAYRAiNdaW3USgJo/view)
+- **New lewensweetenskappe** · 5 files · [Drive](https://drive.google.com/drive/folders/1rtGBycyZPvUpVV-UwlmRJ66Dr2__2oRj)
+	- [Lewenswetenskap Assesseringsgids - Matric College.pdf](https://drive.google.com/file/d/1v0wy4GxVAS2UVmpfxR8TDqeXWXU7ttl1/view)
+	- [Lewenswetenskappe Textbook - Draft 1.pdf](https://drive.google.com/file/d/1UD48YFaGVPbXbVicjOjHJTfb8LlrHAZ3/view)
+	- [Levenswetenskappe vir Volwasse Matriek Textbook Back Cover V1.png](https://drive.google.com/file/d/1CwFWdz4MSflLapwGHACi8aUIdGRhoh-h/view)
+	- [Levenswetenskappe Front Cover V4.png](https://drive.google.com/file/d/1K9pfomfg8YKwcFX5API7-D1bmCXt05ga/view)
+	- [Lewenswetenskappe Eksamenriglyne Graad 12 2021.pdf](https://drive.google.com/file/d/1JAn0zHg_Wpx5_L8-3yDTnjAw3AR7SvSz/view)
+- **New Life Sciences (updated)** · 6 files · [Drive](https://drive.google.com/drive/folders/13quSsgH9n1EsDgaT5GpxokpWXHxyU-VD) [[Public Folder/Subjects/Life Sciences|◆ Life Sciences]]
+	- [Life Sciences Assessment Guide - Matric College.pdf](https://drive.google.com/file/d/18KsGfpIxGYNFvqDL2bYR4L5nCiCypaBK/view)
+	- [Matric Life Sciences V1 (1) (1) (1).png](https://drive.google.com/file/d/1rUqFo03NmEgMn1_PVSwekxqqwvFWmXD8/view)
+	- [Life Sciences for Adult Matric Textbook Back Cover V1 (5).png](https://drive.google.com/file/d/1dA45XiuyIv6Vp1vL9Kws6EvfiMhv84vJ/view)
+	- [Life Science Textbook - Draft 1 (Without Cover).pdf](https://drive.google.com/file/d/19qj4RHB4tCw376N90BnfgGICLjEHSGTs/view)
+	- [Life Sciences Grade 12 study guide.pdf](https://drive.google.com/file/d/1CMYjHDScazQk1HSedfqfFPEQPg9huMtn/view)
+	- [Life Sciences GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1U7Vzv_fXHK3x_eocZhPPVSrZcfTBUy_w/view)
+- **New Rekeningkunde** · 3 files · [Drive](https://drive.google.com/drive/folders/12H-aUgCWmPxLXM655VhyBGzKlEMRwqhG) [[Public Folder/Subjects/Rekeningkunde|◆ Rekeningkunde]]
+	- [Rekeningkunde vir Volwasse Matriek Textbook Back Cover V1.png](https://drive.google.com/file/d/10cC7FSh8oueyYQ7GAm_oV68RVgimBR3B/view)
+	- [Rekeningkunde Handboek.pdf](https://drive.google.com/file/d/1s9SA9XLZqF0Y9yQpquQNeSgYihVtIIvQ/view)
+	- [Rekeningkunde Front Cover V2.png](https://drive.google.com/file/d/1loLhKmPxdaw3dUGKkfs6NXUQkEV5JPH1/view)
+- **New Religion (Updated)** · 4 files · [Drive](https://drive.google.com/drive/folders/169IPaWYN0xBsn-LzfVCcsQewD-asrVkc) [[Public Folder/Subjects/Religion|◆ Religion]]
+	- [Religion Studies Textbook - Draft 1.pdf](https://drive.google.com/file/d/1hgP7ttGEPn0wsHeSM3hKKJsK0gnhAikQ/view)
+	- [Religion Studies for Adult Matric Textbook Back Cover V1 (1).png](https://drive.google.com/file/d/1Th4e-NCbRGSUP_L1cYaRpbNqsqWEAkcf/view)
+	- [Matric Religion Studies V4.png](https://drive.google.com/file/d/1Lc-X2znn-VhQ7nQghK1TCQ1kFNeOqXl-/view)
+	- [Religion Studies GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1aEdD9HnVo6_CyxbyVXRd4HYhiHCpENHX/view)
+- **New Wiskundige Geketterdheid( Updated)** · 8 files · [Drive](https://drive.google.com/drive/folders/1rhnsq4MCWs1LUw5aabM-07DMkbo6zIte)
+	- [Wiskundige Geletterdheid Assesseringsgids - Bellview.pdf](https://drive.google.com/file/d/15ZDhwi8bKsvkxpGbi0ippAFU3DGPAy7N/view)
+	- [Wiskundige Geletterdheid Assesseringsgids - Skills Academy.pdf](https://drive.google.com/file/d/1NYlUc1MmDEKlQLHldgiMdgRGOStiIv2k/view)
+	- [Wiskundige Geletterdheid Assesseringsgids - MATRIC.pdf](https://drive.google.com/file/d/1PzL_CUabkMfn_um_UWkaQQ91q0K_NZ2Q/view)
+	- [Wiskundige Geletterdheid vir Volwasse Matriek Textbook Back Cover V1 (1).png](https://drive.google.com/file/d/1WjyhCy-_6LjSEN94S__adN3aGddNzjSs/view)
+	- [Wiskundige Geletterdheid Front Cover V3 (1).png](https://drive.google.com/file/d/1fYpDI8dW8Tx2TVmNwsrhCR_YdjAoanHQ/view)
+	- [Wiskundegeleterdheid Handboek (1).pdf](https://drive.google.com/file/d/1cWQjzq5PFIsRuaOOZejYo8knQBmplHXh/view)
+	- [MTG Wiskundige Geletterdheid.pdf](https://drive.google.com/file/d/1EOAU6h5EFtWVzEThflGE2F3ljYMNEC7P/view)
+	- [Wiskundige Geletterdheid Eksamenriglyne.pdf](https://drive.google.com/file/d/1GveVpzKUqH6EuzwDvq6M2YUj9m4j70x5/view)
+- **Physical Science** · 9 files · [Drive](https://drive.google.com/drive/folders/1hziIVU_Wnq4Zs8Y9d5rVDFxA5hYH-ILl) [[Public Folder/Subjects/Physical Science|◆ Physical Science]]
+	- [Physics Assessment Guide - Matric.pdf](https://drive.google.com/file/d/1LXIORjMWqiGsEtLYJRqYnkC_NZr7vja5/view)
+	- [Physics Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1HDfiTQBNW315_b3EI-uZKEEZwqXqkMP-/view)
+	- [Physics Assessment Guide - skills academy.pdf](https://drive.google.com/file/d/1A7My4ugnlsQPILBnfamQfJdw0dzl_Set/view)
+	- [Chemistry Assessment skills Guide.pdf](https://drive.google.com/file/d/1I5VYcmWdF8xyUMDIRCRiEAtIJPkOoPnH/view)
+	- [Chemistry Assessment Guide.pdf](https://drive.google.com/file/d/1Q8yYLpnnEFVLVOq3O2-UhuoAIkpQ0bVM/view)
+	- [Chemistry Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1owoMhTTwvWpFY_GFSK-OOO32eeunKHKk/view)
+	- [Physical Sciences GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1UnsinVOBbYYfJ8yEHYQBM1OkOLOK7gqE/view)
+	- **Physical Science textbooks** · 2 files · [Drive](https://drive.google.com/drive/folders/1YOrIVc1-pzOTGrWX7nRWpX1rI35OIeOH) [[Public Folder/Subjects/Physical Science|◆ Physical Science]]
+		- [Gr12_PhysicalSciences_Learner_Eng_Part2.pdf](https://drive.google.com/file/d/1pIe5wsoim62Q_iFJjKLOjF9p2xhQtdKx/view)
+		- [Gr12_PhysicalSciences_Learner_Eng_Part1.pdf](https://drive.google.com/file/d/14856r1kT2N0Pe4vp1ZvUP5zpoy9o6kMK/view)
+- **Skills Matric 2025** · 190 files · [Drive](https://drive.google.com/drive/folders/1v5kuTv0MwXUfG-5AARqQcxyEDq66VbUI) [[Public Folder/Subjects/Matric 2025|◆ Matric 2025]]
+	- [isiXhosa Textbook Front Cover.pdf](https://drive.google.com/file/d/1EU6o1F6VYXUzcoyAEJlMP1s1zwV3X1zj/view)
+	- [isiXhosa Textbook Back Cover.pdf](https://drive.google.com/file/d/1iENvdANDae2EmyGwsw5j-CFJrmAzpR2m/view)
+	- [IsiXhosa Textbook (Incwadi YesiXhosa).pdf](https://drive.google.com/file/d/1NJqufLAV00rfUZXEeMKhjJt3cldL1tgV/view)
+	- [IsiXhosa Study Guide for Skills.pdf](https://drive.google.com/file/d/1FuHDwmKEguHeYAAxn9xGJiLid1kLsIZJ/view)
+	- **Accounting** · 8 files · [Drive](https://drive.google.com/drive/folders/1Rfkn-Ri9_49egqrbmhOhgMTrqK_vffMa) [[Public Folder/Subjects/Accounting|◆ Accounting]]
+		- [Matric Accounting Textbook Front Cover Version 2.png](https://drive.google.com/file/d/1vCKvIQeLw8Eju0i2YBfp3VfZBCgIdsyq/view)
+		- [Accounting Textbook.pdf](https://drive.google.com/file/d/1_nkQ_vDGF_WVFPb81lB3RLOraiF0bXNO/view)
+		- [Accounting for Adult Matric Textbook Back Cover Version 1.png](https://drive.google.com/file/d/1Dcw_ngW6WEVz3SWimtFdzkihgwAgzmcK/view)
+		- [Accounting Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1RnURy3RylnVBfJ9ZQxmg23Y58LmLpSmB/view)
+		- [Accounting Assessment Guide - Matric.pdf](https://drive.google.com/file/d/1WMk-6E9oDunKWli-OG4y3yLeZOQB0EXb/view)
+		- [Accounting Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/17UvVtnPyrVJ_kvsGaW7WUw96NMP0SMVf/view)
+		- [Accounting Grade 12.pdf](https://drive.google.com/file/d/1gQ5PwEyfhhyxr0sB9kGSTY5LL72bfYlT/view)
+		- [Accounting GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1wjkx8WiPiwNxh_XJ7symXakGLsESogM5/view)
+	- **AFRICANS FAL** · 17 files · [Drive](https://drive.google.com/drive/folders/1ECzbqn-_VLa1GBGTPPaLRzUN12iwF1wz)
+		- [Afrikaans Eerste Addisionele Taal Textbook Front Cover .png](https://drive.google.com/file/d/14IzZwF1FC4H1wn-16oON_ZVTUfL6bsdX/view)
+		- [Afrikaans FAL Textbook.pdf](https://drive.google.com/file/d/1cOaQNiNNlv34ipz1VYlNwoam3XGIn0Dp/view)
+		- [AFrikaans FAL Back Cover.png](https://drive.google.com/file/d/14pFuAG1hh91TdWbbUDCzKUBRHCOUSxT6/view)
+		- [Afrikaans Eerste Addisionele Taal Poësie-Analise Boek V1.png](https://drive.google.com/file/d/1QFaPgp3OR6K5Js2gnHuaCaK0gcU3XLqt/view)
+		- [Afrikaans Eerste Addisonele Taal Assesseringsgids - Skills Academy.pdf](https://drive.google.com/file/d/1i8WzQE--l--_P4miYHdQegk1_lR0a2kZ/view)
+		- [Afrikaans Eerste Addisonele Taal Assesseringsgids - Matric College.pdf](https://drive.google.com/file/d/1zQvEDcEmPcmDui8w6NMP2wI5cFH_39Rr/view)
+		- [Afrikaans Eerste Addisonele Taal Assesseringsgids - Bellview.pdf](https://drive.google.com/file/d/19SVF9VZM5uQ53ZMB00tDuhyJ_FO5gogI/view)
+		- [Afrikaans Eerste Addisionele Taal Studiegids.pdf](https://drive.google.com/file/d/1Bpqk_Vqz6yANO3fiZ3_zFs8ACz61X3Qq/view)
+		- [Fiela se kind Cover.jpg](https://drive.google.com/file/d/1aU5DzL_cMHoVoywMlQeQDok7yYmcBNfD/view)
+		- [Afrikaans EAT - Poem Analysis.pdf](https://drive.google.com/file/d/15BM1BfdQnodBFbtMGegEjHTdX1uFl9bu/view)
+		- [Afrikaans Eerste Add. Taal - Gedigte.pdf](https://drive.google.com/file/d/1aA2QsomCcs1WUrlUWo5jkf1S-m6cXpjI/view)
+		- [Speelbeelde Cover.jpg](https://drive.google.com/file/d/1dYX9-MFYWrWzEPGvvCydMiH53o8e_e6j/view)
+		- [Eerste Additionele Taal Eksamenriglyne.pdf](https://drive.google.com/file/d/1AkIdYLZkrUCiDRNYYlx7oGISxL8boqfZ/view)
+		- [Lien se langskoene Cover.jpg](https://drive.google.com/file/d/12NqOulXmLnswWqWobDY9sSAdy6R1Knaq/view)
+		- **English** · 3 files · [Drive](https://drive.google.com/drive/folders/1mtHfuv8YIvl1nY--gNXviwOXo-S5N9Xz) [[Public Folder/Subjects/English|◆ English]]
+			- [Religion Studies Assessment Guide - Skills.pdf](https://drive.google.com/file/d/13cGoPLpvCF4BAUZjdApFselry-IRq0nv/view)
+			- [Business Studies Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1nxBMBgOQo1Y_VmaLkMmElTGFariy1-BS/view)
+			- [Chemistry Assessment Guide - Skills.pdf](https://drive.google.com/file/d/1GnlJQkZwU1ymQplqV1L5c5r5MWDs3aEn/view)
+	- **Afrikaans Huistaal** · 8 files · [Drive](https://drive.google.com/drive/folders/13wrugC4-Xl3Opp-L-ymd_N0P-S_450VB) [[Public Folder/Subjects/Afrikaans Huistaal|◆ Afrikaans Huistaal]]
+		- [Afrikaans Huistaal vir Volwasse Matriek Textbook Back Cover V1 (2).png](https://drive.google.com/file/d/1t39yIfWqFD4tu4V1snOXjRr1_8uIXCYG/view)
+		- [Afrikaans Home Language Front Cover V3 (1).png](https://drive.google.com/file/d/1C6qxi7EWfKPjoCw9b84k23e3Y77e9EAE/view)
+		- [Afrikaans HL Textbook - V1.pdf](https://drive.google.com/file/d/1bDX5aLDPFCQdWmxlWc4JCFf1SfVAxiiS/view)
+		- [Afrikaans Huistaal Assessment Guide.pub - matric college.pdf](https://drive.google.com/file/d/1p2DySYRHVLqQMB0y5BMha6G3htvD4ak8/view)
+		- [Afrikaans Huistaal Assessment Guide - Bellview (1).pdf](https://drive.google.com/file/d/1B3nS3ezfNKvylDXxWbJ8BR5FAHuenXdP/view)
+		- [Afrikaans Huistaal Assesseringsgids.pdf](https://drive.google.com/file/d/1Bou-47AfCheGy068JTMNqRYpYpKgOtMi/view)
+		- [Afrikaans Huistaal Studiegids.pdf](https://drive.google.com/file/d/1AOlIO8bHv5H6DLWHFnem8tyuicDltiq1/view)
+		- [Huistaal Eksamenriglyne.pdf](https://drive.google.com/file/d/1ksWdC5dJDKvmvtEzn9cvBpsMnivJOkBv/view)
+	- **agriculture** · 8 files · [Drive](https://drive.google.com/drive/folders/1rwmgKsumIsqA4whsnDJUJikPFkr1pNo_) [[Public Folder/Subjects/Agriculture|◆ Agriculture]]
+		- [Gr12-Agricultural-Science-Study-Guide_LR.pdf](https://drive.google.com/file/d/14jzdNJXTSTKQdJmkJHyKSDYbRWMu0LFQ/view)
+		- [Matric Agricultural Studies V1.png](https://drive.google.com/file/d/1fCLMDB0g8CcqaijNhO6prIlTYD-JqHlq/view)
+		- [Agricultural Studies for Adult Matric Textbook Back Cover V1.png](https://drive.google.com/file/d/1niqO9LVREnBvq-vI8efmLH0eN34T_gLy/view)
+		- [Agricultural Sciences Textbook (1).pdf](https://drive.google.com/file/d/1aFy6FtFixah6GPZ4SZgSAk_PeiT4iLNU/view)
+		- [Agricultural Sciences Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1Z9ppTAX5YCOLzmVnBy31tHsOsDw9pPL2/view)
+		- [Agricultural Sciences Assessment Guide (2).pdf](https://drive.google.com/file/d/1inBy0UPPJ6upfImfAbh73FTbBUDsSvBJ/view)
+		- [Agricultural Sciences Assessment Guide (1).pdf](https://drive.google.com/file/d/1NGLWMTsHHfMDCii_w5uhLVx02YAOSGF6/view)
+		- [Agricultural Sciences GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1ANaAXtOxWyU931ZjEhvhjD8BsDrcwvma/view)
+	- **Besigheidstudies** · 1 files · [Drive](https://drive.google.com/drive/folders/1dPo-86npL5CLVRhzKh35nT9R4NuRC0Lj) [[Public Folder/Subjects/Besigheidstudies|◆ Besigheidstudies]]
+		- [Besigheidstudies Studiegids (2).pdf](https://drive.google.com/file/d/16BMVijImW75wUkOQsNSsXyLvhRAdj-lm/view)
+	- **Business Studies** · 10 files · [Drive](https://drive.google.com/drive/folders/1xX6NTFJ7eWeXb6HO9VmJojIKSstv63J6) [[Public Folder/Subjects/Business Studies|◆ Business Studies]]
+		- [Matric Business Studies V1 (2).png](https://drive.google.com/file/d/1yCVIsv7qdC8mXegBo8xmGD0gAXSsx5Lw/view)
+		- [Business Studies Textbook (1).pdf](https://drive.google.com/file/d/1MV9TiicsFt1odKZJJr-HhvwEYg2D03tZ/view)
+		- [Business Studies for Adult Matric Textbook Back Cover.png](https://drive.google.com/file/d/112iUoWCIM5Z6fRwuPUx5VF7dNIhs_T-j/view)
+		- [BS assessment guide skills.pdf](https://drive.google.com/file/d/1TNAsuIDMKR2S1R2wq8rq9emRLzoqcdj_/view)
+		- [BS assessment guide matric.pdf](https://drive.google.com/file/d/1LGinzVkuF4NDHHFc7wzGvyhf4VhCyysD/view)
+		- [BS assessment guide bellview.pdf](https://drive.google.com/file/d/1mobzodRkcK5KJPiKzOYjRAaSh4xuVyVI/view)
+		- [Business Studies GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1ke4Vhh90jcNHQMQeRFg-h4_qbq3lu0_Q/view)
+		- [Business-Studies-G12-Study-Guide(1).pdf](https://drive.google.com/file/d/1y9CvpDurJnpsz2PKMR6ccIynG79ntqdz/view)
+		- **New business studies** · 2 files · [Drive](https://drive.google.com/drive/folders/16Vs3CSVXMpdfjw29h7NNtTU0w4XNAVx1) [[Public Folder/Subjects/Business Studies|◆ Business Studies]]
+			- [Business-Studies-G12-Study-Guide(1).pdf](https://drive.google.com/file/d/1volCdC56f7X-fEGHfa_3HGxUkYB0tJSG/view)
+			- [Business Studies GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1DlmWT8ICkv6Bier6NjGxHDoaQoncP1zs/view)
+	- **Economics** · 1 files · [Drive](https://drive.google.com/drive/folders/1Nan4YjxmhG5VJ8u1VMDIKiI1qwNvvGiz) [[Public Folder/Subjects/Economics|◆ Economics]]
+		- **Economics** · 1 files · [Drive](https://drive.google.com/drive/folders/1Qzvk_-sWiFoYUj7VHvJTocCczuDmPviV) [[Public Folder/Subjects/Economics|◆ Economics]]
+			- [Economics GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1wwy5mwaq1Z3YyCUK8RpcYH-gBG3u4bw_/view)
+	- **ENGLISH FAL** · 15 files · [Drive](https://drive.google.com/drive/folders/1-lou6zezytGlFUrxtLABhyioXMaQANXa) [[Public Folder/Subjects/English Fal|◆ English Fal]]
+		- [Poems + Short Stories Analysis - Without Cover.pdf](https://drive.google.com/file/d/1I9d4StCc-3m5DI14gdED0PVEzNyWWhVr/view)
+		- [New English FAL Textbook.pdf](https://drive.google.com/file/d/1VU8IQDGRHILDckzvf4JLpMSAUO--r8L1/view)
+		- [English First Additional Language.png](https://drive.google.com/file/d/1daZffoqecLq4CfP3blEClN1oxY8pkmVD/view)
+		- [ENG FAL Short Stories.pdf](https://drive.google.com/file/d/1XY5UsHrOuqfuvs__3-7vfP2HamX026su/view)
+		- [Poems and Short Stories Analysis V4.png](https://drive.google.com/file/d/1xoS_m4cx9BEj0_gZ98bRXvnkldE_v11D/view)
+		- [English FAL Back Covers.png](https://drive.google.com/file/d/1tTjUeITDq-XGORH8hC77gF3vS0E7lTaI/view)
+		- [English FAL Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1qe0oUTEcohefpw7eZnTcLI3yJdUqB_2Q/view)
+		- [English FAL Assessment Guide - Matric.pdf](https://drive.google.com/file/d/17Qf3aHoyXMFbiGsIEf-2HnGI5jYn9YZ1/view)
+		- [English FAL Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1AjLz778tDHSpdfmSC2lrCDcW8_b1U4_o/view)
+		- [Macbeth Cover.png](https://drive.google.com/file/d/1v9hhwFUI2Qj3A9K7AcusIlp0U0gYc3__/view)
+		- [MTG EFAL P1 LANGUAGE 19_01_2015 WEB.pdf](https://drive.google.com/file/d/1iF6uEQ-0A21toZZyt2707bgo3BCOQ3Cz/view)
+		- [ENG FAL poems .pdf](https://drive.google.com/file/d/1Th50M2UQdN5BAX0DDYhIyQgoYb0OrCek/view)
+		- [First Additional Languages GR 12 Exam Guidelines 2021.pdf](https://drive.google.com/file/d/1X92LGoLDqLnOQ4q83nvIh5VtLCFdr4b5/view)
+		- [Cry, the Beloved Country by Alan Paton.pdf](https://drive.google.com/file/d/1nstLFrtl_t264WloHE6xnCT9OY4QVzsg/view)
+		- **Besigheidstudies** · 1 files · [Drive](https://drive.google.com/drive/folders/15vqq1dW6bP3qDquZF5oQhqBVq4AVKYk8) [[Public Folder/Subjects/Besigheidstudies|◆ Besigheidstudies]]
+			- [Besigheidstudies Eksamenriglyne.pdf](https://drive.google.com/file/d/1d_826Zj4rtjNNGBrDDVrRB1eo1hviD_P/view)
+	- **ENGLISH HL** · 10 files · [Drive](https://drive.google.com/drive/folders/1VyVRDvPQ64Ne3UiIc92Rj6B081o0YwHM) [[Public Folder/Subjects/English Hl|◆ English Hl]]
+		- [English HL Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1pafXHtygYEPkS-ckzOLs_cg6IbvQY26W/view)
+		- [English HL Assessment Guide - Matric.pdf](https://drive.google.com/file/d/1pYuvXuwUl0LZ_e3MPFdelQJYEmL3vIiq/view)
+		- [English HL Poetry Analysis Cover.png](https://drive.google.com/file/d/1LlLb1xF3khrLS3pp3MxG4RpY-IZvfetM/view)
+		- [Hamlet HL Drama.pdf](https://drive.google.com/file/d/1EXXphwHNv6kghtRbwVowEn2ewOU5u96z/view)
+		- [English HL poems.pdf](https://drive.google.com/file/d/1flE1LYrUycNmKti34Zmsrwz_k_xFYlvE/view)
+		- [English Home Language Poetry Analysis.pdf](https://drive.google.com/file/d/1T9bqbWc94gC374MO9oMPucBJ1kWPuaOh/view)
+		- [Hamlet Cover.jpg](https://drive.google.com/file/d/1-_GF1E-KNSwMYcCsWYWN-QYHiItm8jaR/view)
+		- [Dorian Gray,Cover.jpg](https://drive.google.com/file/d/1Eh54EV43HGFEWVLFnwhd5XJf1WgjgkF3/view)
+		- [Home Languages GR 12 Exam Guidelines 2021.pdf](https://drive.google.com/file/d/1TR1r-7nH2wUW-zux6xdeeCZv7x9gT4DL/view)
+		- [the_picture_of_dorian_gray.pdf](https://drive.google.com/file/d/1zG91OwPCay953vNuYoiPl6c1OTMkBvGr/view)
+	- **FISIESE WETENSKAP** · 6 files · [Drive](https://drive.google.com/drive/folders/1S8ZNgVGmL2e44AT0IKD6MdFyH07vpvW5) [[Public Folder/Subjects/Fisiese Wetenskap|◆ Fisiese Wetenskap]]
+		- [Fisiese Wetenskap Assesseringsgids Updated Contact Information.pdf](https://drive.google.com/file/d/12wp2S2RlcwnbM1771V3489Uepuu0WPlk/view)
+		- [Fisiese Wetenskap Assesseringsgids - skills academy.pdf](https://drive.google.com/file/d/1I7rzRZxUch_j7slKFjtWRbgXW2j3WLj3/view)
+		- [Fisiese Wetenskap Assesseringsgids - Bellview.pdf](https://drive.google.com/file/d/1X0Uf7qTsLmtUlxZD7X-PMX3NaivFSuHy/view)
+		- [Fisiese Wetenskappe Eksamenriglyne.pdf](https://drive.google.com/file/d/1D8LQMPBsHgsQxFwKT9VmXhHsPjSs3f2J/view)
+		- [MTG Fisiese Wetenskap Deel 2 Chemie.pdf](https://drive.google.com/file/d/1GHf1tCxwL3rx1cEAplTa6q61RBWA_gDj/view)
+		- [Fisiese Wetenskap Deel 1 Fieika.pdf](https://drive.google.com/file/d/13h8KI1QqoS03eE3yz-kBldUFNCQzGfTg/view)
+	- **Geography** · 9 files · [Drive](https://drive.google.com/drive/folders/1BXmb3HWauyLSmFkz3wwKo9LrJdme1Bk-) [[Public Folder/Subjects/Geography|◆ Geography]]
+		- [Matric Geography V1 (1).png](https://drive.google.com/file/d/1-3SihUJs2-frlhnol2vn1IhBMTVq-RCR/view)
+		- [Geography Textbook (1).pdf](https://drive.google.com/file/d/1dx5Oy8TLca8HrneGuO4-W5lh-922cr1X/view)
+		- [Geography for Adult Matric Textbook Back Cover V1 (2).png](https://drive.google.com/file/d/12HFbbDqrSmKOBPf_1H36lFi5nhaRQ4Y0/view)
+		- [Geography Assessment Guide - Skills Academy.pdf](https://drive.google.com/file/d/1W7hbgV9Htsde9AmnWhyRhyRadtGTRZ9F/view)
+		- [Geography Assessment Guide - Matric.pdf](https://drive.google.com/file/d/1PrKWQToZsNymbflUvEkFhscPAREpqKaQ/view)
+		- [Geography Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1vviiIGw1UYvzbbDC2OAWTw-XTbLh2iEp/view)
+		- [Geography Grade 12.pdf](https://drive.google.com/file/d/11uyuOS3tgOqAOP2l0hjGRtKmLrJLv1vK/view)
+		- [Geography GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1eHl0-F1N1OV5wfE1z8N1tx8X7x8TbUvq/view)
+		- **GEOGRAFIE** · 1 files · [Drive](https://drive.google.com/drive/folders/1K9gfrRz0cIy8Qxmcclk2oTHHKSjIBsXt) [[Public Folder/Subjects/Geografie|◆ Geografie]]
+			- [Geografie Eksamenriglyne.pdf](https://drive.google.com/file/d/1CgjjJhz9_8DjSi0b3BuPOim98HBvlW52/view)
+	- **GESKIDENIS** · 6 files · [Drive](https://drive.google.com/drive/folders/14paTAW9Tm3kfqJsFe13klLYz1ADWcw5-)
+		- [Geskiedenis Handboek.pdf](https://drive.google.com/file/d/1KhqS9qb_zZcIBJb0smb-udnQu6YD0gmV/view)
+		- [Geskiedenis  Front Cover.pdf](https://drive.google.com/file/d/1xU67kLrHGiZFjQ3v23O3WX_PcGWPmQMZ/view)
+		- [Geskiedenis Studiegids skills academy.pdf](https://drive.google.com/file/d/1I0h1mNY_CuoqZidmjMU0-mfqSsxoVjSS/view)
+		- [Geskiedenis Studiegids Matric.pdf](https://drive.google.com/file/d/1ciR0CxCPZLg62wLxvmtB98K0SjP9zDTy/view)
+		- [Geskiedenis Studiegids Bellview.pdf](https://drive.google.com/file/d/1uMPVhMgoEbT4GGCS0ZJU9ZRvXn5VNMqB/view)
+		- [Geskiedenis back cover.pdf](https://drive.google.com/file/d/1OkaQKoBsAaOfU2_9fgoiO5fO-ntD09uq/view)
+	- **History** · 8 files · [Drive](https://drive.google.com/drive/folders/17LvIg2v8U7_dUN5RMucmNm2wwb4fCT8P) [[Public Folder/Subjects/History|◆ History]]
+		- [History Assessment Guide  - Skills Academy.pdf](https://drive.google.com/file/d/1lDDmnTP4XigxJYRPl3pvyWzrw0rbA4un/view)
+		- [History Assessment Guide  - Matric.pdf](https://drive.google.com/file/d/13F6DxItEp68Op8yPqNgZEGjjLGRobG0E/view)
+		- [History Assessment Guide  - Bellview.pdf](https://drive.google.com/file/d/13SDqmFvXqMst2hpyrRmQ3mX3L3vKiXxY/view)
+		- [Matric History V2 (2).png](https://drive.google.com/file/d/1e1Ywy559reTkwXZmT9lS_fusrjFVtjbb/view)
+		- [History Textbook (1) (1).pdf](https://drive.google.com/file/d/1sWBeEUvK_cVC8ZfohyEliCQCpQ4bYMtS/view)
+		- [History for Adult Matric Textbook Back Cover V1 (1).png](https://drive.google.com/file/d/1CGYMtG2SgpkRI4b0ATMnaXdcvKl0tVK1/view)
+		- [History Gr12 SG.pdf](https://drive.google.com/file/d/12SlKIA0vv-RYLQyC-u3n3KG8B0ZCDk06/view)
+		- [History GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1qEH2-WFqNnBQ4FCrhxjzGQwRM9n9IQa7/view)
+	- **Landbou** · 6 files · [Drive](https://drive.google.com/drive/folders/1xw4KCuQlfRril_qMyMozHuzfYrdgkiD5) [[Public Folder/Subjects/Landbou|◆ Landbou]]
+		- [Landbou Studiegids SKILLS.pdf](https://drive.google.com/file/d/1HURauX-HGpd_Q2q2AEmVDHKu664C8Ule/view)
+		- [Landbou Studiegids Bellview.pdf](https://drive.google.com/file/d/1bSCgCzxBv9vFhrMxRFSmh-glC50iEdcy/view)
+		- [landbou textbook.pdf](https://drive.google.com/file/d/1_8RaW8ZeCU1YtaY57MiglOEWkcVqFvGn/view)
+		- [Landbou Studiegids Matric.pdf](https://drive.google.com/file/d/1s_uZkfTKXLetQ-Vw1yfPx5cxv9ux5OYI/view)
+		- [Landbou Front Cover.pdf](https://drive.google.com/file/d/1YsznqF1PtaFXEfGB7tA09K5s5RQD3wGY/view)
+		- [Landbou Back Cover.pdf](https://drive.google.com/file/d/15myvtOfsHLBXDEKwrk4_s7Nm1yx3iiCN/view)
+	- **Lewenswetenskappe** · 8 files · [Drive](https://drive.google.com/drive/folders/1knm7rmrmCAMAiOoxRa9Ad7PCNlTMfxsn) [[Public Folder/Subjects/Lewenswetenskappe|◆ Lewenswetenskappe]]
+		- [Lewenswetenskappe Textbook - Draft 1.pdf](https://drive.google.com/file/d/1jo6wYO8dTKeBSWbSeB71dCWRBdUmhupy/view)
+		- [Levenswetenskappe vir Volwasse Matriek Textbook Back Cover V1.png](https://drive.google.com/file/d/1LpW1Nj5ohHvX8JX-pJhT5ZNw67ZXdPjX/view)
+		- [Levenswetenskappe Front Cover V4.png](https://drive.google.com/file/d/1aqSnIAvk1Qfoo7pFctnyMbMAYPGlMdtK/view)
+		- [Lewenswetenskappe Assesseringsgids - Skills Academy - Updated.pdf](https://drive.google.com/file/d/1O1_NHJ1Zf9doRJOFYIedSRCn_HKOqNO6/view)
+		- [Lewenswetenskappe Assesseringsgids - Bellview - Updated.pdf](https://drive.google.com/file/d/14GQFo2YGqCxqbfit7Oq47uEGZh_qtz8e/view)
+		- [Lewenswetenskap Assesseringsgids - Matric College - Updated.pdf](https://drive.google.com/file/d/1_S8fSi_mFhJ0p73C8goTgTC4PGiE_c5X/view)
+		- [Lewenswetenskappe Studiegids.pdf](https://drive.google.com/file/d/1sxPtfGxKncp05--jOZjRAVslOT9mV0o1/view)
+		- [Lewenswetenskappe Eksamenriglyne Graad 12 2021.pdf](https://drive.google.com/file/d/1iPYM5ZjOOP2wFVIpTt3w0-Knf1qpecsP/view)
+	- **Life Science** · 8 files · [Drive](https://drive.google.com/drive/folders/1fY1ir_-b87Qlrdayc7H5IC7snJiugOwg) [[Public Folder/Subjects/Life Science|◆ Life Science]]
+		- [Matric Life Sciences V1 (1) (1) (1).png](https://drive.google.com/file/d/1LD2-zlHzLE8wjuejOmJsy_87afrsh6sW/view)
+		- [Life Sciences for Adult Matric Textbook Back Cover V1 (5).png](https://drive.google.com/file/d/1Mxqevj46NZXVHA_5ELvobBRBV3TZnb7P/view)
+		- [Life Science Textbook - Draft 1 (Without Cover).pdf](https://drive.google.com/file/d/1z3owFh0ZoxGjxG0QGcqqld07AWGPh3L0/view)
+		- [Life Sciences assessment guide.pdf](https://drive.google.com/file/d/1RuzrkMPFip-YIaTAyTcaPTU26FrwOrbQ/view)
+		- [Life Sciences Assessment Guide - Matric College.pdf](https://drive.google.com/file/d/1MiaBwjHfcXjXQk-5K_ZQxvfMCKfmZ6pR/view)
+		- [Life Sciences Assessment Guide - Bellview Institute.pdf](https://drive.google.com/file/d/1qrdBtp-YdmcITSh-Mgcn9EmsFqn_BLCX/view)
+		- [Life Sciences Grade 12.pdf](https://drive.google.com/file/d/144nLanOmx5oYu7Zcg3zA78_ANhyCLH6d/view)
+		- [Life Sciences GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1dpyfoxd86qXi_FBgS6rpqgtXQQiP5h-e/view)
+	- **Mathematics** · 7 files · [Drive](https://drive.google.com/drive/folders/1VATquaG6sxBa3Ff6HVCTV0UctvktfoRP) [[Public Folder/Subjects/Mathematics|◆ Mathematics]]
+		- [Mathematics Assessment Guide - Skills.pdf](https://drive.google.com/file/d/1AZLu5y3W93cmMIo_N6Rt1eOVBSTTiOkh/view)
+		- [Mathematics Assessment Guide - Matric.pdf](https://drive.google.com/file/d/1nl1R3kzJBg_T8SP02Znrjdm9BOHC1xOj/view)
+		- [Mathematics Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1xaE1Bz70qw6sF0w0Q3dYbvFvJYh3LqIQ/view)
+		- [Mathematics Grade 12 Study Guide.pdf](https://drive.google.com/file/d/1KM_reYuC6cwjljQ2RSktiFdsFrRS-puq/view)
+		- [Gr12_Maths_Learner_Eng_Part2.pdf](https://drive.google.com/file/d/1rUJ6Oi9qaqXx1WH5up4fSiW5TvHLsHgh/view)
+		- [Gr12_Maths_Learner_Eng_Part1.pdf](https://drive.google.com/file/d/1AwCUm_ADV03XEEsTnBar_t8xOBNz70ir/view)
+		- [Mathematics GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1YMuWibmMDp8aKMTiDc8bPpFgtSMZ-XXU/view)
+	- **mathematicts literacy** · 8 files · [Drive](https://drive.google.com/drive/folders/1MNSrgR3nYX4Som-PgTmqU0fzlYyMxfX5)
+		- [Mathematical Literacy Textbook (1).pdf](https://drive.google.com/file/d/1vhFR9v2UPdyr0AkJhdsj3qJPBhh3Du_t/view)
+		- [Mathematical Literacy Assessment Skills.pdf](https://drive.google.com/file/d/1-KeUyDqoZ74Cx9WvLwYNnHVmclNbqUz2/view)
+		- [Mathematical Literacy Assessment  Matric College.pdf](https://drive.google.com/file/d/11jzxZfTUm-TN1yRjjXbxg296Mqit9Cte/view)
+		- [Mathematical Literacy Assessment  Bellview.pdf](https://drive.google.com/file/d/1ThLYnE5KLVrVa_nYlBQdYUQyeCyA_S3l/view)
+		- [Mathematical Literacy V1.png](https://drive.google.com/file/d/1N0x2jtZs8y1iDShpkri4s8AFcqPmjbSz/view)
+		- [Mathematical Literacy for Adult Matric Textbook Back Cover.png](https://drive.google.com/file/d/1Gs6KbXeaG2jJHGN-qGWzDUhXeE5Q--fM/view)
+		- [Mathematics Literacy Grade 12.pdf](https://drive.google.com/file/d/1U3B4dOJ_Nl5_D1H6gtK5mGWmOz5nzzX9/view)
+		- [Mathematical Literacy GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1WevrrzhNL3fZNzy-7CXEDeGwkIOGWjxV/view)
+	- **NEW EKONOMIE** · 8 files · [Drive](https://drive.google.com/drive/folders/1_1c1W5x6mTvPr_9I4aZbQeaOvG9ylr9m) [[Public Folder/Subjects/Ekonomie|◆ Ekonomie]]
+		- [Ekonomie  Textbook (1).pdf](https://drive.google.com/file/d/1bWp1MxrACwpLQoTrxeh0zIwPtd6JoD-a/view)
+		- [Ekonomiese vir Volwasse Matriek Textbook Back Cover V1.png](https://drive.google.com/file/d/1ccmuBmHDxG3h3w-8z-bB6YMtFPH6dv8t/view)
+		- [Ekonomie Front Cover V3.png](https://drive.google.com/file/d/1bNIGQghdxzGwf8Ab2YkdNbFoMbzCqjWN/view)
+		- [Ekonomie Assesseringsgids - Matric College.pdf](https://drive.google.com/file/d/1MgO5ZMUrzxXeD8fahJ5UX02SJBKV_g0O/view)
+		- [Ekonomie Assesseringsgids - Bellview.pdf](https://drive.google.com/file/d/1tF5yUll-r6cdk6Ss3UQLUlwfDYOxRoLF/view)
+		- [Ekonomie-Mind-the-Gap.pdf](https://drive.google.com/file/d/1Wqe_aQzHF2sTvxfG6XKDZZNYcFiUbMmg/view)
+		- [Ekonomie Assesseringsgids skills.pdf](https://drive.google.com/file/d/1H1j5xunM9cguvFQBVI1vcxD5DFzppWeS/view)
+		- [Ekonomie Internal Exam.pdf](https://drive.google.com/file/d/1E2Kl5ICO_B6-WrM8S2bICCGKR3SBzUBK/view)
+	- **New Religion (Updated)** · 4 files · [Drive](https://drive.google.com/drive/folders/1AhfE7xaQLjqHpx00O6bvIpy5aphk_VMn) [[Public Folder/Subjects/Religion|◆ Religion]]
+		- [Religion Studies Textbook - Draft 1.pdf](https://drive.google.com/file/d/1yrfYS-zl2Frv5Rfy8Wv_synI1IS6ReLu/view)
+		- [Religion Studies for Adult Matric Textbook Back Cover V1 (1).png](https://drive.google.com/file/d/1MvkFvk5Aa4jluFU9n54pZVEe1ZfbUqZq/view)
+		- [Matric Religion Studies V4.png](https://drive.google.com/file/d/1ptRORFzYZccvSoiKT_17LBCI79KATRD1/view)
+		- [Religion Studies GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1yI0TE6H-h7b-LuthVPcIbUrLK82otCjw/view)
+	- **PHYSICAL SCIENCE GRD PART 1** · 11 files · [Drive](https://drive.google.com/drive/folders/17JkVIxWMWQNQ4u9uhJKlOmX2dBr-qNF-)
+		- [Physics Assessment Guide - Matric.pdf](https://drive.google.com/file/d/1T9zTMsQcXQ2t7luBKQZsD-o3AynOrGGb/view)
+		- [Physics Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1SiO-PZwoiOiPE1XoJKCbYNlQW73FYU3b/view)
+		- [Physics Assessment Guide - skills academy.pdf](https://drive.google.com/file/d/1qq010kbZNIrgV2v3_-bfSA7wHejGv32i/view)
+		- [Chemistry Assessment skills Guide.pdf](https://drive.google.com/file/d/1DceQH-LkndyqWqwBvWrKy-rFOW44QXVs/view)
+		- [Chemistry Assessment Guide.pdf](https://drive.google.com/file/d/1XyHTTm47dViC3fkgoQMMoqwrhIhAflc_/view)
+		- [Chemistry Assessment Guide - Bellview.pdf](https://drive.google.com/file/d/1RkmcONKTeLgiJ6sFvBvOZLeDvAXACtQU/view)
+		- [Physical Sciences GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1x90tkYj7VyEIBmjaPSfy8C9UGSa0mw0N/view)
+		- [Physics Grade 12 Part 2.pdf](https://drive.google.com/file/d/1fgh1oUmTLS9MRlLbRNku_6mh0XIPgYNk/view)
+		- [physic grade 12.pdf](https://drive.google.com/file/d/1zn7XOh98mp6gmyS40hYA78WeQgY9tXst/view)
+		- [Gr12_PhysicalSciences_Learner_Eng_Part2.pdf](https://drive.google.com/file/d/1F6xSgUAUtX-nBPTLkd5OebFUv6dX3P5c/view)
+		- [Gr12_PhysicalSciences_Learner_Eng_Part1.pdf](https://drive.google.com/file/d/1sCVBFYm2RCjr5Osl_etXagr9g9KXswQk/view)
+	- **PHYSICALL SCIENCE BOOK 2** · 1 files · [Drive](https://drive.google.com/drive/folders/1gDEGxvjtcvyiSDoA63BLMJVo6Tl4e-Kb)
+		- [Physics Grade 12 Part 2.pdf](https://drive.google.com/file/d/1-b9y24CB3h5_Jfj_FWzpm3uujzMR89lB/view)
+	- **REKENINGKUNDE** · 7 files · [Drive](https://drive.google.com/drive/folders/19L0QujxYBiRS0YSwJP4cpeJhILvFfiXJ) [[Public Folder/Subjects/Rekeningkunde|◆ Rekeningkunde]]
+		- [Rekeningkunde vir Volwasse Matriek Textbook Back Cover V1.png](https://drive.google.com/file/d/1UvVBkV_xsxJ5235nHvcm15xnXlZJ5Odj/view)
+		- [Rekeningkunde Handboek.pdf](https://drive.google.com/file/d/12XgsnAQnsGvJ_-AZwaeUFcLsV7rFmdUP/view)
+		- [Rekeningkunde Front Cover V2.png](https://drive.google.com/file/d/1X-IyVNSzkrmL67Rt4MtuDso6q1dqnoOw/view)
+		- [Rekeningkunde Assesseringsgids - Skills Academy.pdf](https://drive.google.com/file/d/1pMSRVT8WmXVZg7Zjcz891kD6f-yu8wXu/view)
+		- [Rekeningkunde Assesseringsgids - Matric.pdf](https://drive.google.com/file/d/1876ThzbkzS6SRBFTh3y91Bb1Tz7XRCEO/view)
+		- [Rekeningkunde Assesseringsgids - Bellview.pdf](https://drive.google.com/file/d/1Fw_UqkM8DxaE1ZRZHM5x93akOlin5BUW/view)
+		- [1a MTG rekeingkunde AF 18 Sept 2014.pdf](https://drive.google.com/file/d/1aeDBkkAVcO9GyAH3kQ_WUdB1LaDiqlz2/view)
+	- **WISKUNDE** · 7 files · [Drive](https://drive.google.com/drive/folders/199BqUxWmpXDNWmTScj-p1xipQETnIiJ9) [[Public Folder/Subjects/Wiskunde|◆ Wiskunde]]
+		- [Wiskunde Assesseringsgids.pub - Skills.pdf](https://drive.google.com/file/d/1eHAWu-zQFNB0yGvTxxE5ZAbushO2yNEI/view)
+		- [Wiskunde Assesseringsgids.pub - MATRIC.pdf](https://drive.google.com/file/d/1poV0KuLO0zIf2IWx0SAW2dJKmEem3jds/view)
+		- [Wiskunde Assesseringsgids.pub - bellview.pdf](https://drive.google.com/file/d/1bQjBOWsDlA8j4r9knlND9QNlQjhtlGDi/view)
+		- [MTG Wiskunde.pdf](https://drive.google.com/file/d/1GScycNdbvPerxWiE3K9kedvoshgE6wmn/view)
+		- [Gr12_Maths_Learner_Afri_Part2.pdf](https://drive.google.com/file/d/1391GVAVQAbdkOXIRoDEePpNYL891WLSs/view)
+		- [Gr12_Maths_Learner_Afri_Part1.pdf](https://drive.google.com/file/d/1k4vNzm_aqCdSePdBmBUJzcjkXB2zasVP/view)
+		- [Wiskunde Eksamenriglyne.pdf](https://drive.google.com/file/d/1EX19E8NGecn8QmM99S_E0B6lwJBhy8Zk/view)
+	- **Wiskunde Geletterdheid** · 4 files · [Drive](https://drive.google.com/drive/folders/1xpD2Tw5cRnXed2b79lkO1hUXB97qdLsG) [[Public Folder/Subjects/Wiskunde Geletterdheid|◆ Wiskunde Geletterdheid]]
+		- [Wiskundige Geletterdheid vir Volwasse Matriek Textbook Back Cover V1 (1) (1).png](https://drive.google.com/file/d/1se5vXLZ8koykIbBcU4NwFN8_la626had/view)
+		- [Wiskundige Geletterdheid Front Cover V3.png](https://drive.google.com/file/d/1XMApvaiIJTmA3wSKncHlYEocZZB0SVlT/view)
+		- [Wiskundegeleterdheid Handboek (1).pdf](https://drive.google.com/file/d/1G9ejxz4DVpTcFRcsDOjxLVO84UdXytaK/view)
+		- [MTG Wiskundige Geletterdheid.pdf](https://drive.google.com/file/d/1OPSHc_1jjiDTOc2XA-iwNb5Qj8QEeCOg/view)
+- **Study guides** · 8 files · [Drive](https://drive.google.com/drive/folders/1iSV2UvdY-bIZaJ-iPiNGRFKrwUA2gjzA)
+	- [Gr12-Agricultural-Science-Study-Guide_LR.pdf](https://drive.google.com/file/d/1tA0GpuU_UAQXIUkdCR8CSsZ6AZSanfCz/view)
+	- [Physics Grade 12 Part 2.pdf](https://drive.google.com/file/d/1p9qG8OSB42tYcfe0enqas9ojV3CjT-BD/view)
+	- [Physics Grade 12 Part 1.pdf](https://drive.google.com/file/d/15-NmlgCGUhC8eK8fZPgAmmjqpV1uluG5/view)
+	- [Mathematics Literacy Grade 12.pdf](https://drive.google.com/file/d/1UBzmWfx8JEF8u3Db8MGCcD82sCkM_Oxq/view)
+	- [Mathematics Grade 12 Study Guide.pdf](https://drive.google.com/file/d/1CV2cjO8p-rnjNQ05OnLpz3bqdGT5H2YG/view)
+	- [Geography Grade 12.pdf](https://drive.google.com/file/d/1AviGj5dTls_HKGsHAbjI3n6a6QnzcJnW/view)
+	- [Accounting Grade 12.pdf](https://drive.google.com/file/d/17AUzZf3F7q7Kh75neaiaB_PkFBGn0Xgp/view)
+	- [History Gr12 SG.pdf](https://drive.google.com/file/d/1E2UixzYv5Dk5HC1Dy-pBQ7tRa9MUaoDl/view)
+- **Study Guides African Languages 2024** · 8 files · [Drive](https://drive.google.com/drive/folders/1anwj6zRqIqhhhtlEVS-w5kVShqQAFAm0)
+	- [Gr12-Tshivenda-Study-Guide-Gr12_LR (3).pdf (1).crdownload](https://drive.google.com/file/d/1Ef4x60oKxHYtxpqKb55-6DtHzfRxPO45/view)
+	- [Gr12-Xitsonga-Study-Guide-Gr12_LR (2).pdf](https://drive.google.com/file/d/1yBe-bTIUtCC66Tyx_44FKJJpkNmNqd7F/view)
+	- [Gr12-Tshivenda-Study-Guide-Gr12_LR (3).pdf.crdownload](https://drive.google.com/file/d/12be5qTqfXiPSyAf8lnHNz8Q9PYTr5BQS/view)
+	- [Gr12-Siswati-Study-Guide-Grade-12_LR (2).pdf](https://drive.google.com/file/d/1yDbUuy0IucvKD_n6MBmvZY-vKUVXvQ22/view)
+	- [Gr12-Setswana-Study-Guide-Gr12_LR (3).pdf](https://drive.google.com/file/d/1EWBItSGla_V16ypj0ylxbDq8cMnfheXr/view)
+	- [Gr12-Sesotho-Study-Guide-Gr12_LR (2).pdf](https://drive.google.com/file/d/1FdZkjjeAbcnqKL4Eq5pgjEOV4pRfpr36/view)
+	- [Gr12-Sepedi-GRADE-12-STUDY-GUIDE_LR (2).pdf](https://drive.google.com/file/d/1zJnzrlvU0BZ0mz_Rcx_U8YqOxcMIthrC/view)
+	- [Gr12-IsiNdebele-Study-Guide-_LR (2).pdf](https://drive.google.com/file/d/1370-EFFhfBX9GvBHK1-Sqy0tUK2mvvo4/view)
+- **W Best Matric** · 10 files · [Drive](https://drive.google.com/drive/folders/1QiYss4Y_vWuZWX7O0WjYwXaHPBkhiYtw) [[Public Folder/Subjects/W Best Matric|◆ W Best Matric]]
+	- **W Best Matric** · 10 files · [Drive](https://drive.google.com/drive/folders/14rAzmr8U-DrbszqfUE85aFMCBG2fZq4g) [[Public Folder/Subjects/W Best Matric|◆ W Best Matric]]
+		- **ENGLISH HL** · 5 files · [Drive](https://drive.google.com/drive/folders/1x11Bq6kQcvYHCvW7lzso7jn-4-eMEbQZ) [[Public Folder/Subjects/English Hl|◆ English Hl]]
+			- [the_picture_of_dorian_gray.pdf](https://drive.google.com/file/d/1p8aWcIl1DFukw7Gr205atTF_VXY5hps5/view)
+			- [English HL poems.pdf](https://drive.google.com/file/d/1Li01EC9Y-g-E4Hq_Y8Hcr_jN7GZHxMM9/view)
+			- [English Home Language Poetry Analysis.pdf](https://drive.google.com/file/d/1Qrs0zhWM2H61YLL41WJYq0Na8RnX7fBG/view)
+			- [Hamlet Cover.jpg](https://drive.google.com/file/d/1fOZHFP169hMI_Z1r3MEifJFgvvECughj/view)
+			- [Dorian Gray,Cover.jpg](https://drive.google.com/file/d/1MCjnXjhbuzBcYJodnIp5rNqsNC2HXO39/view)
+		- **Life Science** · 1 files · [Drive](https://drive.google.com/drive/folders/1HK2JH-i9mytzCZtIjCD19bppHyA1Mjmo) [[Public Folder/Subjects/Life Science|◆ Life Science]]
+			- [Life Sciences GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1HoTjiXs_Re_1rHvyP4Iwdz61URbDMHWf/view)
+		- **Mathematics** · 1 files · [Drive](https://drive.google.com/drive/folders/1PcU7ATSpbyFbNcS9gEHV5MxHH8HdQPMj) [[Public Folder/Subjects/Mathematics|◆ Mathematics]]
+			- [Mathematics GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/16XStezIXUAsxf4w-UkBxAMOjVvjHYEvu/view)
+		- **mathematicts literacy** · 1 files · [Drive](https://drive.google.com/drive/folders/1SiNGRza_nMCGpV3YOnVjXjYJpDhBcdeD)
+			- [Mathematical Literacy GR 12 Exam Guidelines 2021 Eng.pdf](https://drive.google.com/file/d/1oFz9RX5iukJvalEJVWcpUeLrW5sNREvB/view)
+		- **NEW EKONOMIE** · 1 files · [Drive](https://drive.google.com/drive/folders/1Oy0y4WIAvtU1UpTs1l9T4-z6B-BGZ3jb) [[Public Folder/Subjects/Ekonomie|◆ Ekonomie]]
+			- [Ekonomie Internal Exam.pdf](https://drive.google.com/file/d/1Ob2gMIcZbPr-7cR-4I7Vbesfh2Mj573j/view)
+		- **WISKUNDE** · 1 files · [Drive](https://drive.google.com/drive/folders/1rW2DhH0dLfjAdzvv1ap7y2qbBl72XUuW) [[Public Folder/Subjects/Wiskunde|◆ Wiskunde]]
+			- [Wiskunde Eksamenriglyne.pdf](https://drive.google.com/file/d/1Gp1RQR-I5qJv-46ulr7hZyk1OI1UvSnk/view)
+- **Wiskunde** · 6 files · [Drive](https://drive.google.com/drive/folders/1ymVnzoRYJvqLBtCGk90m7GM-kX1Bv0WC) [[Public Folder/Subjects/Wiskunde|◆ Wiskunde]]
+	- [Wiskunde Assesseringsgids.pub - Skills.pdf](https://drive.google.com/file/d/1Gd4fFZR8Q1D7djfiqSZbXd_bG6obynRx/view)
+	- [Wiskunde Assesseringsgids.pub - MATRIC.pdf](https://drive.google.com/file/d/1ZiHzNzNGzyj-S_YMp-7x1CgcjSKG01Au/view)
+	- [Wiskunde Assesseringsgids.pub - bellview.pdf](https://drive.google.com/file/d/1TbeuLrD0cbcaLPhm-1tpIQY_eDfhIakE/view)
+	- [Wiskunde Eksamenriglyne.pdf](https://drive.google.com/file/d/1c7ANmIWTr3gvZa8G1xp0tQjZsg2YToh3/view)
+	- **Wiksunde textbook** · 2 files · [Drive](https://drive.google.com/drive/folders/1IoYKzb4O8bLjVhZAK4zNPpWGcwdNHclP)
+		- [Gr12_Maths_Learner_Afri_Part2.pdf](https://drive.google.com/file/d/1cqczVJVHsVHTFVoxAIxg358uJuu04j36/view)
+		- [Gr12_Maths_Learner_Afri_Part1.pdf](https://drive.google.com/file/d/1x3UnKG1A8r4NQz4jh4ff1Xl1MH_9bqGA/view)

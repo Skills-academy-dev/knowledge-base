@@ -1,0 +1,106 @@
+---
+tags: [public-folder, collection]
+branch: "New Provider"
+files: 55
+drive: https://drive.google.com/drive/folders/1Zs_XHSX8xC-M91lTzBCSEqLKH6LqhWLU
+---
+# Educare Provider Course
+
+Up: [[Public Folder/Branches/New Provider|New Provider]] · [Open in Drive](https://drive.google.com/drive/folders/1Zs_XHSX8xC-M91lTzBCSEqLKH6LqhWLU)
+
+**55 files**
+
+## Subjects here
+[[Public Folder/Subjects/Child Psychology|Child Psychology]] · [[Public Folder/Subjects/Cover|Cover]] · [[Public Folder/Subjects/Daycare Communication|Daycare Communication]] · [[Public Folder/Subjects/Educare Didactics|Educare Didactics]] · [[Public Folder/Subjects/Education|Education]]
+
+## Contents
+- **Child Health** · 9 files · [Drive](https://drive.google.com/drive/folders/1UOg89OPHYSR5DqQjRIPhjOchhsXuL8xH)
+	- [Child Health Textbook FC.pdf](https://drive.google.com/file/d/1EWpqXAtuM--z8IhGWloV4Z6nZSUGw6GI/view)
+	- [Child Health Textbook BC.pdf](https://drive.google.com/file/d/1JZPLg-hVkvauvmsI28S5aZ5-H_NJ_uWL/view)
+	- [Child Health  Textbook.pdf](https://drive.google.com/file/d/1YCKMIStX76mKMj4iglSP5fqiVG4E9h_E/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/1NVcWzrMGVjpeU7riejUWaP2m5-mIxgZM)
+		- [Child Health - Assignment 1 - Bellview.pdf](https://drive.google.com/file/d/1sOIse4dLzJLff-PAPxtIEvIDtHwyf-uk/view)
+		- [Child Health - Assignment 2 - Bellview.pdf](https://drive.google.com/file/d/1HNTBWvdwJ8Oc7d6VwH-su9ZpShz9EfgW/view)
+	- **Matric** · 2 files · [Drive](https://drive.google.com/drive/folders/1XwMHtXkuER5A5ekhaHQ1xg13JtGkKpNC)
+		- [Child Health - Assignment 2 - Matric.pdf](https://drive.google.com/file/d/10Pm2U1nl53Dhh87vj6ha7DfqXOcepdds/view)
+		- [Child Health - Assignment 1 - Matric.pdf](https://drive.google.com/file/d/1PjOn5yYCfmsM08RarF8ACtw5GpU6Dm7w/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/12LV5fd3pmPGZNWHdLmRokTJX2S1C-3H2)
+		- [Child Health - Assignment 1 - Skills Academy.pdf](https://drive.google.com/file/d/1ISSH0IZL1205sgHQAyqeEem-M8TtfS7T/view)
+		- [Child Health - Assignment 2 - Skills Academy.pdf](https://drive.google.com/file/d/1RJHNRcREReez-r-TtFNkd4bq_Gh5K_sn/view)
+- **Child Psychology** · 12 files · [Drive](https://drive.google.com/drive/folders/1iGTi07ZdpTv9fdg0nt8E7C_bhyTI2856) [[Public Folder/Subjects/Child Psychology|◆ Child Psychology]]
+	- [Child Psychology Textbook edit 1 (1).pdf](https://drive.google.com/file/d/1fZKBbDpA7qm7DumxEGlKfeX8YiR7RQzQ/view)
+	- **Bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/1E3uadjh_P_cSDXic-Cr3d6LCGyyqkWsn)
+		- **Updated Covers** · 3 files · [Drive](https://drive.google.com/drive/folders/13MyTUqMU29E7l5cARggBVisALeZN60CJ)
+			- [Child Psychology - Assignment 1 - Bellview (1).pdf](https://drive.google.com/file/d/1fQjrI8t9TPvy-g89kf7eJFUPikb2jlje/view)
+			- [Child Psychology - Assignment 2 - Bellview.pdf](https://drive.google.com/file/d/12bb93uVpH-aZqteBFPhQwJaz22duhj-q/view)
+			- [Child Psychology Study Guide Bellview.pdf](https://drive.google.com/file/d/1XEmj3UmiCF_SpSWMmI0RlXjts88VyAOw/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/1CQRSVKo8zlGt1FXRMmPBaaKmrNmVoZ1C)
+		- **Updated Covers** · 3 files · [Drive](https://drive.google.com/drive/folders/1gZhnl34Mz3wSFCOlinPENSDlCZM6-zwf)
+			- [Child Psychology-Assignment 1 Matric.pdf](https://drive.google.com/file/d/1sYnh_SvRNvAzo4I7cKtQ1SgMjnG0UehA/view)
+			- [Child Psychology-Assignment 2 Matric.pdf](https://drive.google.com/file/d/1Vhgsk1q_sP9r3dawBkaLsq-VkNzrDG30/view)
+			- [Child Psychology Study Guide Matric.pdf](https://drive.google.com/file/d/110c_ivcvSRGT8GJ7NIzfQszRxJDWbPbA/view)
+	- **Old covers** · 2 files · [Drive](https://drive.google.com/drive/folders/1De4L8oh8Qh_qEXl6K4Av1MvhcUFg_EQw)
+		- [Child Psychology - Assignment 1.pdf](https://drive.google.com/file/d/1kASfr7DSpgsqpwHDqmZhR58t2OjbYomF/view)
+		- [~$ild Psychology Textbook Front Cover Version 3 (1).docx](https://drive.google.com/file/d/1gogBoxYUdgssnYYJxGezTKfGFWVl8ban/view)
+	- **Skills Academy** · 3 files · [Drive](https://drive.google.com/drive/folders/1_p_yR4FDs6nPP4tXOeuFsuPoCSu3MPHw)
+		- **Updated covers** · 3 files · [Drive](https://drive.google.com/drive/folders/1TMofpQQMNK1wg72udoKW-tfzwAjSlzsS)
+			- [Child Psychology - Assignment 2 Skills.pdf](https://drive.google.com/file/d/1uqUT7OgXTwEiUCVJLcnLrxG4AmA819FY/view)
+			- [Child Psychology - Assignment 1 Skills.pdf](https://drive.google.com/file/d/126j3XdnH_d7yMkJYUUjgoXDS7uZDD9bd/view)
+			- [Child Psychology Study Guide Skills.pdf](https://drive.google.com/file/d/1AZSi4XF9AdPa7xII058DzGgQE-4fWMyj/view)
+- **DayCare Communication** · 7 files · [Drive](https://drive.google.com/drive/folders/1fiNUw4i_AJn-SGGyrLF6YZ-ILx8WtENN) [[Public Folder/Subjects/Daycare Communication|◆ Daycare Communication]]
+	- **Bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/1H8hwM3Gjj6AMIlZJ275g4Qq5DSjTSYeq)
+		- [Daycare Communication - Assignment 2 - Bellview.pdf](https://drive.google.com/file/d/1E-gZSABg7zcU0gkf2rlw-QfEAcOqHUHn/view)
+		- [Daycare Communication - Assignment 1 - Bellview (1).pdf](https://drive.google.com/file/d/1lnoFBYj7xlZHVmy3cwiy15KoIr1XlK2v/view)
+		- [Daycare Communication Study Guide Bellview.pdf](https://drive.google.com/file/d/1C1JCM2oQ3HsajC2AH5LlurGIMvSE5UK8/view)
+	- **Matric** · 1 files · [Drive](https://drive.google.com/drive/folders/1RkIZZAV26wf4QbFmLCax9M4df5mB3egK)
+		- [Daycare Communication Study Guide Matrtic.pdf](https://drive.google.com/file/d/1XcgnfZLoWekj4UxE8i-dGgEaOOObK3Fy/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1-oiiD6bn-u_Yk-4-uP-b013x7367wZtN)
+		- [Daycare Communication - Assignment 1 Skills.pdf](https://drive.google.com/file/d/1Vt0pt7JsFYTUSpzxSyax8DjG2unwUtGT/view)
+		- [Daycare Communication - Assignment 2 Skills.pdf](https://drive.google.com/file/d/1KQMyD92VKpw0EhEM6HtvEdwBpTYZi8zO/view)
+		- [Daycare Communication Study Guide Skills.pdf](https://drive.google.com/file/d/16irjZThK_89wdw1bEBR7qT7-mUNB7YXG/view)
+- **Daycare Management** · 7 files · [Drive](https://drive.google.com/drive/folders/18zbpjBEhYo_1ZfPQIskacfs67Ir5vJcb)
+	- [Daycare Management Textbook BC.pdf](https://drive.google.com/file/d/1H_5LBWqbkkiLgOFq5xRbCygA_DJT_pXr/view)
+	- [Daycare Management Textbook FC.pdf](https://drive.google.com/file/d/1YA_qrhHxE0jGnDHZPkJZoggUZ3aY-usm/view)
+	- [Daycare Management  Textbook.pdf](https://drive.google.com/file/d/19tnJfq1D0fRgRLoxG81iPmmy1PWL1JBx/view)
+	- **Bellview** · 2 files · [Drive](https://drive.google.com/drive/folders/16RuV8c_r2scAWn3dpwlpt7wJDbOEUq2-)
+		- **Updated Covers** · 2 files · [Drive](https://drive.google.com/drive/folders/1zinAc5u-QODPLilPBneUPpeKce5COF4F)
+			- [Daycare Management- Assignment 2 Bellview.pdf](https://drive.google.com/file/d/1vfyt-I_MkfmLEGQY_64J8lEHiO-LVuSU/view)
+			- [Daycare Management- Assignment 1 Bellview.pdf](https://drive.google.com/file/d/1yObf267Rxr-aFv4xnElNRM2XDucteETl/view)
+	- **Skills** · 2 files · [Drive](https://drive.google.com/drive/folders/1ysbtjX-B1DHcN3y8dhMuNv8PhTCyo6do)
+		- **Updated Covers** · 2 files · [Drive](https://drive.google.com/drive/folders/1D0BQyLDeLznTNOy1P35K-W2gS4-jtl0I)
+			- [Daycare Management- Assignment 1 Skills.pdf](https://drive.google.com/file/d/102LkrmHD0AgVIbGpeohPy_FKwJplmecV/view)
+			- [Daycare Management- Assignment 2 Skills.pdf](https://drive.google.com/file/d/1Kf5OjUVcnVJz_AdXXOQ3c48yWAZQoISX/view)
+- **Educare Didactics** · 8 files · [Drive](https://drive.google.com/drive/folders/1Hd4wldXsGvbDGOoyi3hYaQg7Ge2jMuMe) [[Public Folder/Subjects/Educare Didactics|◆ Educare Didactics]]
+	- [Educare Didactics Textbook (1).pdf](https://drive.google.com/file/d/1EmyxtZocaqBOlun3ErmBTyVxuvhGoTgr/view)
+	- **Bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/1RFui6nqBe_sm37PlXGLEXlujN9oHEpoF)
+		- **Updated Covers** · 3 files · [Drive](https://drive.google.com/drive/folders/1QdBTa_B2NgrOygAvyrAS4Tl_nCU6uPIJ)
+			- [Educare Didactics  - Assignment 2 - Bellview (1).pdf](https://drive.google.com/file/d/1GX7aHBSSUDEAAhSudToTFwpGpq1RocfG/view)
+			- [Educare Didactics  - Assignment 1 - Bellview (1).pdf](https://drive.google.com/file/d/1WAvfKnZMXAwrcXnfGJ3iiBb_YWJv7lWo/view)
+			- [Educare Didactics Study Guide Bellview.pdf](https://drive.google.com/file/d/12OR8D_0_2h-EtW932RMAsbaPfuvAEVp2/view)
+	- **Matric College** · 1 files · [Drive](https://drive.google.com/drive/folders/1lQJ6O8pVXbpDxHhvvqmbgGO033OInHzj)
+		- **Updated cover** · 1 files · [Drive](https://drive.google.com/drive/folders/16YRpO-CoBjBrZP44tv481-W5Tm6gwAJs) [[Public Folder/Subjects/Cover|◆ Cover]]
+			- [Educare Didactics Study Guide Matric.pdf](https://drive.google.com/file/d/1A6ommZLSkIaQAqEcgfFGvMaJU2mJ-nrA/view)
+	- **Skills** · 3 files · [Drive](https://drive.google.com/drive/folders/1c0V40sxqa9t36PXowm8EAQXYeGf8mIrP)
+		- **Updated Covers** · 3 files · [Drive](https://drive.google.com/drive/folders/1gD7DuyV3hXeDLhVlvNoJppug2PYWAVRp)
+			- [Educare Didactics  - Assignment 2 Skills.pdf](https://drive.google.com/file/d/1HdLymF9hTbZffoXKouWqHDyXqf6Xxu_R/view)
+			- [Educare Didactics  - Assignment 1 Skills.pdf](https://drive.google.com/file/d/1M4SWzGc0my_aVHCNlH_oeyZxM7016AJC/view)
+			- [Educare Didactics Study Guide Skills.pdf](https://drive.google.com/file/d/1WE_l2WgCtUwJmlJklgEHkeNcGqueQSCe/view)
+- **Education** · 12 files · [Drive](https://drive.google.com/drive/folders/18q6vGb1lWd6CMnWON06pKXGSZVwW-qWG) [[Public Folder/Subjects/Education|◆ Education]]
+	- [Education Textbook FC.pdf](https://drive.google.com/file/d/1yKaFZ8H5egsfY6YTe8EgdhlfqMLzOLPL/view)
+	- [Education Textbook BC.pdf](https://drive.google.com/file/d/15op8QR_QijqdLr9iQMzCS3OwIys1rFsg/view)
+	- [Education Textbook .pdf](https://drive.google.com/file/d/1R8oGr7EPaBufJ3T6Yeds0li7f3dwOCXA/view)
+	- **Bellview** · 3 files · [Drive](https://drive.google.com/drive/folders/1TBIV4tUOQSk_NiEfQfTeHZwNPYbzu3D5)
+		- **Updated Covers** · 3 files · [Drive](https://drive.google.com/drive/folders/1jBKkyB3u2ar6-nAp992hh3veBiD2CI_Y)
+			- [Education - Assignment 2 - Bellview.pdf](https://drive.google.com/file/d/1EW1UuPf-qNl-1d8YsDQJreNk8AwBoySL/view)
+			- [Education - Assignment 1- Bellview.pdf](https://drive.google.com/file/d/1svz4ZzIEO0lMMAFbGtpvDEiPFSQ_bY4K/view)
+			- [Education Study Guide Bellview.pdf](https://drive.google.com/file/d/1dN7LyJavNq2PEqOrSzVfXh6XXO2FbE0v/view)
+	- **Matric** · 3 files · [Drive](https://drive.google.com/drive/folders/1oRgIRhOX5ucjqWtXvDNcHJsloL9-VHb0)
+		- **Updated Covers** · 3 files · [Drive](https://drive.google.com/drive/folders/1u7FFUeDQMZm9VyVaHXOb2RPQwaGI3v11)
+			- [Education - Assignment 2 Matric.pdf](https://drive.google.com/file/d/1Rssue0t1rDccIo3DX_bRQO1FqI0RV9vg/view)
+			- [Education - Assignment 1 Matric.pdf](https://drive.google.com/file/d/13TQCk8JWuWp75tEma2_iZ1L8ZGJy5_-2/view)
+			- [Education Study Guide Matric.pdf](https://drive.google.com/file/d/1B9XmGny0V-0ysB5YRtGwpX_OLsOy0U67/view)
+	- **Skills Academy** · 3 files · [Drive](https://drive.google.com/drive/folders/1QlGkEhmsG8YXboYrINb6nfz3TSs443uh)
+		- **Updated Covers** · 3 files · [Drive](https://drive.google.com/drive/folders/1k1ywF8FZ60_AuSR2BaRGqk_pt5QseJ93)
+			- [Education - Assignment 2 Skills.pdf](https://drive.google.com/file/d/1MhYDyUAGDG5z7N9KJuU9wTih6zyw7v7h/view)
+			- [Education - Assignment 1 Skills.pdf](https://drive.google.com/file/d/15zvPjLcsZGMf-g_cMXhxCxwiUxOWAN--/view)
+			- [Education Study Guide Skills.pdf](https://drive.google.com/file/d/1V-q2tHU0z2LcvK1V-xDqOVITC78x-3Ih/view)

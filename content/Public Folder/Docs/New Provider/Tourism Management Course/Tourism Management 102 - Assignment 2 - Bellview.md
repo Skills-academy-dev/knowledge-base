@@ -1,0 +1,464 @@
+---
+tags: [public-folder, document]
+source: "Tourism Management 102  - Assignment 2 - Bellview.pdf"
+format: pdf
+drive: https://drive.google.com/file/d/1nakVprPB5aWGLgEZT3Hxkh2QpGHcwjpc/view
+branch: "New Provider"
+---
+# Tourism Management 102  - Assignment 2 - Bellview.pdf
+
+Up: [[Public Folder/Collections/New Provider/Tourism Management Course|Tourism Management Course]] · Subjects: [[Public Folder/Subjects/Provider|Provider]] · [[Public Folder/Subjects/Tourism Management 102|Tourism Management 102]]
+Location: New Provider › Tourism Management Course › Tourism Management 102 · [Open original in Drive](https://drive.google.com/file/d/1nakVprPB5aWGLgEZT3Hxkh2QpGHcwjpc/view)
+
+---
+
+Tourism Management 102
+Assignment 2
+2024
+
+Tourism Management 102
+Assignment 2
+© All rights reserved. No part of this publication may be reproduced, stored in a retrieval
+system, or transmitted in any form or by any means, electronic, photocopying, recording,
+or otherwise, without the prior written permission of the copyright holder or in accordance
+with the provisions of the Copyright Act, 1978 [as amended]. Any person who commits
+any unauthorised act in relation to this publication may be liable for criminal prosecution
+and civil claims for damages.
+Publishing History:
+First Edition: 2024
+Published by
+Bellview Institute
+Unit 53B Mega Park
+Bellville South
+Cape Town
+It is illegal to photocopy any pages of this book
+without the written permission of the copyright holder.
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 2
+
+TABLE OF CONTENTS
+BELLVIEW INSTITUTE CONTACT INFORMATION ..................................................... 4
+INSTRUCTIONS ........................................................................................................... 5
+ASSIGNMENT 2 ............................................................................................................ 6
+ANSWER SHEET ........................................................................................................ 20
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 3
+
+BELLVIEW INSTITUTE CONTACT INFORMATION
+We are here to support you every step of the way! Please contact our friendly
+student support department with any questions you may have.
+Telephone number: 021 838 8290
+Email address: support@bellview.co.za
+If you need to courier any assignments, assessments or subject test (if applicable)
+to us or wish to visit our offices then you can find us at:
+Address: Bellview Institute of Distance Learning, Unit 53B Mega Park, Bellville South,
+Cape Town
+To submit your assignments, assessments, or subject tests (if applicable), please
+email them to:
+Email Address: tutor@bellview.co.za
+For any queries you may have regarding finance, contact our exceptional student
+financial support department.
+Telephone number: 021 838 8290
+Email address: support@bellview.co.za
+If you need to make a payment or set up a debit order, please make sure to use the
+banking details below.
+Name: Bellview Institute of Distance Learning
+Bank: First National Bank (FNB)
+Branch Code: 210655
+Account Type: Platinum Business Account
+Account Number: 62596478589
+Reference: Use Your STUDENT NUMBER as Reference
+Remember to always have your student
+number ready when contacting Bellview
+Institute of Distance Learning.
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 4
+
+INSTRUCTIONS
+1. Read all the questions carefully.
+2. Number the answers according to the numbering system used in this question paper.
+3. Write neatly and legibly.
+4. Answer all questions.
+5. Use the answer sheets provided .
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 5
+
+ASSIGNMENT 2
+1. Which of the following is considered a direct economic benefit of tourism?
+A. Infrastructure development
+B. Environmental degradation
+C. Increase in crime rates
+D. Job creation
+2. What is meant by the economic multiplier effect in tourism?
+A. The initial spending by tourists
+B. The total revenue generated from tourism
+C. The additional economic activity generated from tourism spending
+D. The decrease in economic activity due to tourism
+3. Which method is commonly used to measure the economic impact of tourism?
+A. Surveys and questionnaires
+B. Satellite accounts
+C. Visitor counts
+D. Media analysis
+4. What is economic leakage in tourism?
+A. Money that leaves the local economy
+B. Money spent by tourists
+C. Additional tourist spending
+D. Investment in local infrastructure
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 6
+
+5. Which of the following best describes indirect economic impacts of tourism?
+A. Direct tourist spending on local businesses
+B. Government spending on tourism marketing
+C. Increased household spending from tourism income
+D. Investment in tourism infrastructure
+6. What is the primary purpose of measuring the economic impact of tourism?
+A. To decrease tourism activities
+B. To understand the benefits and costs associated with tourism
+C. To promote only luxury tourism
+D. To restrict tourist arrivals
+7. What is a common measure of the economic impact of tourism on a regional basis?
+A. Gross Domestic Product (GDP)
+B. Tourism Multiplier
+C. Economic Leakage
+D. Employment rates
+8. Which factor is NOT a benefit of tourism?
+A. Job creation
+B. Economic diversification
+C. Cultural exchange
+D. Environmental degradation
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 7
+
+9. How does tourism contribute to economic growth?
+A. By decreasing local employment
+B. By increasing local tax revenue
+C. By reducing the need for infrastructure development
+D. By creating environmental challenges
+10. What is an induced economic impact in tourism?
+A. Direct tourist spending
+B. Investment in tourism infrastructure
+C. Household spending generated by tourism income
+D. Government spending on tourism marketing
+11. What does responsible tourism management aim to achieve?
+A. Maximising tourist arrivals
+B. Preserving the environment for future generations
+C. Increasing tourism revenue
+D. Reducing tourism costs
+12. Which of the following is NOT a reason for managing tourism responsibly?
+A. Enhancing local communities
+B. Maximising short-term profits
+C. Reducing environmental impacts
+D. Promoting cultural heritage
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 8
+
+13. What is a key benefit of managing tourism responsibly?
+A. Decreased operational costs
+B. Improved public image and reputation
+C. Increased competition
+D. Higher tourist numbers
+14. Which initiative can promote responsible tourism management?
+A. Reducing employee wages
+B. Overbuilding tourist facilities
+C. Implementing sustainable practices
+D. Ignoring local culture
+15. What is meant by the term 'carrying capacity' in tourism?
+A. The maximum number of tourists a destination can accommodate without nega-
+tive effects
+B. The total revenue generated by tourism
+C. The amount of money tourists are willing to spend
+D. The number of jobs created by tourism
+16. Which practice does NOT align with responsible tourism?
+A. Supporting local businesses
+B. Preserving natural resources
+C. Engaging in mass tourism without regulations
+D. Educating tourists on local culture
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 9
+
+17. What is one of the strategic approaches to managing tourism responsibly?
+A. Short-term planning
+B. Ignoring environmental laws
+C. Sustainable development
+D. Maximising tourist spending
+18. How can tourism businesses contribute to responsible tourism?
+A. By minimising operational costs
+B. By increasing tourist numbers
+C. By adopting eco-friendly practices
+D. By ignoring local community needs
+19. Which of the following is an example of a responsible tourism practice?
+A. Building large resorts in protected areas
+B. Encouraging cultural exploitation
+C. Promoting sustainable tourist activities
+D. Reducing the involvement of local communities
+20. What is the main goal of sustainable tourism?
+A. Maximising profits at any cost
+B. Ensuring long-term economic, environmental, and social sustainability
+C. Reducing tourism-related employment
+D. Limiting tourist arrivals
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 10
+
+21. What is sport tourism?
+A. Tourism focused on visiting museums
+B. Tourism that involves travelling to participate in or watch sporting events
+C. Tourism that only includes water sports
+D. Tourism that involves cultural festivals
+22. Which of the following is a component of sport tourism?
+A. Shopping malls
+B. Historical sites
+C. Sporting events
+D. Amusement parks
+23. What is the significance of sport mega-events in tourism?
+A. They have little to no economic impact
+B. They can generate substantial economic benefits and global recognition for the
+host destination
+C. They primarily attract local visitors
+D. They are mainly focused on small-scale sports
+24. Which of the following is NOT a legacy of sport tourism events?
+A. Improved infrastructure
+B. Increased local employment
+C. Decreased international cooperation
+D. Enhanced global image
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 11
+
+25. What is meant by leverage in sport tourism?
+A. Reducing costs for event organisers
+B. Maximising the positive impacts of sport tourism events for the host community
+C. Increasing ticket prices for sporting events
+D. Limiting community involvement
+26. Which of the following is a current issue in sport tourism?
+A. Environmental sustainability
+B. Decreasing interest in sports
+C. Lack of sporting events
+D. Reduced media coverage
+27. How can sport tourism contribute to environmental sustainability?
+A. By increasing waste production
+B. By promoting green practices and awareness among participants and spectators
+C. By focusing solely on economic gains
+D. By ignoring environmental regulations
+28. What is an example of a sport tourism niche area?
+A. Adventure tourism
+B. Culinary tourism
+C. Golf tourism
+D. Space tourism
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 12
+
+29. Which of the following is a benefit of hosting sport mega-events?
+A. Increased local pollution
+B. Higher traffic congestion
+C. Enhanced tourism infrastructure
+D. Reduced cultural exchange
+30. What is a critical factor for the success of sport tourism events?
+A. Minimal community involvement
+B. Effective marketing and promotion
+C. High ticket prices
+D. Limited media coverage
+31. Which of the following is a key trend in the future of tourism?
+A. Decrease in global travel
+B. Rise of sustainable and eco-friendly tourism
+C. Reduction in technological advancements
+D. Decline in cultural tourism
+32. What is a significant factor shaping future tourism trends?
+A. Stagnant technology
+B. Increased travel restrictions
+C. Global economic growth
+D. Decreased social media usage
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 13
+
+33. Which of the following best describes a travel pattern trend?
+A. Increased interest in remote work locations
+B. Decline in domestic tourism
+C. Reduction in adventure travel
+D. Less interest in cultural experiences
+34. What is a likely future trend in tourism?
+A. Less emphasis on health and wellness tourism
+B. Growth of virtual reality travel experiences
+C. Decreased use of technology in travel planning
+D. Reduced focus on personalised travel experiences
+35. Which external factor can significantly influence future tourism trends?
+A. Technological advancements
+B. Declining global population
+C. Reduced internet connectivity
+D. Decreased environmental awareness
+36. What is a trend that is expected to impact regional travel patterns?
+A. Decreased airline connectivity
+B. Growth of short-term rentals and home-sharing platforms
+C. Reduction in budget travel options
+D. Decline in travel apps usage
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 14
+
+37. How might social media shape future tourism trends?
+A. By reducing travel planning efficiency
+B. By providing a platform for travel inspiration and sharing experiences
+C. By limiting access to travel information
+D. By decreasing interest in international travel
+38. What is a possible outcome of increasing environmental awareness in tourism?
+A. Decreased interest in eco-tourism
+B. Growth of sustainable tourism practices
+C. Reduction in environmental regulations
+D. Less investment in green technologies
+39. Which of the following describes a trend in tourism technology?
+A. Decline in mobile app usage
+B. Increased use of artificial intelligence for travel planning
+C. Less reliance on digital payments
+D. Reduction in online booking platforms
+40. What is a future trend in tourism related to health and wellness?
+A. Decreased demand for wellness retreats
+B. Increased focus on health and wellness travel
+C. Reduction in medical tourism
+D. Less interest in fitness tourism
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 15
+
+41. Which of the following factors could shape the future of tourism in South Africa?
+A. Decreased international interest
+B. Enhanced safety and security measures
+C. Reduction in cultural heritage preservation
+D. Less government support for tourism
+42. What is a likely trend in global travel patterns?
+A. Decline in solo travel
+B. Growth of multi-generational travel
+C. Decreased demand for luxury travel
+D. Less focus on experiential travel
+43. How might advancements in transportation affect future tourism trends?
+A. Increased travel times
+B. Growth of high-speed rail and electric vehicles
+C. Reduction in travel efficiency
+D. Decreased innovation in transportation
+44. What is an emerging trend in accommodation options?
+A. Decrease in boutique hotels
+B. Rise of eco-friendly and sustainable lodging
+C. Less emphasis on unique experiences
+D. Reduction in tech-enabled accommodation
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 16
+
+45. Which of the following is a future trend in tourism marketing?
+A. Decreased use of influencer marketing
+B. Increased use of personalised marketing strategies
+C. Less focus on digital advertising
+D. Reduction in content marketing
+46. How might the future of tourism be shaped by economic factors?
+A. Reduced investment in tourism infrastructure
+B. Increased disposable income and spending on travel
+C. Decreased tourism revenue
+D. Less focus on tourism development
+47. What is a potential trend in cultural tourism?
+A. Decline in interest in cultural experiences
+B. Growth of immersive cultural experiences
+C. Reduction in heritage tourism
+D. Less focus on local traditions
+48. Which external factor could pose a challenge to future tourism growth?
+A. Stable political environments
+B. Economic downturns and recessions
+C. Advancements in technology
+D. Increased global connectivity
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 17
+
+49. What is an expected trend in global tourism destinations?
+A. Decrease in emerging destinations
+B. Growth of lesser-known and off-the-beaten-path destinations
+C. Reduced interest in established tourist hotspots
+D. Less investment in destination marketing
+50. How might demographic changes influence future tourism trends?
+A. Decreased focus on senior travel
+B. Increased travel among younger generations
+C. Less emphasis on family travel
+D. Reduced demand for accessible travel options
+(50 x 2)
+(100 marks)
+GRAND TOTAL: 100 MARKS
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing 18
+
+Assignment 2
+Subject: Tourism Management 102
+Full Name and Surname: …………………………………………………………………………………..
+Student Number: ……………………………………………………………………………………………
+ID Number: …………………………………………………………………………………………………..
+Declaration
+I hereby declare that the attached assignment/ assessment/ project is my own work, that I have
+not copied the whole, or any part from any source, whatsoever, and where I have referred to any
+existing work verbatim or otherwise, I have acknowledged and fully referenced the source that I
+have utilised. I further understand that if I am suspected of plagiarism or any other form of
+cheating, disciplinary action will be instituted against me. This in turn will lead to me being
+expelled from the institution.
+Signature: _______________________ Date: ______________________________
+Make sure that your assignment is ready for submission by checking these boxes:
+I have written neatly and clearly
+I have stapled all the pages together
+I have numbered all the pages
+I have made a backup copy of my assignment
+My account is up to date
+Comments from subject expert:
+My Result:
+%
+Percentage:
+
+ANSWER SHEET
+Tourism Management 102
+
+Assignment 2
+Question
+Choose only one option per row   √
+number
+|     | A   | B   | C   | D   |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+| 2   |     |     |     |     |
+| 3   |     |     |     |     |
+| 4   |     |     |     |     |
+| 5   |     |     |     |     |
+| 6   |     |     |     |     |
+| 7   |     |     |     |     |
+| 8   |     |     |     |     |
+| 9   |     |     |     |     |
+| 10  |     |     |     |     |
+| 11  |     |     |     |     |
+| 12  |     |     |     |     |
+| 13  |     |     |     |     |
+| 14  |     |     |     |     |
+| 15  |     |     |     |     |
+| 16  |     |     |     |     |
+| 17  |     |     |     |     |
+| 18  |     |     |     |     |
+| 19  |     |     |     |     |
+| 20  |     |     |     |     |
+| 21  |     |     |     |     |
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing
+20
+
+Question
+Choose only one option per row   √
+number
+|     | A   | B   | C   | D   |
+| --- | --- | --- | --- | --- |
+| 22  |     |     |     |     |
+| 23  |     |     |     |     |
+| 24  |     |     |     |     |
+| 25  |     |     |     |     |
+| 26  |     |     |     |     |
+| 27  |     |     |     |     |
+| 28  |     |     |     |     |
+| 29  |     |     |     |     |
+| 30  |     |     |     |     |
+| 31  |     |     |     |     |
+| 32  |     |     |     |     |
+| 33  |     |     |     |     |
+| 34  |     |     |     |     |
+| 35  |     |     |     |     |
+| 36  |     |     |     |     |
+| 37  |     |     |     |     |
+| 38  |     |     |     |     |
+| 39  |     |     |     |     |
+| 40  |     |     |     |     |
+| 41  |     |     |     |     |
+| 42  |     |     |     |     |
+| 43  |     |     |     |     |
+| 44  |     |     |     |     |
+| 45  |     |     |     |     |
+| 46  |     |     |     |     |
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing
+21
+
+Question
+Choose only one option per row   √
+number
+|     | A   | B   | C   | D   |
+| --- | --- | --- | --- | --- |
+| 47  |     |     |     |     |
+| 48  |     |     |     |     |
+| 49  |     |     |     |     |
+| 50  |     |     |     |     |
+Tourism Management 102 | Assignment 2 | Bellview Institute Publishing
+22
